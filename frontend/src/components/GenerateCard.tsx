@@ -11,24 +11,26 @@ type GenerateCardProps = {
 };
 
 export function GenerateCard({ pdfId, pageDefaults, onComplete }: GenerateCardProps) {
-  const [pageStart, setPageStart] = useState<string>(pageDefaults?.start?.toString() ?? "");
-  const [pageEnd, setPageEnd] = useState<string>(pageDefaults?.end?.toString() ?? "");
   const [numQuestions, setNumQuestions] = useState("10");
   const [difficulty, setDifficulty] = useState<"easy" | "medium" | "hard">("medium");
+
+  // Automatically use page defaults from Step 1
+  const pageStart = pageDefaults?.start ?? 1;
+  const pageEnd = pageDefaults?.end ?? 1;
 
   const mutation = useMutation({
     mutationFn: () =>
       generateMCQs({
         pdfId: pdfId!,
-        pageStart: Number(pageStart),
-        pageEnd: Number(pageEnd),
+        pageStart,
+        pageEnd,
         numQuestions: Number(numQuestions),
         difficulty,
       }),
     onSuccess: (data) => onComplete(data.mcqs),
   });
 
-  const disabled = !pdfId || !pageStart || !pageEnd || mutation.isPending;
+  const disabled = !pdfId || !pageDefaults || mutation.isPending;
 
   return (
     <section className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
@@ -40,29 +42,18 @@ export function GenerateCard({ pdfId, pageDefaults, onComplete }: GenerateCardPr
         </p>
       </header>
 
-      <div className="grid gap-4 md:grid-cols-4">
+      {pageDefaults && (
+        <div className="mb-4 rounded-lg bg-slate-50 p-3 text-sm text-slate-600">
+          <p>
+            Using pages <span className="font-semibold text-slate-900">{pageStart}</span> to{" "}
+            <span className="font-semibold text-slate-900">{pageEnd}</span> from uploaded PDF
+          </p>
+        </div>
+      )}
+
+      <div className="grid gap-4 md:grid-cols-2">
         <label className="flex flex-col gap-1 text-sm font-medium text-slate-700">
-          Page start
-          <input
-            type="number"
-            value={pageStart}
-            min={1}
-            onChange={(e) => setPageStart(e.target.value)}
-            className="rounded-lg border border-slate-200 px-3 py-2 shadow-inner focus:border-brand-500 focus:ring-2 focus:ring-brand-100"
-          />
-        </label>
-        <label className="flex flex-col gap-1 text-sm font-medium text-slate-700">
-          Page end
-          <input
-            type="number"
-            value={pageEnd}
-            min={1}
-            onChange={(e) => setPageEnd(e.target.value)}
-            className="rounded-lg border border-slate-200 px-3 py-2 shadow-inner focus:border-brand-500 focus:ring-2 focus:ring-brand-100"
-          />
-        </label>
-        <label className="flex flex-col gap-1 text-sm font-medium text-slate-700">
-          Questions
+          Number of Questions
           <input
             type="number"
             value={numQuestions}

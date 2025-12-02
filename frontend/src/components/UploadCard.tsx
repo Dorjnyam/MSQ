@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, ChangeEvent } from "react";
 import { useMutation } from "@tanstack/react-query";
 import { uploadPdf, UploadResponse } from "../lib/api";
 
@@ -43,7 +43,7 @@ export function UploadCard({ onSuccess }: UploadCardProps) {
             min={1}
             placeholder="e.g. 45"
             value={startPage}
-            onChange={(e) => setStartPage(e.target.value)}
+            onChange={(e: ChangeEvent<HTMLInputElement>) => setStartPage(e.target.value)}
             className="rounded-lg border border-slate-200 px-3 py-2 text-base shadow-inner focus:border-brand-500 focus:ring-2 focus:ring-brand-100"
           />
         </label>
@@ -54,7 +54,7 @@ export function UploadCard({ onSuccess }: UploadCardProps) {
             min={1}
             placeholder="e.g. 65"
             value={endPage}
-            onChange={(e) => setEndPage(e.target.value)}
+            onChange={(e: ChangeEvent<HTMLInputElement>) => setEndPage(e.target.value)}
             className="rounded-lg border border-slate-200 px-3 py-2 text-base shadow-inner focus:border-brand-500 focus:ring-2 focus:ring-brand-100"
           />
         </label>
@@ -64,7 +64,7 @@ export function UploadCard({ onSuccess }: UploadCardProps) {
         <input
           type="file"
           accept=".pdf"
-          onChange={(e) => setFile(e.target.files?.[0] ?? null)}
+          onChange={(e: ChangeEvent<HTMLInputElement>) => setFile(e.target.files?.[0] ?? null)}
           className="text-sm"
         />
         <button
@@ -87,8 +87,8 @@ export function UploadCard({ onSuccess }: UploadCardProps) {
           <p className="font-semibold text-slate-900">Processed successfully!</p>
           <p>PDF ID: {mutation.data.pdf_id}</p>
           <p>
-            Ingested pages: {mutation.data.ingested_range?.start_page ?? startPage || 1}-
-            {mutation.data.ingested_range?.end_page ?? endPage || mutation.data.total_pages}
+            Ingested pages: {(mutation.data.ingested_range?.start_page ?? startPage) || 1}-
+            {(mutation.data.ingested_range?.end_page ?? endPage) || mutation.data.total_pages}
           </p>
         </div>
       )}
