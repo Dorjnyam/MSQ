@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What primarily defines the overall goals for effective document design?",
+      "question_mn": "Үр дүнтэй баримт бичгийн дизайны ерөнхий зорилгыг юу голчлон тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Effective use of headers and introductions for navigation and context.",
+          "text_mn": "Гарчиг, удиртгалыг чиглүүлэг болон агуулгыг ойлгуулахын тулд үр дүнтэй ашиглах нь.",
+          "is_correct": false,
+          "source": "Page 304-305",
+          "explanation": "While important design elements, headers and introductions are tools to achieve goals, not the source of the overall goals themselves."
+        },
+        {
+          "id": "B",
+          "text_en": "Visual cues like bolding, italics, and screen labels for key information.",
+          "text_mn": "Чухал мэдээллийг тодруулахын тулд тод үсэг, налуу үсэг, дэлгэцийн шошго зэрэг харагдах тэмдгүүд.",       
+          "is_correct": false,
+          "source": "Page 304-305",
+          "explanation": "Visual cues are effective techniques for emphasizing information, but they are tactical design choices, not the strategic origin of a document's overall goals."
+        },
+        {
+          "id": "C",
+          "text_en": "User analysis, by identifying specific user needs and workplace tasks.",
+          "text_mn": "Хэрэглэгчийн шинжилгээ, тодорхой хэрэглэгчийн хэрэгцээ, ажлын даалгаврыг тодорхойлсноор.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The primary context explicitly states, \"The user analysis will suggest overall goals for your documents.\" This highlights its foundational role in defining what a document should achieve."
+        },
+        {
+          "id": "D",
+          "text_en": "Hierarchical headings and numbered steps for clear information organization.",
+          "text_mn": "Мэдээллийг тодорхой зохион байгуулахын тулд шатлалт гарчиг, дугаарласан алхамууд.",
+          "is_correct": false,
+          "source": "Page 304-305",
+          "explanation": "These are specific structural design choices that aid information clarity, but they do not define the overarching goals of the document."
+        }
+      ],
+      "concept": "User analysis informs overall goals for document design.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context clearly states, \"The user analysis will suggest overall goals for your documents.\" This indicates that understanding user needs, tasks, and behaviors through user analysis is the foundational step that defines the overarching objectives for any document design project. The other options describe specific design elements or techniques that are *used* to achieve these goals, not the source of the goals themselves.",
+      "explanation_mn": "Үндсэн контекстэд \"Хэрэглэгчийн шинжилгээ нь таны баримт бичгийн ерөнхий зорилгыг тодорхойлно\" гэж тодорхой заасан байдаг. Энэ нь хэрэглэгчийн хэрэгцээ, даалгавар, зан үйлийг хэрэглэгчийн шинжилгээгээр дамжуулан ойлгох нь баримт бичгийн дизайны аливаа төслийн ерөнхий зорилгыг тодорхойлох үндсэн алхам болохыг харуулж байна. Бусад сонголтууд нь эдгээр зорилгод хүрэхэд ашиглагддаг дизайны элементүүд эсвэл аргуудыг тайлбарласан боловч зорилгын эх үүсвэр биш юм.",
+      "question_number": 1,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What foundational principle describes the process of document design?",
+      "question_mn": "Баримт бичгийн загварчлалын үйл явцыг юуны үндсэн зарчим тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It aims to help users quickly locate and manage information efficiently.",
+          "text_mn": "Энэ нь хэрэглэгчдэд мэдээллийг хурдан олох, үр дүнтэй удирдах зорилготой.",
+          "is_correct": false,
+          "source": "Page 305, Figure 10.1 (general purpose)",
+          "explanation": "This describes a primary goal or benefit of good document design, not the definition of design itself as a sequence of stages."
+        },
+        {
+          "id": "B",
+          "text_en": "It is a sequence of stages from meeting user needs to providing a solution.",
+          "text_mn": "Энэ нь хэрэглэгчийн хэрэгцээг хангах үе шатнаас эхлэн шийдлийг гаргах хүртэлх дараалал юм.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text explicitly states: 'Think of document design as a sequence of stages beginning with a goal (meeting users’ needs) and ending with a solution (a manual and/or help).'"
+        },
+        {
+          "id": "C",
+          "text_en": "It begins with a thorough user analysis to identify workplace tasks.",
+          "text_mn": "Энэ нь ажлын байрны даалгавруудыг тодорхойлохын тулд хэрэглэгчийн нарийвчилсан дүн шинжилгээнээс эхэлдэг.",
+          "is_correct": false,
+          "source": "Page 304, Guideline 5",
+          "explanation": "User analysis is an initial stage or prerequisite, but it does not encompass the entire definition of document design as a sequence of stages ending with a solution."
+        },
+        {
+          "id": "D",
+          "text_en": "It involves creating headers, numbered steps, and screen labels for clarity.",
+          "text_mn": "Энэ нь тодорхой байдлыг хангахын тулд гарчиг, дугаарласан алхамууд, дэлгэцийн шошгуудыг үүсгэхийг хамарна.",
+          "is_correct": false,
+          "source": "Page 305, Figure 10.1",
+          "explanation": "These are specific elements or features of document design, not the overarching definition of design as a sequence of stages."
+        }
+      ],
+      "concept": "Document design is a sequence of stages from meeting user needs to providing a solution.",
+      "difficulty": "medium",
+      "explanation_en": "The text defines document design as 'a sequence of stages beginning with a goal (meeting users’ needs) and ending with a solution (a manual and/or help).' This emphasizes the entire process from identifying user needs to delivering a complete product. The other options describe specific elements, initial steps, or general goals, rather than the overarching definition of design as a staged sequence.",
+      "explanation_mn": "Эх сурвалж текстэд баримт бичгийн загварчлалыг 'хэрэглэгчийн хэрэгцээг хангах зорилгоор эхэлж, шийдлээр (гарын авлага ба/эсвэл тусламж) дуусдаг үе шатуудын дараалал' гэж тодорхойлсон байдаг. Энэ нь хэрэглэгчийн хэрэгцээг тодорхойлохоос эхлээд бүрэн бүтээгдэхүүн хүргэх хүртэлх бүх үйл явцыг онцолж байна. Бусад сонголтууд нь тодорхой элементүүд, анхны алхамууд эсвэл ерөнхий зорилгуудыг тайлбарласан бөгөөд загварчлалыг үе шаттай дараалал гэж тодорхойлсон өргөн утгыг илэрхийлэхгүй.",
+      "question_number": 2,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the primary purpose of structuring document information using elements like headers and headings?",
+      "question_mn": "Баримт бичгийн мэдээллийг гарчиг болон дэд гарчиг зэрэг элементүүдийг ашиглан бүтэцжүүлэхийн үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To present all available content in a comprehensive and exhaustive manner.",
+          "text_mn": "Бүх боломжит агуулгыг иж бүрэн, дэлгэрэнгүй байдлаар танилцуулах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The goal of structuring information is not merely to display all content exhaustively, but to organize it in a way that allows users to easily find, understand, and manage the information they need, which is distinct from simply presenting everything."
+        },
+        {
+          "id": "B",
+          "text_en": "To facilitate user navigation and understanding of the document's hierarchical information structure.",  
+          "text_mn": "Хэрэглэгчдэд баримт бичгийн шаталсан мэдээллийн бүтцийг ойлгох, чиглүүлэхэд туслах.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states that elements like headers help users 'locate information in the context' and headings help users 'see the hierarchical structure of the information,' ultimately enabling users to 'gain access to and manage information.' This directly supports the goal of meeting users' needs by making information discoverable and understandable through a clear outline."
+        },
+        {
+          "id": "C",
+          "text_en": "To simplify the authoring process and reduce content creation time.",
+          "text_mn": "Зохиогчийн ажлыг хялбаршуулж, агуулга үүсгэх хугацааг багасгах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Simplifying the authoring process is a benefit for the creator, but the core focus of user-oriented design, particularly the outline of information, is to serve the user's needs for accessing and understanding information, not primarily authoring efficiency."
+        },
+        {
+          "id": "D",
+          "text_en": "To enhance the visual appeal and aesthetic consistency of the document.",
+          "text_mn": "Баримт бичгийн харагдах байдал болон гоо зүйн нэгдмэл байдлыг сайжруулах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While good design can improve visual appeal, the primary user-oriented purpose of structural elements like headers and headings is not aesthetics but rather facilitating information access and understanding."
+        }
+      ],
+      "concept": "The outline of information is the main design element, embodying user-oriented ideas.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context emphasizes that document design starts with meeting users' needs. Elements like headers and headings are specifically described as helping users locate information, understand hierarchical structure, and ultimately gain access to and manage information. This clearly indicates that the main purpose of structuring information with these elements is to facilitate user interaction and comprehension, aligning with the concept of an information outline embodying user-oriented ideas.",
+      "explanation_mn": "Анхдагч контекст нь баримт бичгийн загварчлал нь хэрэглэгчийн хэрэгцээг хангахаас эхэлдэг болохыг онцолдог. Гарчиг, дэд гарчиг зэрэг элементүүдийг хэрэглэгчдэд мэдээллийг олох, шаталсан бүтцийг ойлгох, эцсийн эцэст мэдээлэлд нэвтрэх, удирдах боломжийг олгоход тусалдаг гэж тодорхойлсон. Энэ нь эдгээр элементүүдээр дамжуулан мэдээллийг бүтэцжүүлэхийн гол зорилго нь хэрэглэгчийн харилцан үйлчлэл, ойлголтыг хөнгөвчлөх явдал бөгөөд энэ нь хэрэглэгчдэд чиглэсэн санааг агуулсан мэдээллийн ерөнхий тойм гэсэн ойлголттой бүрэн нийцдэг.",
+      "question_number": 3,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "Which element represents a key organizational strategy for structuring program interface information?",  
+      "question_mn": "Програмын интерфэйсийн мэдээллийг бүтцэд оруулах гол зохион байгуулалтын стратеги ямар элементээр илэрхийлэгддэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Utilizing headers, headings, and visual cues to highlight key information and structure content.",       
+          "text_mn": "Гарчиг, дэд гарчиг, мөн харагдахуйц тэмдэглэгээг ашиглан гол мэдээллийг тодруулж, контентыг бүтэцжүүлэх.",
+          "is_correct": true,
+          "source": "Page 304, Figure 10.1 captions",
+          "explanation": "The primary text explicitly states that headers help users locate information, headings help users see hierarchical structure, and typographic patterns help users recognize key information. These are all crucial for structuring interface information."
+        },
+        {
+          "id": "B",
+          "text_en": "Developing detailed user analyses to determine the primary goals and scope of the documentation project.",
+          "text_mn": "Баримт бичгийн төслийн гол зорилго, хамрах хүрээг тодорхойлохын тулд хэрэглэгчийн нарийвчилсан анализыг хийх.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "While user analysis is mentioned as suggesting overall goals for documents, it is about defining *what* information is needed, not an organizational strategy for *structuring* the program interface information itself within the document."
+        },
+        {
+          "id": "C",
+          "text_en": "Providing numerous examples and scenarios to illustrate the application of each program function.",      
+          "text_mn": "Хөтөлбөрийн функц бүрийн хэрэглээг дүрслэхийн тулд олон жишээ, хувилбаруудыг өгөх.",
+          "is_correct": false,
+          "source": "Page 304, Figure 10.1",
+          "explanation": "The text mentions examples for document and screen design elements, which are helpful for illustration. However, providing examples is a content-delivery method rather than a core organizational strategy for structuring the entire body of interface information."
+        },
+        {
+          "id": "D",
+          "text_en": "Ensuring consistent font styles and color schemes throughout the document for aesthetic appeal and readability.",
+          "text_mn": "Баримт бичиг даяар нэгдмэл фонт загвар, өнгөний схемийг ашиглаж, гоо зүйн үзэмж, уншихад хялбар байдлыг хангах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "Consistency in design contributes to readability and aesthetics, but it is not the primary organizational strategy for structuring information about program interfaces to guide users through its functional hierarchy and commands."
+        }
+      ],
+      "concept": "Organizational strategies exist for structuring information about program interfaces.",
+      "difficulty": "medium",
+      "explanation_en": "The primary text emphasizes that elements such as headers, headings, numbered steps, and typographic patterns (like bold text) are crucial for helping users locate information, understand hierarchical structures, and recognize key commands and information within a manual or online help system for a program interface. This directly aligns with using these elements as an organizational strategy to structure program interface information effectively.",
+      "explanation_mn": "Анхдагч текст нь гарчиг, дэд гарчиг, дугаарласан алхамууд, мөн үсгийн загвар (жишээ нь, тод үсэг) зэрэг элементүүд нь хэрэглэгчдэд програм интерфэйсийн гарын авлага эсвэл онлайн тусламжийн систем доторх мэдээллийг олоход, шатлалт бүтцийг ойлгоход, гол тушаал, мэдээллийг танихад чухал үүрэг гүйцэтгэдэг болохыг онцолсон. Энэ нь програм интерфэйсийн мэдээллийг үр дүнтэй бүтэцжүүлэх зохион байгуулалтын стратеги болж байгаа юм.",
+      "question_number": 4,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the primary function of headers in a user manual?",
+      "question_mn": "Хэрэглэгчийн гарын авлага дахь толгой хэсгүүдийн үндсэн үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To emphasize key terms or critical instructions.",
+          "text_mn": "Гол нэр томъёо эсвэл чухал зааврыг тодотгох.",
+          "is_correct": false,
+          "source": "Primary Context (distractor based on 'bold, italics')",
+          "explanation": "This refers to the function of formatting elements like bold or italics, or specific instruction design, not the primary role of headers."
+        },
+        {
+          "id": "B",
+          "text_en": "To help users locate information within the overall structure of the manual.",
+          "text_mn": "Хэрэглэгчдэд гарын авлагын ерөнхий бүтцэд мэдээллийг олоход туслах.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The primary context explicitly states that 'Headers help users locate information in the context of an entire manual,' highlighting their role in broader document navigation."
+        },
+        {
+          "id": "C",
+          "text_en": "To introduce new sections and their workplace applications.",
+          "text_mn": "Шинэ хэсгүүд болон тэдгээрийн ажлын байран дахь хэрэглээг танилцуулах.",
+          "is_correct": false,
+          "source": "Primary Context (distractor based on 'Introductions')",
+          "explanation": "This describes the purpose of introductions or main headings for new sections, which is distinct from headers that provide continuous contextual orientation."
+        },
+        {
+          "id": "D",
+          "text_en": "To display the hierarchical structure of the content on a page.",
+          "text_mn": "Нэг хуудсан дээрх агуулгын шатлалын бүтцийг харуулах.",
+          "is_correct": false,
+          "source": "Primary Context (distractor based on 'Headings')",
+          "explanation": "This describes the function of headings, which organize information hierarchically within a section, rather than headers that provide context for the entire manual."
+        }
+      ],
+      "concept": "Headers help users locate information within the context of a manual.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states, 'Headers help users locate information in the context of an entire manual.' This function is crucial for navigation and understanding where users are within a larger document. Other options describe functions of headings, specific formatting, or introductions, which serve different purposes in document design.",    
+      "explanation_mn": "Үндсэн агуулгад \"Толгой хэсэг нь хэрэглэгчдэд гарын авлагын бүхэл бүтэн агуулгын хүрээнд мэдээллийг олоход тусалдаг\" гэж тодорхой заасан байдаг. Энэхүү үүрэг нь том хэмжээний баримт бичиг дотор чиглүүлэлт хийх, хаана байгаагаа ойлгоход чухал ач холбогдолтой. Бусад хувилбарууд нь гарчиг, тодорхой форматлалт эсвэл танилцуулгын үүргийг тодорхойлдог бөгөөд тэдгээр нь баримт бичгийн загварт өөр зорилготой.",
+      "question_number": 5,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "Which documentation element primarily helps users grasp the workplace application of specific functions?",
+      "question_mn": "Баримт бичгийн аль элемент нь хэрэглэгчдэд тодорхой функцүүдийн ажлын байран дахь хэрэглээг ойлгоход голчлон тусалдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Numbered steps guide users through sequences of commands for specific tasks.",
+          "text_mn": "Дугаарласан алхамууд нь хэрэглэгчдийг тодорхой үйлдлүүдийн командуудын дарааллаар чиглүүлдэг.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Numbered steps create clear areas for commands, focusing on the execution of tasks rather than the broader workplace application of functions."
+        },
+        {
+          "id": "B",
+          "text_en": "Introductions provide users with an understanding of functions' real-world application.",
+          "text_mn": "Танилцуулгууд нь хэрэглэгчдэд функцүүдийн бодит хэрэглээний талаарх ойлголтыг өгдөг.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "Introductions are specifically noted to help users see the workplace application of functions, providing context for how a feature is used in a real-world scenario."
+        },
+        {
+          "id": "C",
+          "text_en": "Headings outline the hierarchical structure of information for easier organization.",
+          "text_mn": "Гарчгууд нь мэдээллийн шаталсан бүтцийг тодорхойлж, зохион байгуулалтыг хялбаршуулдаг.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Headings help users see the hierarchical structure of information, aiding in organization and comprehension of content layout, not directly the application of functions."
+        },
+        {
+          "id": "D",
+          "text_en": "Headers assist users in navigating and locating information throughout the manual.",
+          "text_mn": "Гарчигууд нь хэрэглэгчдэд гарын авлагын турш мэдээлэл хайж олоход тусалдаг.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Headers help users locate information within the context of the entire manual, not primarily to understand the application of functions."
+        }
+      ],
+      "concept": "Introductions help users understand the workplace application of functions.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that 'Introductions help users see the workplace application of functions.' This means introductions serve to clarify how particular functions or features are used in a practical work setting. The other options describe different, albeit important, purposes of other document design elements.",
+      "explanation_mn": "Эхлэлийн хэсэгт 'Танилцуулга нь хэрэглэгчдэд функцүүдийн ажлын байран дахь хэрэглээг харахад тусалдаг' гэж тодорхой заасан байдаг. Энэ нь танилцуулгууд нь тодорхой функц эсвэл онцлог шинж чанарыг практик ажлын орчинд хэрхэн ашиглахыг тодруулах зорилготой гэсэн үг юм. Бусад сонголтууд нь баримт бичгийн бусад загварын элементүүдийн өөр, гэхдээ чухал зорилгуудыг тайлбарладаг.",
+      "question_number": 6,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What primary function do headings serve in document design?",
+      "question_mn": "Баримт бичгийн дизайнд гарчиг нь ямар үндсэн үүргийг гүйцэтгэдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To create clear step-by-step commands and visually distinguish key textual elements.",
+          "text_mn": "Тодорхой алхамчилсан тушаалуудыг үүсгэж, гол текстийн элементүүдийг харааны хувьд ялгах.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This describes the purpose of 'Numbered steps' and 'Styling patterns,' not the primary function of headings."
+        },
+        {
+          "id": "B",
+          "text_en": "Headings enable users to perceive the hierarchical structure and efficiently locate information within a document.",
+          "text_mn": "Гарчиг нь хэрэглэгчдэд мэдээллийн шаталсан бүтцийг ойлгож, баримт бичиг доторх мэдээллийг үр дүнтэй олоход тусалдаг.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text explicitly states that 'Headers help users locate information in the context of an entire manual' and 'Headings help users see the hierarchical structure of the information.' This highlights their crucial role in navigation and understanding document organization."
+        },
+        {
+          "id": "C",
+          "text_en": "To establish overall goals for documents based on user analysis.",
+          "text_mn": "Хэрэглэгчийн шинжилгээнд үндэслэн баримт бичгийн ерөнхий зорилгыг тогтоох.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This relates to the 'User analysis' stage of document design, not the specific function of headings themselves."
+        },
+        {
+          "id": "D",
+          "text_en": "To help users understand the workplace application of functions.",
+          "text_mn": "Хэрэглэгчдэд функцүүдийн ажлын байрны хэрэглээг ойлгоход туслах.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This function is attributed to 'Introductions' in the provided text, not headings."
+        }
+      ],
+      "concept": "Headings aid users in seeing the hierarchical structure and locating information.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states, \"Headers help users locate information in the context of an entire manual\" and \"Headings help users see the hierarchical structure of the information.\" This directly supports the idea that headings are crucial for navigation and understanding the organization of content.",
+      "explanation_mn": "Анхан шатны текстэнд \"Гарчиг нь хэрэглэгчдэд гарын авлагын хүрээнд мэдээллийг олоход тусалдаг\" болон \"Гарчиг нь хэрэглэгчдэд мэдээллийн шаталсан бүтцийг харахад тусалдаг\" гэж тодорхой заасан байдаг. Энэ нь гарчгууд нь навигаци болон агуулгын зохион байгуулалтыг ойлгоход чухал үүрэг гүйцэтгэдэг болохыг шууд нотолж байна.",
+      "question_number": 7,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the primary benefit of using numbered steps in technical documentation?",
+      "question_mn": "Техникийн баримт бичигт дугаарласан алхамуудыг ашиглахын гол ашиг тус юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They create clear and distinct areas for users to identify and execute commands.",
+          "text_mn": "Тэдгээр нь хэрэглэгчдэд тушаалуудыг тодорхойлж, гүйцэтгэхэд зориулсан тодорхой бөгөөд ялгаатай хэсгүүдийг бий болгодог.",
+          "is_correct": true,
+          "source": "PRIMARY CONTEXT",
+          "explanation": "The primary context explicitly states that 'Numbered steps create clear areas for commands.'"        
+        },
+        {
+          "id": "B",
+          "text_en": "They help users recognize key information through distinct formatting patterns.",
+          "text_mn": "Тэдгээр нь ялгаатай форматлах хэв маягаар дамжуулан хэрэглэгчдэд гол мэдээллийг танихад тусалдаг.",      
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "This describes the purpose of formatting patterns (bold, italics), not numbered steps."
+        },
+        {
+          "id": "C",
+          "text_en": "They help users locate information within the context of an entire manual.",
+          "text_mn": "Тэдгээр нь хэрэглэгчдэд гарын авлагын хүрээнд мэдээллийг олоход тусалдаг.",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "This describes the purpose of headers, not numbered steps."
+        },
+        {
+          "id": "D",
+          "text_en": "They allow users to see the hierarchical structure of the information.",
+          "text_mn": "Тэдгээр нь хэрэглэгчдэд мэдээллийн шатлалтай бүтцийг харахад тусалдаг.",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "This describes the purpose of headings, not numbered steps."
+        }
+      ],
+      "concept": "Numbered steps create clear areas for commands.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that 'Numbered steps create clear areas for commands.' This design choice ensures that actions users need to take are presented distinctly, making them easy to follow and execute. Other options relate to different document design elements like headers, headings, or formatting patterns, which serve distinct organizational or emphasis purposes.",
+      "explanation_mn": "Үндсэн контекстэд 'Дугаарласан алхамууд нь тушаалуудад зориулсан тодорхой хэсгүүдийг бий болгодог' гэж тодорхой заасан байдаг. Энэхүү дизайны сонголт нь хэрэглэгчдийн хийх шаардлагатай үйлдлүүдийг ялгаатай байдлаар танилцуулж, дагахад болон гүйцэтгэхэд хялбар болгодог. Бусад сонголтууд нь гарчиг, дэд гарчиг эсвэл форматлах загвар гэх мэт баримт бичгийн дизайны өөр элементүүдтэй холбоотой бөгөөд эдгээр нь өөр зохион байгуулалтын буюу онцлон тэмдэглэх зорилготой.",
+      "question_number": 8,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the primary function of cueing patterns like bold or italics in document design?",
+      "question_mn": "Баримт бичгийн дизайнд тод эсвэл налуу үсэг зэрэг тэмдэглэгээний хэв маягийн үндсэн үүрэг юу вэ?",       
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To establish a clear hierarchical structure for content.",
+          "text_mn": "Агуулгын тодорхой шатлалтай бүтцийг бий болгох.",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "This describes the function of headings, not cueing patterns."
+        },
+        {
+          "id": "B",
+          "text_en": "To provide clear, distinct areas for executing commands.",
+          "text_mn": "Тушаал гүйцэтгэхэд зориулсан тодорхой, ялгаатай хэсгүүдийг хангах.",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "This describes the function of numbered steps, not cueing patterns."
+        },
+        {
+          "id": "C",
+          "text_en": "To help users readily identify and recognize crucial information.",
+          "text_mn": "Хэрэглэгчдэд чухал мэдээллийг хялбархан таньж, ялгахад туслах.",
+          "is_correct": true,
+          "source": "Figure 10.1",
+          "explanation": "Cueing patterns, such as the use of bold or italics, are specifically designed to draw the user's eye to important text, enabling them to quickly identify and recognize key pieces of information."
+        },
+        {
+          "id": "D",
+          "text_en": "To aid users in locating information within a larger manual context.",
+          "text_mn": "Хэрэглэгчдэд том гарын авлагын хүрээнд мэдээлэл олоход туслах.",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "This describes the function of headers, not cueing patterns."
+        }
+      ],
+      "concept": "Cueing patterns (e.g., bold, italics) help users recognize key information.",
+      "difficulty": "medium",
+      "explanation_en": "Cueing patterns, such as the use of bold or italics, are specifically designed to draw the user's eye to important text, enabling them to quickly identify and recognize key pieces of information. The other options describe the functions of different document design elements, such as headings (hierarchical structure), numbered steps (commands), or headers (contextual location), not cueing patterns.",
+      "explanation_mn": "Тод эсвэл налуу үсэг зэрэг тэмдэглэгээний хэв маяг нь хэрэглэгчийн анхаарлыг чухал текст рүү татаж, гол мэдээллийг хурдан таньж, ялгахад тусалдаг. Бусад сонголтууд нь баримт бичгийн дизайны өөр өөр элементүүдийн үүргийг тодорхойлдог, тухайлбал гарчиг (шатлалтай бүтэц), дугаарласан алхамууд (тушаалууд), эсвэл гарчгууд (контекст доторх байршил) боловч тэмдэглэгээний хэв маягийн үүрэг биш юм.",
+      "question_number": 9,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "How do lists primarily guide users in applying program functions to workplace tasks?",
+      "question_mn": "Жагсаалтууд нь хэрэглэгчдэд програмын функцүүдийг ажлын байрны даалгавруудад ашиглахад хэрхэн голчлон чиглүүлдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "By illustrating the hierarchical structure of information within the software.",
+          "text_mn": "Програмын мэдээллийн шаталсан бүтцийг харуулах замаар.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "While headings help users see hierarchical structure, lists' primary role in applying functions to tasks is more about sequential action than structure."
+        },
+        {
+          "id": "B",
+          "text_en": "By emphasizing key terms and critical data for quick recognition.",
+          "text_mn": "Түлхүүр нэр томъёо болон чухал мэдээллийг хурдан танихын тулд онцлох замаар.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "Visual patterns like bolding or italics help users recognize key information, but this is distinct from guiding them through the application of program functions via a list of steps."
+        },
+        {
+          "id": "C",
+          "text_en": "By enabling quick location of relevant sections across the entire manual.",
+          "text_mn": "Гарын авлагын хэмжээнд холбогдох хэсгүүдийг хурдан олох боломжийг олгох замаар.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "Headers and tables of contents assist with locating information, but this is a navigation function, not directly about applying program functions to tasks."
+        },
+        {
+          "id": "D",
+          "text_en": "By providing clear, sequential commands needed to complete specific operations.",
+          "text_mn": "Тусгай үйлдлүүдийг гүйцэтгэхэд шаардлагатай тодорхой, дараалсан командуудыг өгөх замаар.",
+          "is_correct": true,
+          "source": "Figure 10.1",
+          "explanation": "The primary context, particularly Figure 10.1 and its description of 'Numbered steps create clear areas for commands,' directly illustrates how lists, specifically sequential steps, guide users through the exact commands needed to perform specific workplace tasks or operations, such as customizing Norton SystemWorks options."
+        }
+      ],
+      "concept": "Lists help users decide how to apply program functions to workplace tasks.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context, particularly Figure 10.1 and its description of 'Numbered steps create clear areas for commands,' indicates that lists, especially sequential steps, are crucial for guiding users through the exact commands needed to perform specific workplace tasks or operations. This directly helps users apply program functions effectively to achieve their goals.",
+      "explanation_mn": "Анхдагч контекст, ялангуяа Зураг 10.1 болон түүний 'Дугаарласан алхамууд нь командуудад зориулсан тодорхой хэсгүүдийг үүсгэдэг' гэсэн тайлбар нь жагсаалтууд, тэр дундаа дараалсан алхамууд нь хэрэглэгчдийг ажлын байрны тодорхой даалгавар эсвэл үйлдлүүдийг гүйцэтгэхэд шаардлагатай командуудаар удирдан чиглүүлэхэд чухал үүрэг гүйцэтгэдэг болохыг харуулж байна. Энэ нь хэрэглэгчдэд програмын функцүүдийг зорилгодоо хүрэхийн тулд үр дүнтэй ашиглахад шууд тусалдаг.",
+      "question_number": 10,
+      "page_reference": "334-378"
+    }
+  ]
+}

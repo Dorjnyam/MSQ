@@ -1,0 +1,421 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "How do graphics primarily assist users in making decisions within software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичигт график зураг хэрэглэгчийн шийдвэр гаргахад голчлон хэрхэн тусалдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "By reducing the overall amount of textual information on a page.",
+          "text_mn": "Нэг хуудсан дахь текстийн мэдээллийн хэмжээг багасгах замаар.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Although graphics can sometimes condense information, the provided text does not emphasize text reduction as the primary method by which graphics support *user decision-making* in the context of presenting options."
+        },
+        {
+          "id": "B",
+          "text_en": "By highlighting the interface elements of a program’s main screen.",
+          "text_mn": "Програмын үндсэн дэлгэцийн интерфэйсийн элементүүдийг тодруулах замаар.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While graphics can indicate interface elements, this function primarily aids in identifying parts of the program, rather than directly supporting *decision-making by presenting options* as described for Figure 13.1."
+        },
+        {
+          "id": "C",
+          "text_en": "By helping users locate and operate specific program features.",
+          "text_mn": "Хэрэглэгчдэд програмын тодорхой функцуудыг олоход болон ажиллуулахад туслах замаар.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Graphics can help users locate and operate features to meet task needs, but this is a broader use of graphics and not specifically the mechanism by which they support *decision-making through visual options*."
+        },
+        {
+          "id": "D",
+          "text_en": "By visually presenting various options, making selection easy and efficient.",
+          "text_mn": "Янз бүрийн сонголтыг харуулан, сонголтыг хялбар бөгөөд үр ашигтай болгох.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text explicitly states that graphics support user decision-making by presenting printing options or check types visually, which makes selecting the correct choice easy and efficient. This direct visual representation of choices is crucial for facilitating decisions."
+        }
+      ],
+      "concept": "Graphics support user decision-making by presenting options visually.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that graphics support user decision-making by presenting options visually, making it easier and more efficient to select the correct choice, such as printing paper or check types. This direct visual representation of choices is key to facilitating decisions.",
+      "explanation_mn": "Үндсэн контекстэд график нь сонголтуудыг дүрслэн үзүүлж, хэрэглэгчийн шийдвэр гаргахад дэмжлэг үзүүлдэг болохыг тодорхой заасан. Энэ нь хэвлэх цаас эсвэл чекний төрөл зэрэг зөв сонголтыг хялбар бөгөөд үр ашигтай сонгоход тусалдаг. Сонголтуудыг шууд дүрслэн харуулах нь шийдвэр гаргахад чухал үүрэгтэй.",
+      "question_number": 1,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "What function do graphics primarily serve when detailing a program's main screen interface?",
+      "question_mn": "Програмын үндсэн дэлгэцийн интерфэйсийг дэлгэрэнгүй харуулахад график юун түрүүнд ямар үүрэг гүйцэтгэдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To indicate and label the various interface elements of a program's main screen.",
+          "text_mn": "Програмын үндсэн дэлгэцийн интерфэйсийн төрөл бүрийн элементийг зааж, тэмдэглэх.",
+          "is_correct": true,
+          "source": "Page 406"
+        },
+        {
+          "id": "B",
+          "text_en": "To assist users in making decisions, such as selecting printing options or report types.",
+          "text_mn": "Хэрэглэгчдэд хэвлэх сонголт эсвэл тайлангийн төрлийг сонгох зэрэг шийдвэр гаргахад туслах.",
+          "is_correct": false,
+          "source": "Page 405-406"
+        },
+        {
+          "id": "C",
+          "text_en": "To enhance the overall aesthetic appeal and visual engagement of the documentation.",
+          "text_mn": "Баримт бичгийн ерөнхий гоо зүй, харагдах байдлыг сайжруулах.",
+          "is_correct": false,
+          "source": "Related Context"
+        },
+        {
+          "id": "D",
+          "text_en": "To help users locate and operate specific features within the software program.",
+          "text_mn": "Хэрэглэгчдэд програм хангамжийн доторх тодорхой функцийг олох, ажиллуулахад туслах.",
+          "is_correct": false,
+          "source": "Page 407"
+        }
+      ],
+      "concept": "Graphics are used to indicate and label interface elements of a program's main screen.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that graphics can be used 'to indicate the interface elements of a pro- gram’s main screen,' as shown in Figure 13.2. This function is a staple of reference-type documentation, helping users understand the layout and components of the software interface by labeling and visually representing them.",
+      "explanation_mn": "Эх бичигт графикийг 'програмын үндсэн дэлгэцийн интерфэйсийн элементийг заахад' ашиглаж болно гэж тодорхой заасан байдаг (Зураг 13.2-т үзүүлсэн шиг). Энэ функц нь лавлагаа хэлбэрийн баримт бичгийн чухал хэсэг бөгөөд хэрэглэгчдэд програм хангамжийн интерфэйсийн байршил, бүрэлдэхүүн хэсгүүдийг тэмдэглэн, харуулах замаар ойлгоход тусалдаг.",
+      "question_number": 2,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "What is the primary objective for incorporating effective graphics in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичигт үр дүнтэй график оруулахын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To help users easily operate program features and apply them to their tasks.",
+          "text_mn": "Хэрэглэгчдэд програмын функцуудыг хялбар ашиглаж, даалгавруудад хэрэгжүүлэхэд туслах.",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text_en": "To provide illustrations that support users in making specific program decisions.",
+          "text_mn": "Хэрэглэгчдэд програмын тодорхой шийдвэр гаргахад туслах зураглалуудыг өгөх.",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text_en": "To create a visually appealing layout with balanced white space and images.",
+          "text_mn": "Тэнцвэртэй цагаан зай болон зурагтай, нүдэнд таатай зохион байгуулалт үүсгэх.",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text_en": "To visually represent the various interface elements of the main screen.",
+          "text_mn": "Үндсэн дэлгэцийн төрөл бүрийн интерфэйсийн элементүүдийг дүрслэх.",
+          "is_correct": false
+        }
+      ],
+      "concept": "Effective graphics address user questions about program use and work application.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that graphics in documentation should support user questions like 'How can I use the program easily?' and 'How can I put the program to work?' This directly translates to helping users operate program features and apply them to their tasks. While graphics can serve other purposes like illustrating interfaces, aiding decision-making, or contributing to visual appeal, these are specific applications or design principles rather than the fundamental goal of answering core user needs about program utility and application.",
+      "explanation_mn": "Үндсэн контекстэд програм хангамжийн баримт бичиг дэх график нь 'Би програмыг хэрхэн хялбар ашиглах вэ?' болон 'Би програмыг ажилдаа хэрхэн ашиглах вэ?' гэсэн хэрэглэгчийн асуултуудад хариулах ёстойг тодорхой заасан байдаг. Энэ нь хэрэглэгчдэд програмын функцуудыг ашиглаж, даалгавруудад хэрэгжүүлэхэд туслах гэсэн үг юм. График нь интерфэйсийг дүрслэх, шийдвэр гаргахад туслах эсвэл харагдах байдалд хувь нэмэр оруулах зэрэг бусад зорилгод үйлчилдэг боловч эдгээр нь програмын ашиг тус, хэрэглээний талаарх хэрэглэгчийн үндсэн хэрэгцээнд хариулах суурь зорилго биш, харин тодорхой хэрэглээнүүд эсвэл дизайны зарчмууд юм.",
+      "question_number": 3,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "Which strategy best employs graphics to effectively support users in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичигт хэрэглэгчдийг үр дүнтэй дэмжихэд график дүрслэлийг ашиглах хамгийн сайн стратеги юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Primarily illustrating complex theoretical concepts and historical context.",
+          "text_mn": "Голчлон нарийн төвөгтэй онолын ойлголтууд болон түүхэн нөхцөл байдлыг дүрслэх.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "The context focuses on practical applications within software documentation, such as operating features and making choices, rather than illustrating abstract theoretical concepts or historical context."
+        },
+        {
+          "id": "B",
+          "text_en": "Guiding users to locate and operate features and assisting their decision-making.",
+          "text_mn": "Хэрэглэгчдэд програмын функцуудыг олж ашиглахад чиглүүлж, шийдвэр гаргахад нь туслах.",
+          "is_correct": true,
+          "source": "Page 405-407",
+          "explanation": "The primary context explicitly states that graphics should help users 'locate and act: to get to and operate the actual features of the program' and 'support user decision making,' as shown in Figure 13.1. This directly addresses practical user needs."
+        },
+        {
+          "id": "C",
+          "text_en": "Enhancing the visual appeal and breaking up dense paragraphs of information.",
+          "text_mn": "Харагдах байдлыг сайжруулж, нягт мэдээллийн хэсгүүдийг хуваах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "While graphics can improve aesthetics and readability, the core strategic purpose highlighted in the text is to directly support user tasks and decision-making, not just visual improvement."
+        },
+        {
+          "id": "D",
+          "text_en": "Replacing text entirely to create a purely visual and compact manual.",
+          "text_mn": "Зөвхөн дүрслэлээр, авсаархан гарын авлага үүсгэх зорилгоор текстийг бүрэн орлуулах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "Graphics are presented as a supportive element to help users, not as a complete replacement for textual documentation. The goal is to assist, not to eliminate all other forms of explanation."
+        }
+      ],
+      "concept": "Strategic use of graphics focuses on locating, directing user actions, explaining concepts, and illustrating examples, rather than mere decoration.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context emphasizes that graphics should support users in locating and operating program features and assist them in making decisions, such as selecting printing options. This direct utility aligns with strategic use in documentation.",
+      "explanation_mn": "Эх сурвалж нь график дүрслэл нь хэрэглэгчдэд програмын функцуудыг олж, ашиглахад туслах, мөн хэвлэх сонголтуудыг хийх зэрэг шийдвэр гаргахад нь дэмжлэг үзүүлэх ёстойг онцолсон. Энэхүү шууд ашиг тус нь баримт бичигт график дүрслэлийг стратегийн хувьд ашиглахтай нийцдэг.",
+      "question_number": 4,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "What is the foundational principle for effectively integrating graphics into software documentation?",   
+      "question_mn": "Програм хангамжийн баримт бичигт графикийг үр дүнтэй нэгтгэх үндсэн зарчим юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Ensuring graphics enhance the overall visual appeal and aesthetic quality of the interface.",
+          "text_mn": "График нь интерфэйсийн ерөнхий харагдах байдал, гоо зүйн чанарыг сайжруулахад анхаарах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While visual appeal is a consideration, the primary context emphasizes supporting user tasks and questions as the foundational principle for effective graphic use, not merely aesthetics."
+        },
+        {
+          "id": "B",
+          "text_en": "Minimizing textual explanations by substituting them with detailed graphical representations.",
+          "text_mn": "Текстийн тайлбарыг нарийвчилсан график дүрслэлээр орлуулан багасгах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Graphics can reduce text, but this is a consequence or a method, not the foundational principle for *effectiveness*. The core principle is meeting user needs and answering their questions."
+        },
+        {
+          "id": "C",
+          "text_en": "Prioritizing user questions and needs to guide the selection of appropriate graphics.",
+          "text_mn": "Хэрэглэгчийн асуулт, хэрэгцээг нэн тэргүүнд тавьж, тохирох графикийг сонгоход чиглүүлэх.",
+          "is_correct": true,
+          "source": "Page 407",
+          "explanation": "The primary context explicitly states, \"Identify Needs for Graphics by Your Users As with all elements of a well-constructed manual or online help, the graphics should support user questions: 'How can I use the program easily?' and 'How can I put the program to work?'\" This highlights that understanding and addressing user needs and questions is the foundational principle for effective graphic integration, not merely aesthetic appeal, text reduction, or interactivity."       
+        },
+        {
+          "id": "D",
+          "text_en": "Implementing interactive graphics to allow users to directly manipulate program features.",
+          "text_mn": "Хэрэглэгчдэд програмын функцуудыг шууд удирдах боломжийг олгох интерактив графикийг хэрэгжүүлэх.",       
+          "is_correct": false,
+          "source": null,
+          "explanation": "Interactivity can be a useful feature, but it's not presented as the foundational principle for *all* effective graphic integration. The text mentions static illustrations for decision making and interface elements, which are not necessarily interactive."
+        }
+      ],
+      "concept": "The process for using graphics effectively involves identifying user needs and questions, then choosing responsive graphics.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states, \"Identify Needs for Graphics by Your Users As with all elements of a well-constructed manual or online help, the graphics should support user questions: 'How can I use the program easily?' and 'How can I put the program to work?'\" This highlights that understanding and addressing user needs and questions is the foundational principle for effective graphic integration, not merely aesthetic appeal, text reduction, or interactivity.",       
+      "explanation_mn": "Үндсэн контекстэд \"Хэрэглэгчдийн графикийн хэрэгцээг тодорхойл. Сайн боловсруулсан гарын авлага, онлайн тусламжийн бусад бүх элементүүдийн нэгэн адил, график нь хэрэглэгчийн 'Би програмыг хэрхэн хялбар ашиглах вэ?', 'Би програмыг ажилд хэрхэн ашиглах вэ?' гэсэн асуултуудыг дэмжих ёстой.\" гэж тодорхой заасан байдаг. Энэ нь хэрэглэгчийн хэрэгцээ, асуултуудыг ойлгож, тэдгээрийг шийдвэрлэх нь үр дүнтэй график нэгтгэлийн үндсэн зарчим болохыг онцолж байгаа бөгөөд зөвхөн гоо зүйн үзэмж, текстийг багасгах эсвэл интерактив байдал биш юм.",
+      "question_number": 5,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "What is the most crucial consideration for effectively incorporating graphics into user documentation?", 
+      "question_mn": "Хэрэглэгчийн баримт бичигт графикийг үр дүнтэй оруулах хамгийн чухал зүйл юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Focusing on aesthetic appeal and achieving a comfortable balance of whitespace.",
+          "text_mn": "Гоо зүйн үзэмж, цагаан зайны тав тухтай тэнцвэрийг хадгалахад анхаарах.",
+          "is_correct": false,
+          "source": "Related Concept (not primary)",
+          "explanation": "While a comfortable balance of whitespace is mentioned as a screen characteristic, the text prioritizes functional support for the user's tasks and questions, not primarily aesthetic appeal, as the most crucial consideration for effective graphic use."
+        },
+        {
+          "id": "B",
+          "text_en": "Prioritizing high technical accuracy and realistic representations of functionalities.",
+          "text_mn": "Өндөр техникийн нарийвчлал, үйлдлийн бодит дүрслэлийг чухалчлах.",
+          "is_correct": false,
+          "source": "Related Concept (not primary)",
+          "explanation": "The primary context does not emphasize high technical accuracy or realism as the paramount factor for effective graphic use. Instead, it focuses on how graphics help the user perform tasks and make decisions, which may sometimes involve simplified or conceptual graphics."
+        },
+        {
+          "id": "C",
+          "text_en": "Ensuring graphics directly address user questions and support their specific task needs.",
+          "text_mn": "График нь хэрэглэгчийн асуултуудыг шууд хариулж, тэдний тодорхой даалгаврын хэрэгцээг дэмжих ёстой.",    
+          "is_correct": true,
+          "source": "Page 405, 406",
+          "explanation": "The primary context stresses that graphics must support user questions, task orientation, and decision making, requiring close attention to the user’s task needs. This implies adapting graphics to the user's specific context and understanding, which naturally encompasses their experience level."
+        },
+        {
+          "id": "D",
+          "text_en": "Primarily illustrating interface elements to identify program features comprehensively.",
+          "text_mn": "Програмын онцлогийг бүрэн тодорхойлохын тулд үндсэндээ интерфэйсийн элементүүдийг дүрслэх.",
+          "is_correct": false,
+          "source": "Related Concept (not primary)",
+          "explanation": "The text states that using graphics to indicate interface elements is 'just one of many opportunities' for graphics and a 'reference-type documentation.' It's a valid use but not presented as the *most crucial* overarching consideration for effectiveness, which is driven by user needs and tasks."
+        }
+      ],
+      "concept": "Graphics should be tailored to user experience levels, e.g., cartoons for novices, technical diagrams for experts.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that graphics should support user questions ('How can I use the program easily?') and 'task needs,' aiding in decision-making and task orientation. This foundational principle dictates that graphics must be designed with the user's specific context in mind. Different user experience levels inherently lead to different questions and task needs, making tailoring graphics to these varying requirements a crucial aspect of effective communication. Thus, by focusing on user questions and task needs, the documentation implicitly addresses the need to tailor graphics to different user experience levels.",
+      "explanation_mn": "Үндсэн контекстэд график нь хэрэглэгчийн асуултуудыг ('Програмыг хэрхэн хялбар ашиглах вэ?') дэмжиж, 'даалгаврын хэрэгцээ'-г хангах, шийдвэр гаргах, үүрэг даалгаврын чиг баримжаа олоход туслах ёстой гэж тодорхой заасан байдаг. Энэхүү суурь зарчим нь графикийг хэрэглэгчийн тодорхой нөхцөл байдалд нийцүүлэн зохиох ёстойг шаарддаг. Хэрэглэгчийн туршлагын түвшин өөр байх нь өөр өөр асуулт, даалгаврын хэрэгцээг бий болгодог тул эдгээр хувьсах шаардлагад графикийг тохируулах нь үр дүнтэй харилцааны чухал тал юм. Иймээс хэрэглэгчийн асуулт, даалгаврын хэрэгцээнд анхаарлаа хандуулснаар баримт бичиг нь графикийг хэрэглэгчийн янз бүрийн туршлагын түвшинд тохируулах шаардлагыг далд байдлаар хангаж өгдөг.",
+      "question_number": 6,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "How do graphics primarily help users navigate a program's interface?",
+      "question_mn": "Програмын интерфэйсийг хэрэглэгчдэд удирдан чиглүүлэхэд график зураг голчлон хэрхэн тусалдаг вэ?",       
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They make the documentation more aesthetically pleasing and engaging.",
+          "text_mn": "Тэдгээр нь баримт бичгийг илүү гоо зүйн хувьд үзэмжтэй, сонирхолтой болгодог.",
+          "is_correct": false,
+          "source": "General knowledge",
+          "explanation": "Although graphics can certainly improve the aesthetics and engagement of documentation, the provided text does not highlight this as their primary role in helping users navigate a program's interface. This is a plausible but secondary benefit, not directly related to the concept of locating interface elements."
+        },
+        {
+          "id": "B",
+          "text_en": "They enhance task orientation by clearly illustrating workflow steps.",
+          "text_mn": "Тэдгээр нь ажлын урсгалын үе шатуудыг тодорхой харуулснаар даалгаврын чиг баримжааг сайжруулдаг.",       
+          "is_correct": false,
+          "source": "Page 405",
+          "explanation": "The text notes that graphics can support task orientation, but this is a broader category that may involve showing steps rather than directly helping to locate individual interface elements. This distractor captures a related but distinct purpose of graphics in documentation."
+        },
+        {
+          "id": "C",
+          "text_en": "They help users identify and locate specific interface elements on the screen.",
+          "text_mn": "Тэдгээр нь хэрэглэгчдэд дэлгэцэн дээрх тодорхой интерфэйсийн элементүүдийг тодорхойлж, байршлыг олоход тусалдаг.",
+          "is_correct": true,
+          "source": "Page 406-407",
+          "explanation": "The text explicitly states that graphics can be used \"to indicate the interface elements of a pro- gram’s main screen\" and to \"help the user locate and act: to get to and operate the actual features of the program.\" This directly supports the idea that graphics assist users in finding and interacting with specific buttons, menus, and other components within a software interface."
+        },
+        {
+          "id": "D",
+          "text_en": "They visually represent options to assist users in making informed decisions.",
+          "text_mn": "Тэдгээр нь хэрэглэгчдэд мэдээлэлтэй шийдвэр гаргахад туслахын тулд сонголтуудыг дүрсэлдэг.",
+          "is_correct": false,
+          "source": "Page 405-406",
+          "explanation": "While graphics do support user decision-making, as mentioned with printing options in Figure 13.1, this is a different function from specifically helping users locate interface elements. This distractor describes another valid use of graphics, but not the primary one related to interface navigation."
+        }
+      ],
+      "concept": "Graphics help users locate specific interface elements such as buttons, rulers, and menu commands.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context emphasizes that graphics can be used to \"indicate the interface elements of a pro- gram’s main screen\" and to \"help the user locate and act: to get to and operate the actual features of the program.\" This directly means that graphics aid users in identifying and finding specific components (like buttons, menus, or other controls) within a software interface, thereby supporting navigation and interaction.",
+      "explanation_mn": "Анхдагч контекст нь график зургийг \"програмын үндсэн дэлгэцийн интерфэйсийн элементүүдийг заахад\" болон \"хэрэглэгчдэд програмын бодит функцуудыг олж, ашиглахад туслах\" зорилгоор ашиглаж болно гэдгийг онцолсон. Энэ нь график зургууд нь програм хангамжийн интерфэйс доторх тодорхой бүрэлдэхүүн хэсгүүдийг (товчлуур, цэс эсвэл бусад хяналтын элементүүд гэх мэт) тодорхойлох, олоход хэрэглэгчдэд тусалдаг бөгөөд ингэснээр навигаци болон харилцан үйлчлэлийг дэмждэг гэсэн үг юм.",    
+      "question_number": 7,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "What is a primary way graphics enhance user comprehension in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичигт график нь хэрэглэгчийн ойлголтыг нэмэгдүүлэх үндсэн арга юу вэ?",       
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "By strictly adhering to corporate branding guidelines for visual consistency.",
+          "text_mn": "Компанийн брэндийн удирдамжийг чанд мөрдөж, харагдахуйц тууштай байдлыг хангах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Adhering to branding guidelines ensures consistency but is not mentioned in the text as a primary way graphics enhance *user comprehension* of program features or decision-making processes."
+        },
+        {
+          "id": "B",
+          "text_en": "By reducing the overall length of textual descriptions, saving documentation space.",
+          "text_mn": "Текстийн тайлбарын нийт уртыг багасгаж, баримт бичгийн зай хэмнэх.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The provided text does not discuss space saving or reducing text length as a primary benefit of graphics for user comprehension. Its focus is on aiding decision-making and understanding features."
+        },
+        {
+          "id": "C",
+          "text_en": "By making the documentation more visually appealing and engaging for users.",
+          "text_mn": "Баримт бичгийг харагдахуйц илүү сэтгэл татам, сонирхолтой болгох.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While graphics can make documentation more appealing, the primary context emphasizes their role in supporting user decision-making and clarifying complex options for action, not merely aesthetics."
+        },
+        {
+          "id": "D",
+          "text_en": "By making complex options visually clear, enabling better user decisions.",
+          "text_mn": "Нарийн төвөгтэй сонголтуудыг харагдахуйц тодорхой болгож, хэрэглэгчийн шийдвэр гаргахад туслах.",        
+          "is_correct": true,
+          "source": "Page 405",
+          "explanation": "The text states that graphics help users make decisions by presenting printing options clearly and helping them identify the right printer type or report needed. This directly supports making abstract choices concrete and understandable for efficient decision-making."
+        }
+      ],
+      "concept": "Graphics make abstract concepts concrete, aiding user understanding.",
+      "difficulty": "medium",
+      "explanation_en": "The primary context highlights how graphics assist users in making decisions by presenting complex options, such as printing choices or check types, in a clear and efficient visual format. This process of making abstract or varied choices visually concrete directly enhances user understanding and enables them to act or make decisions effectively.",      
+      "explanation_mn": "Үндсэн контекст нь график нь хэвлэх сонголт эсвэл чекийн төрөл зэрэг нарийн төвөгтэй сонголтуудыг тодорхой, үр дүнтэй дүрслэлээр харуулж, хэрэглэгчдэд шийдвэр гаргахад хэрхэн тусалдагийг онцолсон. Энэ нь хийсвэр эсвэл олон янзын сонголтуудыг харагдахуйц тодорхой болгох үйл явц нь хэрэглэгчийн ойлголтыг шууд нэмэгдүүлж, тэдэнд үр дүнтэйгээр ажиллах эсвэл шийдвэр гаргах боломжийг олгодог.",
+      "question_number": 8,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "How do graphics directly representing screen elements benefit software documentation users?",
+      "question_mn": "Дэлгэцийн элементүүдийг шууд дүрсэлсэн график нь програм хангамжийн баримт бичгийн хэрэглэгчдэд хэрхэн ашигтай вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They provide a clear overview of the software's general functionalities.",
+          "text_mn": "Тэд програмын ерөнхий функцуудын талаар тодорхой тойм өгдөг.",
+          "is_correct": false,
+          "source": "N/A"
+        },
+        {
+          "id": "B",
+          "text_en": "They enhance the visual appeal and overall user engagement.",
+          "text_mn": "Тэд харагдах байдлыг сайжруулж, хэрэглэгчийн оролцоог нэмэгдүүлдэг.",
+          "is_correct": false,
+          "source": "N/A"
+        },
+        {
+          "id": "C",
+          "text_en": "They help users easily locate and operate the program's actual features.",
+          "text_mn": "Тэд хэрэглэгчдэд програмын бодит функцуудыг хялбархан олж, ажиллуулахад тусалдаг.",
+          "is_correct": true,
+          "source": "Page 406-407"
+        },
+        {
+          "id": "D",
+          "text_en": "They simplify complex decision-making processes for printing options.",
+          "text_mn": "Тэд хэвлэх сонголтын нарийн төвөгтэй шийдвэр гаргах үйл явцыг хялбаршуулдаг.",
+          "is_correct": false,
+          "source": "Page 405"
+        }
+      ],
+      "concept": "Direct representation of screen elements, via captures, helps users focus on task performance.",
+      "difficulty": "medium",
+      "explanation_en": "The text states that graphics can indicate interface elements of a program's main screen. This type of documentation helps users 'locate and act: to get to and operate the actual features of the program,' directly supporting their task needs. Thus, directly representing screen elements assists users in performing tasks by making features easy to find and use.",
+      "explanation_mn": "Уг текстэнд график нь програмын үндсэн дэлгэцийн интерфэйсийн элементүүдийг зааж өгөх боломжтой гэж заасан. Энэ төрлийн баримт бичиг нь хэрэглэгчдэд 'програмын бодит функцуудыг олж, ажиллуулахад' тусалдаг бөгөөд энэ нь хэрэглэгчийн үүргийн хэрэгцээг шууд дэмждэг. Иймд дэлгэцийн элементүүдийг шууд дүрслэх нь функцуудыг олоход хялбар болгож, хэрэглэгчдэд ажлыг гүйцэтгэхэд тусалдаг.",
+      "question_number": 9,
+      "page_reference": "435-465"
+    },
+    {
+      "question_en": "How do graphics primarily assist users in interacting with software program features?",
+      "question_mn": "График нь программ хангамжийн онцлог шинжүүдтэй харилцахад хэрэглэгчдэд юугаар голчлон тусалдаг вэ?",    
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To streamline user decision-making regarding program applications.",
+          "text_mn": "Програмыг ашиглах талаар хэрэглэгчийн шийдвэр гаргах үйл явцыг хялбарчлах.",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text_en": "To help users locate and operate specific program features effectively.",
+          "text_mn": "Хэрэглэгчдэд программын тодорхой функцуудыг үр дүнтэй олж, ажиллуулахад туслах.",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text_en": "To provide a general overview of the program's main screen layout.",
+          "text_mn": "Програмын үндсэн дэлгэцийн зохион байгуулалтын ерөнхий тоймыг өгөх.",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text_en": "To improve the overall aesthetic and readability of the manual.",
+          "text_mn": "Гарын авлагын ерөнхий гоо зүй, уншигдахуйц байдлыг сайжруулах.",
+          "is_correct": false
+        }
+      ],
+      "concept": "Magnification of screen objects can make complicated or hard-to-find elements easier to locate.",
+      "difficulty": "medium",
+      "explanation_en": "The text explicitly states that graphics should 'help the user locate and act: to get to and operate the actual features of the program.' This function is crucial for making potentially complicated or hard-to-find elements accessible and understandable, directly assisting users in interacting with the software.",
+      "explanation_mn": "Уг текстэд график нь 'хэрэглэгчдэд программын бодит функцуудыг олж, ажиллуулахад туслах' ёстой гэж тодорхой заасан байдаг. Энэхүү функц нь хүндрэлтэй эсвэл олоход бэрхшээлтэй байж болзошгүй элементүүдийг хүртээмжтэй, ойлгомжтой болгоход чухал үүрэг гүйцэтгэж, хэрэглэгчдэд программ хангамжтай харилцахад шууд тусалдаг.",
+      "question_number": 10,
+      "page_reference": "435-465"
+    }
+  ]
+}

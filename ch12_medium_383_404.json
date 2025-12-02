@@ -1,0 +1,439 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "Which characteristic best describes software documentation that emphasizes functionality over technical functions?",
+      "question_mn": "Техникийн функцээс илүүтэйгээр програм хангамжийн үйл ажиллагаанд (functionality) анхаарлаа хандуулсан баримт бичгийг хамгийн сайн тодорхойлох шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Providing comprehensive coverage of every available program feature.",
+          "text_mn": "Програмын боломжит бүх функцийг иж бүрэн харуулах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While comprehensiveness is a good quality for documentation, it doesn't specifically address the distinction between focusing on functionality (user outcomes) versus individual functions (technical details). A document can be comprehensive yet still primarily describe functions without emphasizing user-centric functionality."
+        },
+        {
+          "id": "B",
+          "text_en": "Highlighting the software's performance metrics and efficiency.",
+          "text_mn": "Програм хангамжийн гүйцэтгэлийн үзүүлэлт болон үр ашгийг онцлох.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Performance metrics and efficiency are important aspects of software, but highlighting them is not the primary characteristic of documentation that emphasizes functionality over technical functions. Functionality documentation focuses on practical use and user benefits, not typically speed or resource consumption statistics."
+        },
+        {
+          "id": "C",
+          "text_en": "Detailing the underlying code structure and architectural design.",
+          "text_mn": "Үндсэн кодны бүтэц болон архитектурын загварыг нарийвчлан тайлбарлах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Detailing code structure and architectural design is relevant for developers but goes against the principle of focusing on user-facing functionality and program use. Such technical details are often avoided in user documentation to maintain clarity and focus on what the user needs to accomplish."
+        },
+        {
+          "id": "D",
+          "text_en": "Emphasizing program use and user actions rather than technical details.",
+          "text_mn": "Техникийн нарийн ширийн зүйлсээс илүүтэйгээр програмыг ашиглах болон хэрэглэгчийн үйлдлийг онцлох.",     
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The primary context states, \"This operational overview emphasizes program use instead of technical details\" and \"Sentences focus on user actions instead of program functions.\" This directly aligns with the concept of focusing on what the user can *do* (functionality) rather than just the specifics of *how a function works* (technical functions)."   
+        }
+      ],
+      "concept": "Focus on Functionality Rather than Functions as a core documentation guideline",
+      "difficulty": "medium",
+      "explanation_en": "The guideline 'Focus on Functionality Rather than Functions' means documentation should prioritize what users can accomplish with the software. The provided text emphasizes 'program use instead of technical details' and 'user actions instead of program functions,' which directly reflects an operational overview focused on how users achieve their goals. The other options describe different aspects of documentation or software characteristics, but not the core principle of focusing on functionality from a user's perspective.",
+      "explanation_mn": "Баримт бичигт 'Функцээс илүүтэйгээр үйл ажиллагаанд (functionality) анхаарлаа хандуулах' гэдэг удирдамж нь хэрэглэгчид програм хангамжаар юу хийж чадахыг нэн тэргүүнд тавих ёстой гэсэн үг юм. Өгөгдсөн текст нь 'техникийн нарийн ширийн зүйлээс илүү програмын хэрэглээ'-г болон 'програмын функцээс илүү хэрэглэгчийн үйлдэл'-ийг онцолж байгаа нь хэрэглэгч зорилгодоо хэрхэн хүрэхэд чиглэсэн үйл ажиллагааны ерөнхий тоймыг шууд илэрхийлж байна. Бусад сонголтууд нь баримт бичгийн бусад тал эсвэл програм хангамжийн шинж чанарыг тайлбарлаж байгаа боловч хэрэглэгчийн үүднээс үйл ажиллагаанд анхаарлаа хандуулах үндсэн зарчим биш юм.",
+      "question_number": 1,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which characteristic best exemplifies a user-oriented style in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичгийн хэрэглэгчид чиглэсэн хэв маягийг хамгийн сайн тодорхойлсон шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Structuring content around program features rather than user workflows and tasks.",
+          "text_mn": "Агуулгыг хэрэглэгчийн ажлын урсгал, даалгавраас илүү програмын онцлог шинж чанаруудад тулгуурлан бүтэцжүүлэх.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "A user-oriented style emphasizes 'program use' and focuses on 'user actions,' which inherently relates to user workflows and tasks. Structuring content primarily around program features would be a less user-centric approach."   
+        },
+        {
+          "id": "B",
+          "text_en": "Presenting comprehensive technical details and program functions for thorough understanding.",
+          "text_mn": "Иж бүрэн техникийн дэлгэрэнгүй мэдээлэл болон програмын функцуудыг танилцуулж, гүн гүнзгий ойлголтыг өгөх.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "While comprehensive details are important, the text explicitly states a user-oriented style 'emphasizes program use instead of technical details' and focuses on 'user actions instead of program functions,' making this a less accurate description of the user-oriented approach."
+        },
+        {
+          "id": "C",
+          "text_en": "Focusing on user actions and empowering users with data management choices.",
+          "text_mn": "Хэрэглэгчийн үйлдлүүдэд анхаарч, өгөгдлийн менежментийн сонголтуудаар хэрэглэгчдийг чадавхжуулах.",      
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The user-oriented style, as highlighted in the text, prioritizes clarity and control for the user. This is achieved by focusing on 'user actions instead of program functions' and by providing options for data file management (e.g., creating, modifying, or using alternative files), which directly empowers the user."
+        },
+        {
+          "id": "D",
+          "text_en": "Maintaining formal diction and complex sentence structures to ensure accuracy.",
+          "text_mn": "Нарийвчлалыг хангахын тулд албан ёсны хэллэг, нарийн төвөгтэй өгүүлбэрийн бүтцийг баримтлах.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "The text describes a user-oriented style as employing 'informal diction' to increase 'ease of reading' and using the 'active voice' to enhance clarity, directly contradicting the use of formal diction and complex structures."   
+        }
+      ],
+      "concept": "User-Oriented Style in software documentation, aimed at giving users control and understanding",
+      "difficulty": "medium",
+      "explanation_en": "The user-oriented style in software documentation, as described in the text, prioritizes the user's perspective and control. This is achieved by focusing sentences on user actions rather than program functions and by providing users with options and the ability to manage or customize their own data files. This approach directly empowers users and enhances their understanding of how to use the software effectively, aligning with the goal of giving users control and understanding.",
+      "explanation_mn": "Текстэнд дурдсан програм хангамжийн баримт бичгийн хэрэглэгчид чиглэсэн хэв маяг нь хэрэглэгчийн өнцөг болон хяналтыг нэн тэргүүний ач холбогдол болгодог. Үүнийг програмын функцээс илүүтэй хэрэглэгчийн үйлдлүүдэд өгүүлбэрүүдийг төвлөрүүлж, хэрэглэгчдэд өөрсдийн өгөгдлийн файлуудыг удирдах эсвэл өөрчлөх (жишээлбэл, үүсгэх, өөрчлөх, өөр хувилбарыг ашиглах) сонголт, чадварыг олгосноор хэрэгжүүлдэг. Энэ арга нь хэрэглэгчдийг шууд чадавхжуулж, програм хангамжийг хэрхэн үр дүнтэй ашиглах талаарх ойлголтыг сайжруулж, хэрэглэгчдэд хяналт болон ойлголтыг өгөх зорилгод нийцдэг.",
+      "question_number": 2,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which characteristic best exemplifies an effective operational overview in software documentation?",     
+      "question_mn": "Програм хангамжийн баримт бичгийн үйл ажиллагааны ерөнхий тоймын хамгийн сайн жишээ юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Details the internal algorithms and data structures for system administrators.",
+          "text_mn": "Системийн администраторуудад зориулсан дотоод алгоритм болон өгөгдлийн бүтцийг нарийвчлан тайлбарлах.",  
+          "is_correct": false,
+          "source": "Related Concept",
+          "explanation": "Detailing internal algorithms and data structures is a highly technical aspect of documentation, typically intended for advanced technical personnel like system administrators or developers, not for an operational overview focused on user program use."
+        },
+        {
+          "id": "B",
+          "text_en": "Provides extensive reference material on software architecture and API calls.",
+          "text_mn": "Програм хангамжийн архитектур болон API дуудлагын талаар өргөн хүрээтэй лавлах материал өгөх.",
+          "is_correct": false,
+          "source": "Related Concept",
+          "explanation": "While reference material on architecture and API calls is crucial for developers, it represents a highly technical focus that is explicitly contrasted with the purpose of an operational overview, which aims to simplify program use for the end-user."
+        },
+        {
+          "id": "C",
+          "text_en": "Focuses on user actions and practical application, minimizing deep technical explanations.",
+          "text_mn": "Хэрэглэгчийн үйлдлүүд болон практик хэрэглээнд анхаарч, гүнзгий техникийн тайлбарыг багасгах.",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The primary context explicitly states that an operational overview \"emphasizes program use instead of technical details\" and that its sentences \"focus on user actions instead of program functions.\" This choice directly reflects that objective, prioritizing practical user interaction over complex technical data."
+        },
+        {
+          "id": "D",
+          "text_en": "Offers a comprehensive troubleshooting guide for advanced programming errors.",
+          "text_mn": "Дэлгэрэнгүй алдааг олж засварлах гарын авлагаар хангах.",
+          "is_correct": false,
+          "source": "Related Concept",
+          "explanation": "A troubleshooting guide, while valuable, serves a different purpose than an operational overview. An operational overview focuses on initiating and guiding typical program use, not on diagnosing and resolving advanced programming errors, which usually involves more technical details."
+        }
+      ],
+      "concept": "Operational Overviews emphasizing program use over technical details",
+      "difficulty": "medium",
+      "explanation_en": "The primary context clearly states that an effective operational overview \"emphasizes program use instead of technical details\" and that its content should \"focus on user actions instead of program functions.\" Therefore, the best characteristic is one that guides users through practical application by minimizing complex technical explanations. This approach makes the software more accessible and understandable for its intended audience.",
+      "explanation_mn": "Үндсэн контекстэд үйл ажиллагааны үр дүнтэй тойм нь \"техникийн дэлгэрэнгүй мэдээллээс илүүтэй програмын хэрэглээнд онцгой анхаардаг\" бөгөөд түүний агуулга нь \"програмын үйл ажиллагаанаас илүү хэрэглэгчийн үйлдэлд анхаарлаа хандуулах\" ёстой гэж тодорхой заасан байдаг. Тиймээс хамгийн сайн шинж чанар нь техникийн нарийн төвөгтэй тайлбарыг багасгах замаар хэрэглэгчдийг практик хэрэглээнд чиглүүлдэг явдал юм. Энэ хандлага нь програм хангамжийг зорилтот хэрэглэгчдэд илүү хүртээмжтэй, ойлгомжтой болгодог.",
+      "question_number": 3,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which characteristic best describes default data files for software programs?",
+      "question_mn": "Програм хангамжийн анхдагч өгөгдлийн файлуудыг юу хамгийн сайн тодорхойлох вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Personal copies users modify for custom analyses in local directories.",
+          "text_mn": "Хэрэглэгчид өөрийн орон нутгийн хавтас дотор захиалгат дүн шинжилгээ хийхээр өөрчилсөн хувийн хуулбарууд.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "This refers to 'local data files,' which are user-created or modified copies, distinct from the publicly available default files."
+        },
+        {
+          "id": "B",
+          "text_en": "They provide specialized datasets chosen by the user to replace standard program inputs.",
+          "text_mn": "Тэдгээр нь стандарт програмын оролтыг орлуулах зорилгоор хэрэглэгчийн сонгосон тусгай мэдээллийн багцыг өгдөг.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "This describes 'alternative data files,' which users choose to use instead of the default, not the default files themselves."
+        },
+        {
+          "id": "C",
+          "text_en": "They require manual directory and filename input before a program can execute.",
+          "text_mn": "Тэдгээр нь програм ажиллахаас өмнө хавтас болон файлын нэрийг гараар оруулахыг шаарддаг.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "This is incorrect. The text explicitly states that with default files, users 'don't have to specify the directory and filename' because the program finds it automatically."
+        },
+        {
+          "id": "D",
+          "text_en": "They are publicly available and automatically found by programs without user specification.",
+          "text_mn": "Тэдгээр нь олон нийтэд нээлттэй бөгөөд хэрэглэгчийн заалтгүйгээр програмд автоматаар олдог.",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text explicitly states that default files are 'public in that they are available to everyone' and that programs 'automatically finds the appropriate default file... you don't have to specify the directory and filename.'"    
+        }
+      ],
+      "concept": "Default Data Files: Publicly available files automatically used by programs",
+      "difficulty": "medium",
+      "explanation_en": "The text states that default data files are 'public in that they are available to everyone who uses the Package' and that if a program requires one, 'it automatically finds the appropriate default file... you don't have to specify the directory and filename.' This highlights their public availability and automatic, user-free integration, which is a key characteristic.",
+      "explanation_mn": "Уг текстэд анхдагч өгөгдлийн файлууд нь 'багцыг ашигладаг хүн бүрт нээлттэй' бөгөөд хэрэв програмд ийм файл шаардлагатай бол 'энэ нь зохих анхдагч файлыг автоматаар олдог... та хавтас болон файлын нэрийг зааж өгөх шаардлагагүй' гэж дурдсан байдаг. Энэ нь тэдний олон нийтэд нээлттэй байдал, автомат, хэрэглэгчийн оролцоогүй нэгдлийг онцолж байгаа бөгөөд энэ нь гол шинж чанар юм.",
+      "question_number": 4,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What is the primary characteristic of alternative data files supplied by GCG?",
+      "question_mn": "GCG-ээс нийлүүлдэг өөр мэдээллийн файлуудын үндсэн онцлог юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They are user-created or modified files stored in a personal local directory.",
+          "text_mn": "Эдгээр нь хэрэглэгчийн үүсгэсэн эсвэл өөрчилсөн, хувийн орон нутгийн сан дахь файлууд юм.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes 'local data files,' which users create or modify themselves. Alternative data files, in contrast, are pre-supplied by GCG."
+        },
+        {
+          "id": "B",
+          "text_en": "They are automatically used by programs unless a specific alternative is chosen.",
+          "text_mn": "Тусгай хувилбар сонгоогүй тохиолдолд программд автоматаар ашиглагддаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes default files, which are automatically used if no other file is specified. Alternative data files, however, must be deliberately chosen by the user."
+        },
+        {
+          "id": "C",
+          "text_en": "They are optional, pre-supplied files users can choose to use instead of default files.",
+          "text_mn": "Эдгээр нь хэрэглэгчид үндсэн файлуудын оронд сонгож ашиглах боломжтой, урьдчилан нийлүүлэгдсэн сонголттой файлууд юм.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states that GCG supplies these files, and users 'can have a program use instead of the default' when they 'want to use one of these alternative data files rather than the default data file' for specific analytical needs."
+        },
+        {
+          "id": "D",
+          "text_en": "They contain critical technical details required for advanced program functionality.",
+          "text_mn": "Эдгээр нь программын дэвшилтэт үйлдлийн чухал техникийн дэлгэрэнгүй мэдээллийг агуулдаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While alternative files provide specific data, the documentation emphasizes user-friendliness over technical details. The primary characteristic is their optional nature and utility for diverse user applications, not their inherent technical complexity."
+        }
+      ],
+      "concept": "Alternative Data Files: Optional, pre-supplied files users can choose instead of defaults",
+      "difficulty": "medium",
+      "explanation_en": "The text explicitly states that GCG supplies alternative data files which users can choose to use instead of the default files, often for specific analytical needs, such as analyzing Drosophila sequences with a specialized codon frequency table. They are not automatically used (like defaults), user-created (like local files), or primarily defined by critical technical details.",
+      "explanation_mn": "Текстэд GCG нь хэрэглэгчид үндсэн файлуудын оронд сонгож ашиглах боломжтой, тухайлбал Drosophila дарааллыг тусгай кодон давтамжийн хүснэгтээр шинжлэх зэрэг тодорхой анализын хэрэгцээнд зориулж өөр мэдээллийн файлуудыг нийлүүлдэг болохыг тодорхой дурдсан. Эдгээр нь автоматаар ашиглагддаггүй (үндсэн файлууд шиг), хэрэглэгчийн үүсгэсэн (орон нутгийн файлууд шиг) эсвэл голчлон чухал техникийн дэлгэрэнгүй мэдээллээр тодорхойлогддоггүй.",
+      "question_number": 5,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which characteristic best describes a local data file in the GCG Package?",
+      "question_mn": "GCG багц дахь орон нутгийн өгөгдлийн файлыг хамгийн сайн тодорхойлох шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Public files automatically accessed by programs for general use.",
+          "text_mn": "Програмуудад ерөнхий хэрэглээнд зориулж автоматаар хандагддаг нийтийн файлууд.",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text_en": "Files created or modified by individual users in their own directories.",
+          "text_mn": "Хувийн хэрэглэгчид өөрсдийн директорт үүсгэсэн эсвэл өөрчилсөн файлууд.",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "Local data files are explicitly defined as those a user creates or modifies from existing public data files, then stores in their own local directory for personalized use, as explicitly stated in the text."
+        },
+        {
+          "id": "C",
+          "text_en": "Pre-supplied program options for specific, non-default analyses.",
+          "text_mn": "Тодорхой, үндсэн бус шинжилгээнд зориулсан урьдчилан нийлүүлэгдсэн програмын сонголтууд.",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text_en": "System-managed files that ensure programs run with standard settings.",
+          "text_mn": "Програмуудыг стандарт тохиргоотой ажиллахыг баталгаажуулдаг системийн удирдлагатай файлууд.",
+          "is_correct": false
+        }
+      ],
+      "concept": "Local Data Files: User-created or modified private files that take precedence",
+      "difficulty": "medium",
+      "explanation_en": "The text clearly states that local data files are those which users can create themselves or copy and modify from default or alternative public data files. These are then stored in the user's local directory, allowing for customization of program behavior beyond the public default or alternative options. This highlights their personalized and user-managed nature.",
+      "explanation_mn": "Текстэнд орон нутгийн өгөгдлийн файлууд нь хэрэглэгчид өөрсдөө үүсгэх эсвэл үндсэн болон өөр нийтийн өгөгдлийн файлуудаас хуулбарлан өөрчлөх боломжтой файлууд гэж тодорхой заасан байдаг. Эдгээр нь хэрэглэгчийн орон нутгийн директорт хадгалагддаг бөгөөд энэ нь нийтийн үндсэн болон өөр сонголтуудаас гадна програмын ажиллагааг өөрчлөх боломжийг олгодог. Энэ нь тэдний хувийн болон хэрэглэгчийн удирдлагатай шинж чанарыг тодотгож байна.",
+      "question_number": 6,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which characteristic best exemplifies effective software documentation focusing on user actions?",       
+      "question_mn": "Программын хэрэглэгчийн үйлдлийг онцолсон үр дүнтэй програм хангамжийн баримт бичгийн гол шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Employing informal diction and keeping paragraphs short to improve readability.",
+          "text_mn": "Уншихад хялбар болгохын тулд албан бус хэллэг хэрэглэж, догол мөрийг богино байлгах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While good practices for readability, informal diction and short paragraphs are general documentation characteristics, not the specific focus on user actions versus program functions."
+        },
+        {
+          "id": "B",
+          "text_en": "Utilizing active voice to clearly communicate instructions and avoid ambiguity.",
+          "text_mn": "Зааврыг ойлгомжтой болгож, хоёрдмол утгатай байдлаас зайлсхийхийн тулд идэвхтэй өгүүлбэр ашиглах.",      
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Active voice enhances clarity for user instructions, as mentioned in the text, but it is a stylistic choice that supports the main concept rather than being the concept itself."
+        },
+        {
+          "id": "C",
+          "text_en": "Describing how users interact with the program rather than its internal workings.",
+          "text_mn": "Програмын дотоод үйл ажиллагаанаас илүүтэйгээр хэрэглэгчид хэрхэн ашиглахыг тайлбарлах.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text explicitly states, \"Sentences focus on user actions instead of program functions\" and that the overview \"emphasizes program use instead of technical details.\" This means effective documentation prioritizes describing what the user does with the software and how they use it rather than delving into the program's internal technical operations."
+        },
+        {
+          "id": "D",
+          "text_en": "Providing precise technical details and avoiding style problems in documentation.",
+          "text_mn": "Техникийн нарийвчилсан мэдээллийг өгч, баримт бичигт гарч болзошгүй хэв маягийн алдаанаас зайлсхийх.",   
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This choice contradicts the primary focus, which is to emphasize program use and user actions *instead of technical details*. Avoiding style problems is important but not central to the concept of focusing on user actions."     
+        }
+      ],
+      "concept": "Writing about User Actions rather than Program Functions",
+      "difficulty": "medium",
+      "explanation_en": "The correct answer directly reflects the guiding principle highlighted in the text: \"Sentences focus on user actions instead of program functions\" and \"emphasizes program use instead of technical details.\" This means that effective software documentation prioritizes explaining how a user interacts with and utilizes the software to achieve their goals, rather than detailing the intricate technical mechanics of the program itself. The other options describe related but distinct good documentation practices or misinterpret the core focus.",
+      "explanation_mn": "Зөв хариулт нь текстэнд онцолсон үндсэн зарчмыг шууд тусгаж байна: \"Өгүүлбэрүүд програмын функцээс илүүтэйгээр хэрэглэгчийн үйлдлүүдэд анхаарлаа хандуулдаг\" болон \"Энэхүү үйл ажиллагааны тойм нь техникийн нарийвчилсан мэдээллээс илүүтэйгээр програмын хэрэглээг онцолдог.\" Энэ нь үр дүнтэй програм хангамжийн баримт бичиг нь програмын нарийн төвөгтэй техникийн механизмд гүнзгийрэхээс илүүтэйгээр хэрэглэгч програмтай хэрхэн харьцаж, өөрийн зорилгодоо хүрэхийн тулд хэрхэн ашиглахыг тайлбарлахад тэргүүлэх ач холбогдол өгдөг гэсэн үг юм. Бусад сонголтууд нь холбоотой боловч ялгаатай сайн баримт бичгийн практикийг тайлбарласан эсвэл үндсэн анхаарлыг буруу ойлгосон байна.",
+      "question_number": 7,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which benefit does active voice primarily provide in software documentation?",
+      "question_mn": "Идэвхтэй өгүүлбэрийн хэлбэр нь програм хангамжийн баримт бичигт ямар үндсэн ашиг тусыг өгдөг вэ?",       
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Employs informal diction to increase the overall ease of reading.",
+          "text_mn": "Албан бус үг хэллэгийг ашиглан уншихад хялбар болгодог.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Using informal diction does increase ease of reading, as noted in the text, but this is a separate stylistic choice regarding word selection, not the primary benefit derived from employing active voice."
+        },
+        {
+          "id": "B",
+          "text_en": "Focuses content on user actions rather than program functions.",
+          "text_mn": "Агуулгыг програмын үүрэг биш, хэрэглэгчийн үйлдлүүдэд төвлөрүүлдэг.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "While focusing on user actions is a crucial guideline for software documentation, it is a general principle for content structure, not a direct benefit of using active voice specifically."
+        },
+        {
+          "id": "C",
+          "text_en": "Enhances clarity, making instructions more direct and easier to understand.",
+          "text_mn": "Тодорхой байдлыг нэмэгдүүлж, зааврыг илүү ойлгомжтой, шууд болгодог.",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The primary context explicitly states, \"Use of the active voice enhances the clarity.\" This directly translates to making instructions more direct and easier to understand for the user."
+        },
+        {
+          "id": "D",
+          "text_en": "Keeps paragraphs concise and at a reasonable length for readers.",
+          "text_mn": "Долгионыг товч, зохистой урттай байлгаж, уншигчдад хялбар болгодог.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Maintaining reasonable paragraph length is a good practice for readability and comprehension, but it is a stylistic choice related to structure, not a direct outcome of active voice usage."
+        }
+      ],
+      "concept": "Revision for Active Voice to enhance clarity and directness",
+      "difficulty": "medium",
+      "explanation_en": "The passage explicitly states that \"Use of the active voice enhances the clarity.\" This directly links active voice to improved clarity and directness, making the documentation easier for users to understand and follow. The other options describe other valuable documentation practices but are not specific benefits of active voice.",
+      "explanation_mn": "Эх сурвалжид \"Идэвхтэй өгүүлбэрийн хэлбэрийг ашиглах нь тодорхой байдлыг нэмэгдүүлдэг\" гэж тодорхой заасан байдаг. Энэ нь идэвхтэй өгүүлбэрийн хэлбэрийг тодорхой, шууд байдалтай шууд холбож, баримт бичгийг хэрэглэгчдэд ойлгоход хялбар болгодог. Бусад сонголтууд нь баримтжуулалтын бусад чухал давуу талуудыг тайлбарласан боловч идэвхтэй өгүүлбэрийн хэлбэрийн онцгой ашиг тус биш юм.",
+      "question_number": 8,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which approach best simplifies software documentation for enhanced user readability and comprehension?", 
+      "question_mn": "Програм хангамжийн баримт бичгийг хэрэглэгчийн ойлгоц, хялбар байдлыг сайжруулахын тулд хамгийн сайн арга юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Strictly adhering to a formal, academic writing style consistently.",
+          "text_mn": "Албан ёсны, эрдэм шинжилгээний бичих хэв маягийг тууштай баримтлах.",
+          "is_correct": false,
+          "source": "Related concept",
+          "explanation": "The provided text notes that \"Informal diction increases ease of reading.\" A strictly formal or academic style might hinder readability and comprehension for a general user audience, contradicting the goal of simplicity."     
+        },
+        {
+          "id": "B",
+          "text_en": "Providing exhaustive lists of all program functions and their technical parameters.",
+          "text_mn": "Програмын бүх функц болон техникийн параметрүүдийн бүрэн жагсаалтыг өгөх.",
+          "is_correct": false,
+          "source": "Related concept",
+          "explanation": "While comprehensive, providing exhaustive lists of all technical parameters can overwhelm users and make the documentation less simple and harder to read, especially for those seeking operational understanding rather than deep technical insight."
+        },
+        {
+          "id": "C",
+          "text_en": "Emphasizing user actions and program use over intricate technical details.",
+          "text_mn": "Техникийн нарийн ширийн зүйлсээс илүүтэйгээр хэрэглэгчийн үйлдлүүд болон програмын хэрэглээг онцлох.",   
+          "is_correct": true,
+          "source": "Excerpt provided",
+          "explanation": "The primary context explicitly states that effective documentation \"emphasizes program use instead of technical details\" and \"Sentences focus on user actions instead of program functions.\" This approach directly simplifies the content, making it easier for users to understand and apply."
+        },
+        {
+          "id": "D",
+          "text_en": "Integrating complex architectural diagrams and code snippets throughout.",
+          "text_mn": "Нарийн төвөгтэй архитектурын диаграм болон кодын хэсгүүдийг бүхэлд нь нэгтгэх.",
+          "is_correct": false,
+          "source": "Related concept",
+          "explanation": "Integrating complex architectural diagrams and code snippets would generally increase the technical complexity of the documentation, making it less accessible and harder to comprehend for users focused on program use, not development or deep system architecture."
+        }
+      ],
+      "concept": "Revision to keep writing simple for improved readability",
+      "difficulty": "medium",
+      "explanation_en": "The most effective way to simplify software documentation for enhanced user readability and comprehension, as highlighted in the primary context, is to focus on user actions and how to use the program, rather than getting bogged down in intricate technical details or program functions. This user-centric approach, combined with elements like active voice and reasonable paragraph lengths, ensures the documentation is practical and easy to follow. The distractors represent approaches that either increase complexity, contradict principles of readability, or focus on completeness over simplicity for typical users.",
+      "explanation_mn": "Програм хангамжийн баримт бичгийг хэрэглэгчийн ойлгоц, уншихад хялбар байдлыг сайжруулах хамгийн үр дүнтэй арга нь үндсэн агуулгад дурдсанчлан, нарийн төвөгтэй техникийн нарийн ширийн зүйлс эсвэл програмын функцээс илүүтэйгээр хэрэглэгчийн үйлдэл, програмыг хэрхэн ашиглах тал дээр анхаарах явдал юм. Хэрэглэгч төвтэй энэхүү арга барил нь идэвхтэй өгүүлбэр, боломжийн урттай догол мэт элементүүдтэй хослуулан баримт бичгийг практик, ойлгоход хялбар болгодог. Бусад сонголтууд нь нарийн төвөгтэй байдлыг нэмэгдүүлэх, уншихад хялбар байдлын зарчмуудтай зөрчилдөх, эсвэл ердийн хэрэглэгчдийн хувьд хялбар байдлаас илүү бүрэн гүйцэд байдалд анхаарсан аргуудыг илэрхийлж байна.",
+      "question_number": 9,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Which revision strategy best builds parallel structures for consistency and clarity in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичгийн уялдаа холбоо, тодорхой байдлыг хангахын тулд аль засварлах стратеги нь зэрэгцээ бүтцийг бий болгоход хамгийн сайн нийцэх вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Utilizing informal language to make technical concepts more approachable.",
+          "text_mn": "Техникийн ойлголтуудыг илүү ойлгомжтой болгохын тулд албан бус хэллэгийг ашиглах.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "While utilizing informal language (diction) increases ease of reading and contributes to clarity, it primarily relates to tone and accessibility, not directly to building parallel grammatical or rhetorical structures for consistency across different explanations."
+        },
+        {
+          "id": "B",
+          "text_en": "Ensuring all paragraphs are concise and of moderate length for better readability.",
+          "text_mn": "Бүх догол мөрүүд нь ойлгомжтой байдлыг хангах үүднээс товч бөгөөд дунд зэргийн урттай байх.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Keeping paragraphs at a reasonable length improves readability and information chunking. However, this structural choice is about managing content volume per section, not about maintaining parallel grammatical or rhetorical patterns across related ideas for consistency and clarity."
+        },
+        {
+          "id": "C",
+          "text_en": "Employing the active voice to make instructions more direct and unambiguous.",
+          "text_mn": "Зааварчилгааг илүү шууд бөгөөд тодорхой болгохын тулд идэвхтэй дуу хоолойг ашиглах.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Using the active voice enhances clarity and directness by clearly stating who performs an action. While it can support parallel constructions, active voice alone does not inherently build parallel *structures* across different parts of the documentation in the same comprehensive way that a consistent user-centric framing does for overall consistency."  
+        },
+        {
+          "id": "D",
+          "text_en": "Consistently framing explanations from the user's perspective rather than detailing program operations.",
+          "text_mn": "Програмын үйлдлийг нарийвчлан тайлбарлахын оронд хэрэглэгчийн өнцгөөс тайлбаруудыг тууштай хүргэх.",     
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The practice of consistently framing explanations from the user's perspective (e.g., 'You do X,' 'You can Y') inherently promotes a parallel structure in the narrative. This consistent subject-verb pattern or focus throughout the documentation creates a predictable and coherent flow, significantly enhancing both clarity and the overall consistency of information presentation, aligning with the goal of building parallel structures."
+        }
+      ],
+      "concept": "Revision to build parallel structures for consistency and clarity",
+      "difficulty": "medium",
+      "explanation_en": "The annotation \"Sentences focus on user actions instead of program functions\" directly highlights the importance of maintaining a consistent perspective throughout the documentation. This consistent user-centric framing naturally leads to parallel grammatical and rhetorical structures, where similar actions or concepts are explained using similar phrasing (e.g., \"You do X,\" \"You can Y\"). This predictability and uniformity in presentation are key to achieving strong consistency and clarity.",
+      "explanation_mn": "Тайлбарт \"Өгүүлбэрүүд програмын үйл ажиллагааны оронд хэрэглэгчийн үйлдлүүдэд төвлөрдөг\" гэсэн нь баримт бичгийн туршид тууштай байр суурийг хадгалахын ач холбогдлыг тодорхой харуулдаг. Энэхүү тууштай хэрэглэгч төвтэй байр суурь нь өгүүлэмжид зэрэгцээ хэл зүйн болон риторикийн бүтцийг бий болгодог бөгөөд ижил төстэй үйлдлүүд эсвэл ойлголтуудыг ижил хэллэгээр (жишээлбэл, \"Та X хийнэ,\" \"Та Y хийж чадна\") тайлбарладаг. Ийнхүү танилцуулгын урьдчилан таамаглахуйц, нэгдмэл байдал нь хүчтэй уялдаа холбоо, тодорхой байдлыг бий болгох түлхүүр юм.",
+      "question_number": 10,
+      "page_reference": "413-434"
+    }
+  ]
+}

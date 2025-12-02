@@ -1,0 +1,401 @@
+{
+  "total_generated": 9,
+  "mcqs": [
+    {
+      "question_en": "What defines a procedure?",
+      "question_mn": "Процедурыг юу тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Step-by-step commands for meaningful operation.",
+          "text_mn": "Утга учиртай үйлдлийн алхам алхмаар тушаалууд.",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "The primary context states: 'A procedure is a step-by-step series of commands for accomplishing a meaningful operation with a software program.'"
+        },
+        {
+          "id": "B",
+          "text_en": "General guide for product support.",
+          "text_mn": "Бүтээгдэхүүнийг дэмжих ерөнхий гарын авлага.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While product support documents are mentioned, this is too general and does not specifically define a procedure."
+        },
+        {
+          "id": "C",
+          "text_en": "Instructions for managing computer resources.",
+          "text_mn": "Компьютерийн нөөцийг удирдах заавар.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "This describes one specific application of a procedure but not its general definition."
+        },
+        {
+          "id": "D",
+          "text_en": "Chronological list of software features.",
+          "text_mn": "Програм хангамжийн функцүүдийн дараалсан жагсаалт.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Procedures involve commands for operations, not merely a list of features."
+        }
+      ],
+      "concept": "Definition of a procedure as a step-by-step series of commands for accomplishing a meaningful operation.",   
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly defines a procedure as 'a step-by-step series of commands for accomplishing a meaningful operation with a software program.' This directly matches the correct answer choice.",
+      "explanation_mn": "Анхдагч контекстэд процедур нь 'програм хангамжтай утга учиртай үйлдлийг гүйцэтгэх алхам алхмаар тушаалуудын цуврал' гэж тодорхойлсон байдаг. Энэ нь зөв хариултын сонголттой шууд таарч байна.",
+      "question_number": 1,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What is a primary goal of well-designed procedures in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичигт сайн боловсруулсан процедурын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Serve as building blocks for actions",
+          "text_mn": "Том үйлдлүүдийн үндэс суурь болох",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "Procedures do act as building blocks for larger actions, but this describes their function within a larger framework, not their primary design goal related to user experience."
+        },
+        {
+          "id": "B",
+          "text_en": "Maximize user usability and efficiency",
+          "text_mn": "Хэрэглэгчийн ашиглах чадвар, үр ашгийг нэмэгдүүлэх",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The text states that procedures are designed 'to offer your user maximum usability and efficiency' and 'to maximize the user’s efficiency and effectiveness in the workplace.'"
+        },
+        {
+          "id": "C",
+          "text_en": "Relate tasks to workplace activities",
+          "text_mn": "Даалгавруудыг ажлын байрны үйл ажиллагаатай холбох",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "Relating tasks to meaningful workplace activities helps make procedures effective, but it is a means to achieve the larger goal of usability and efficiency, not the primary goal itself."
+        },
+        {
+          "id": "D",
+          "text_en": "Present information chronologically",
+          "text_mn": "Мэдээллийг цаг хугацааны дарааллаар танилцуулах",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "While procedures often follow a chronological order, this is a characteristic of their structure, not their primary overarching goal."
+        }
+      ],
+      "concept": "Purpose of procedures in software documentation: maximizing user usability and efficiency.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that procedures are discussed and designed 'to offer your user maximum usability and efficiency' and 'to maximize the user’s efficiency and effectiveness in the workplace.'",
+      "explanation_mn": "Анхан шатны контекстэд процедуруудыг 'хэрэглэгчид хамгийн их ашиглах чадвар, үр ашгийг санал болгох' болон 'хэрэглэгчийн ажлын байран дахь үр ашиг, үр нөлөөг нэмэгдүүлэх' зорилгоор хэлэлцэж, боловсруулдаг гэж тодорхой заасан байна.",
+      "question_number": 2,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What is the primary form of most task-oriented documentation?",
+      "question_mn": "Даалгавар дээр суурилсан ихэнх баримт бичгийн үндсэн хэлбэр юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Procedures",
+          "text_mn": "Процедурууд",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "The text explicitly states, 'Most task-oriented documentation takes the form of procedures.'"        
+        },
+        {
+          "id": "B",
+          "text_en": "Usability tests",
+          "text_mn": "Хэрэглээний туршилтууд",
+          "is_correct": false,
+          "source": "Page 63",
+          "explanation": "Usability tests are discussed as a way to check and test procedures, not as the form of documentation."
+        },
+        {
+          "id": "C",
+          "text_en": "Guidelines",
+          "text_mn": "Удирдамжууд",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "Guidelines are mentioned as a section within the chapter, but not the primary form of documentation itself."
+        },
+        {
+          "id": "D",
+          "text_en": "Context of meaning",
+          "text_mn": "Утгын хүрээ",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "The 'context of meaning' refers to the user's background and goals, which contributes to the meaningfulness of a procedure, but it is not a form of documentation."
+        }
+      ],
+      "concept": "Procedures as the primary form of most task-oriented documentation.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states, 'Most task-oriented documentation takes the form of procedures.'",
+      "explanation_mn": "Үндсэн контекстэд 'Даалгавар дээр суурилсан ихэнх баримт бичиг нь процедур хэлбэрээр байдаг' гэж тодорхой заасан.",
+      "question_number": 3,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What characteristic defines procedures?",
+      "question_mn": "Процедурын тодорхойлох шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Relating tasks to workplace activities",
+          "text_mn": "Даалгаврыг ажлын байрны үйл ажиллагаатай холбох",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "Connecting tasks to workplace activities makes procedures meaningful, but it's not the defining structural characteristic of a procedure itself."
+        },
+        {
+          "id": "B",
+          "text_en": "Requiring tacit user knowledge",
+          "text_mn": "Хэрэглэгчийн далд мэдлэгийг шаардах",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "Procedures may evoke tacit user knowledge, but this refers to the user's input, not a characteristic that defines the procedure itself."
+        },
+        {
+          "id": "C",
+          "text_en": "Following a chronological order",
+          "text_mn": "Цаг хугацааны дарааллыг дагах",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "Procedures naturally follow a chronological order, guiding users step-by-step through tasks."        
+        },
+        {
+          "id": "D",
+          "text_en": "Acting as building blocks for larger actions",
+          "text_mn": "Илүү том үйлдлүүдийн үндсэн хэсэг болох",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "While procedures act as building blocks for larger actions, this describes their role, not the defining characteristic of their internal structure."
+        }
+      ],
+      "concept": "Characteristic of procedures to follow a natural chronological order.",
+      "difficulty": "easy",
+      "explanation_en": "The text states that procedures \"fall naturally into a chronological order,\" indicating this as a fundamental characteristic defining their structure.",
+      "explanation_mn": "Текстэнд процедурууд нь \"байгалийн жамаар цаг хугацааны дарааллыг баримталдаг\" гэж заасан нь тэдний бүтцийг тодорхойлдог суурь шинж чанар юм.",
+      "question_number": 4,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "Procedures are located at what level within the activity/action/operations model?",
+      "question_mn": "Үйл ажиллагаа/үйлдэл/ажиллагааны загварт журам нь ямар түвшинд байрладаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "action level",
+          "text_mn": "үйлдлийн түвшин",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "The action level is a broader concept than operations, fitting between activities and operations in the model."
+        },
+        {
+          "id": "B",
+          "text_en": "operations level",
+          "text_mn": "ажиллагааны түвшин",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "The text explicitly states: 'Procedures occur at the “operations” level of that model.'"
+        },
+        {
+          "id": "C",
+          "text_en": "activity level",
+          "text_mn": "үйл ажиллагааны түвшин",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "The activity level is a broader concept, higher than operations in the model."
+        },
+        {
+          "id": "D",
+          "text_en": "context level",
+          "text_mn": "контекстийн түвшин",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "While context is crucial for understanding procedures, it is not one of the levels within the activity/action/operations model itself."
+        }
+      ],
+      "concept": "Procedures' role at the 'operations' level within the activity/action/operations model.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states: 'Procedures occur at the “operations” level of that model.' This indicates that individual procedures are the building blocks at the most granular level of the activity/action/operations model.",
+      "explanation_mn": "Анхан шатны текстэд 'Журам нь тухайн загварын “ажиллагааны” түвшинд явагддаг' гэж тодорхой заасан байдаг. Энэ нь бие даасан журам нь үйл ажиллагаа/үйлдэл/ажиллагааны загварын хамгийн нарийн түвшний бүтцийн элемент болохыг илтгэнэ.",
+      "question_number": 6,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What is a writer's key job concerning procedures?",
+      "question_mn": "Процедурын талаарх зохиогчийн гол үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Break down operations into simple steps.",
+          "text_mn": "Үйл ажиллагааг энгийн алхмуудад хуваах.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Процедур нь өөрөө алхам алхмаар заавар байдаг ч, энэ нь зохиогчийн процедурын илүү өргөн хүрээний үүрэг биш юм."
+        },
+        {
+          "id": "B",
+          "text_en": "Document procedures for all possible media.",
+          "text_mn": "Бүх боломжит медиад зориулсан процедур баримтжуулах.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Хэдийгээр процедурууд бүх медиад ажилладаг ч, зохиогчийн гол үүрэг бол тэдгээрийг хэрэглэгчийн ажлын байран дахь илүү том үйл ажиллагаатай хэрхэн нийцэж байгааг тодруулах явдал юм."
+        },
+        {
+          "id": "C",
+          "text_en": "Clarify fit into larger workplace actions.",
+          "text_mn": "Илүү том ажлын үйлдэлд хэрхэн нийцэхийг тодруулах.",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "Текстэд: 'Таны зохиогчийн хувьд хийх ажил бол эдгээр нь хэрэглэгчийн ажлын байран дахь үйлдэл, үйл ажиллагааны илүү том зураглалд хэрхэн нийцэж байгааг тодруулах явдал юм' гэж заасан."
+        },
+        {
+          "id": "D",
+          "text_en": "Focus only on the operation's technical details.",
+          "text_mn": "Зөвхөн үйлдлийн техникийн нарийн ширийн зүйлд анхаарах.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Текстэд процедурын 'утга' эсвэл 'ач холбогдол' нь түүнийг ажилд хэрэглэхээс үүдэлтэй гэж заасан бөгөөд зөвхөн техникийн нарийн ширийн зүйл дээр төвлөрөхгүй."
+        }
+      ],
+      "concept": "The writer's responsibility to clarify how procedures fit into the user's larger workplace actions and activities.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states: 'Your job as a writer is to clarify how they fit into the larger picture of actions and activities in the user’s workplace.' This directly addresses the writer's key responsibility regarding procedures.",
+      "explanation_mn": "Анхан шатны контекстэд: 'Таны зохиогчийн хувьд хийх ажил бол эдгээр нь хэрэглэгчийн ажлын байран дахь үйлдэл, үйл ажиллагааны илүү том зураглалд хэрхэн нийцэж байгааг тодруулах явдал юм' гэж заасан. Энэ нь зохиогчийн процедурын талаарх гол үүргийг шууд илэрхийлж байна.",
+      "question_number": 7,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "Where does the 'skill' in a procedure primarily reside?",
+      "question_mn": "Үйл ажиллагааны 'ур чадвар' юунд оршдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Tacit, understood knowledge in the user",
+          "text_mn": "Хэрэглэгчийн далд, ойлгосон мэдлэгт",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states, 'Thus the “skill” in a procedure lies not in the procedure itself, but in the tacit, understood knowledge that it evokes in the user.'"
+        },
+        {
+          "id": "B",
+          "text_en": "The explicit commands of the software",
+          "text_mn": "Програм хангамжийн тодорхой тушаалуудад",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While software commands are part of a procedure, they are not where the 'skill' resides according to the text."
+        },
+        {
+          "id": "C",
+          "text_en": "The clarity of the documentation's guidelines",
+          "text_mn": "Баримт бичгийн удирдамжийн тодорхой байдалд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Clear guidelines are important for usability, but the text defines 'skill' differently."
+        },
+        {
+          "id": "D",
+          "text_en": "The detailed steps of the procedure itself",
+          "text_mn": "Үйл ажиллагааны нарийвчилсан алхамуудад",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text explicitly states the 'skill' is NOT in the procedure itself."
+        }
+      ],
+      "concept": "The concept of 'skill' in a procedure lying in the tacit, understood knowledge it evokes in the user.",      
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'the “skill” in a procedure lies not in the procedure itself, but in the tacit, understood knowledge that it evokes in the user.' This indicates that the user's internal, evoked knowledge is where the skill resides.",
+      "explanation_mn": "Уг текстэд 'үйл ажиллагааны “ур чадвар” нь үйл ажиллагаандаа биш, харин хэрэглэгчийн далд, ойлгосон мэдлэгт оршдог' гэж тодорхой заасан байдаг. Энэ нь хэрэглэгчийн дотоод, сэрээгдсэн мэдлэг нь ур чадварын үндэс болдог болохыг харуулж байна.",
+      "question_number": 8,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What initially forms a user's context of meaning?",
+      "question_mn": "Хэрэглэгчийн утгын нөхцөл байдлыг анх юу бүрдүүлдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Standard documentation",
+          "text_mn": "Стандарт баримт бичиг",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Standard documentation is a type of manual, not a component of the user's context of meaning."       
+        },
+        {
+          "id": "B",
+          "text_en": "Chronological order steps",
+          "text_mn": "Цагийн дарааллын алхамууд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This refers to the structure of procedures, not the user's context of meaning."
+        },
+        {
+          "id": "C",
+          "text_en": "Procedure testing forms",
+          "text_mn": "Үйл ажиллагааны туршилтын маягт",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "These are tools for managing testing procedures, not components of the user's context of meaning."   
+        },
+        {
+          "id": "D",
+          "text_en": "Reasons and goals",
+          "text_mn": "Шалтгаан ба зорилго",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states, \"First, the reasons and goals the user brings to the task make up a context of meaning.\""
+        }
+      ],
+      "concept": "User context, comprised of reasons, goals, workplace projects, other professionals, materials, data, and software/hardware tools.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that \"the reasons and goals the user brings to the task make up a context of meaning,\" which is a foundational part of user context.",
+      "explanation_mn": "Эхний контекстэд \"хэрэглэгчийн ажлыг хийх шалтгаан болон зорилго нь утгын нөхцөл байдлыг бүрдүүлдэг\" гэж тодорхой заасан бөгөөд энэ нь хэрэглэгчийн нөхцөл байдлын үндсэн хэсэг юм.",
+      "question_number": 9,
+      "page_reference": "93-121"
+    },
+    {
+      "question_en": "What provides meaning to a software procedure for the user?",
+      "question_mn": "Хэрэглэгчийн хувьд програм хангамжийн процедурт юу утга учир өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Its strict chronological order of steps.",
+          "text_mn": "Алхмуудын нарийн дараалал.",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "While procedures follow chronological order, this is a structural characteristic, not the source of their meaning in the larger user context."
+        },
+        {
+          "id": "B",
+          "text_en": "Maximizing user efficiency and effectiveness.",
+          "text_mn": "Хэрэглэгчийн үр ашиг, үр нөлөөг нэмэгдүүлэх.",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "Maximizing efficiency and effectiveness is a design goal for procedures, but not what inherently provides their meaning within the user's broader work context."
+        },
+        {
+          "id": "C",
+          "text_en": "The operation itself, independently considered.",
+          "text_mn": "Зөвхөн үйлдлийн ажиллагаа өөрөө.",
+          "is_correct": false,
+          "source": "Page 64",
+          "explanation": "The text explicitly states that what makes a procedure meaningful does not necessarily reside in the operation itself, but in its connection to larger workplace actions."
+        },
+        {
+          "id": "D",
+          "text_en": "Its application within larger workplace activities.",
+          "text_mn": "Ажлын байрны томоохон үйл ажиллагаанд хэрэглэгдэх байдал.",
+          "is_correct": true,
+          "source": "Page 64",
+          "explanation": "The text states that the 'meaning' of a procedure comes from its application to work and how it fits into the larger picture of actions and activities in the user’s workplace."
+        }
+      ],
+      "concept": "User's vision: awareness of the larger work context that makes limited operations meaningful.",
+      "difficulty": "easy",
+      "explanation_en": "The text highlights that a procedure's meaning comes from its connection to larger workplace activities and the user's goals within that context, not from the operation in isolation.",
+      "explanation_mn": "Энэхүү текст нь процедурын утга учир нь ажлын байрны томоохон үйл ажиллагаа, хэрэглэгчийн тухайн нөхцөл дэх зорилготой холбогддог бөгөөд үйлдлийн ажиллагаанаас дангаараа үүсдэггүйг онцолсон.",
+      "question_number": 10,
+      "page_reference": "93-121"
+    }
+  ]
+}

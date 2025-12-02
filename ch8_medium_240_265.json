@@ -1,0 +1,441 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is the primary objective of using a Procedure Test Form?",
+      "question_mn": "Процедурын туршилтын маягт ашиглахын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To identify specific usability and accuracy issues within step-by-step documentation components.",       
+          "text_mn": "Алхам алхмаар зааварчилгааны бүрэлдэхүүн хэсгүүдийн хэрэглэхэд хялбар байдал, үнэн зөв эсэхийг тодорхойлох.",
+          "is_correct": true,
+          "source": "Page 241",
+          "explanation": "The Procedure Test Form (Figure 8.1) is structured to evaluate specific components like steps, graphics/screens, explanations, and terms, allowing evaluators to indicate which parts need correcting. This directly addresses usability and accuracy within the documentation."
+        },
+        {
+          "id": "B",
+          "text_en": "To establish the performance and learning objectives before conducting any documentation tests.",        
+          "text_mn": "Баримт бичгийн туршилтыг явуулахаас өмнө гүйцэтгэл болон суралцах зорилгыг тогтоох.",
+          "is_correct": false,
+          "source": "Page 242",
+          "explanation": "Setting performance and learning objectives is a crucial guideline for *planning* documentation tests (Figure 8.2), but it is a pre-test activity, not the objective of using the Procedure Test Form itself, which is a tool for data collection during the test."
+        },
+        {
+          "id": "C",
+          "text_en": "To determine the overall user satisfaction and general system functionality of a software product.",     
+          "text_mn": "Програм хангамжийн ерөнхий хэрэглэгчийн сэтгэл ханамж, системийн ерөнхий үйл ажиллагааг тодорхойлох.",   
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While related to usability testing, the Procedure Test Form is specifically designed for evaluating *step-by-step documentation* (procedures), not the overall satisfaction or general functionality of an entire software product."
+        },
+        {
+          "id": "D",
+          "text_en": "To measure the efficiency and speed of individual evaluators performing a task.",
+          "text_mn": "Бие даасан үнэлгээчдийн ажлыг гүйцэтгэх үр ашиг, хурдыг хэмжих.",
+          "is_correct": false,
+          "source": "Page 242",
+          "explanation": "The text explicitly states that a form like this 'helps the participant focus on the document rather than on his or her performance.' Therefore, measuring evaluator efficiency is not its primary goal."
+        }
+      ],
+      "concept": "Procedure Test Form for evaluating step-by-step documentation",
+      "difficulty": "medium",
+      "explanation_en": "The Procedure Test Form is a specialized tool designed to gather granular feedback on the specific elements of step-by-step documentation, such as individual steps, accompanying graphics, explanations, and terminology. Its primary goal is to help evaluators pinpoint exact areas where the procedure is unclear, inconsistent, or inaccurate, thereby facilitating targeted improvements to the documentation itself.",
+      "explanation_mn": "Процедурын туршилтын маягт нь алхам алхмаар зааварчилгааны тодорхой элементүүд, тухайлбал, тусгай алхамууд, дагалдах график, тайлбар, нэр томъёоны талаар нарийвчилсан санал хүсэлт цуглуулах зориулалттай тусгай хэрэгсэл юм. Үүний үндсэн зорилго нь үнэлгээчдэд процедур нь тодорхой бус, үл нийцэх эсвэл үнэн зөв бус байгаа талбаруудыг нарийн тогтооход туслах бөгөөд ингэснээр баримт бичигт зорилтот сайжруулалт хийх боломжийг олгодог.",
+      "question_number": 1,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "What is a crucial initial consideration for effective documentation usability testing?",
+      "question_mn": "Баримт бичгийн ашиглахад хялбар байдлын үр дүнтэй туршилтын чухал эхний алхам юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Interpreting the collected data to derive actionable insights for improvements.",
+          "text_mn": "Цуглуулсан өгөгдлийг тайлбарлан, сайжруулалт хийх боломжтой мэдээллийг гаргаж авах.",
+          "is_correct": false,
+          "source": "Figure 8.2, Guideline 9",
+          "explanation": "Interpreting data is a post-test analysis activity, occurring near the end of the usability testing process, not an initial planning consideration."
+        },
+        {
+          "id": "B",
+          "text_en": "Deciding precisely what specific aspects of the documentation need to be tested.",
+          "text_mn": "Баримт бичгийн аль хэсгүүдийг турших шаардлагатайг нарийн тодорхойлох.",
+          "is_correct": true,
+          "source": "Figure 8.2, Guideline 1",
+          "explanation": "This is the foundational first step in planning any usability test, as explicitly stated in the guidelines provided. Without knowing what to test, subsequent steps cannot be effectively planned or executed."
+        },
+        {
+          "id": "C",
+          "text_en": "Selecting the most qualified testers and evaluators for the study.",
+          "text_mn": "Судалгаанд хамгийн чадварлаг туршигч болон үнэлэгчдийг сонгох.",
+          "is_correct": false,
+          "source": "Figure 8.2, Guideline 5",
+          "explanation": "Selecting testers is an important planning step, but it comes after deciding what to test. You need to know the 'what' before you can optimally choose the 'who'."
+        },
+        {
+          "id": "D",
+          "text_en": "Setting up a test environment that perfectly simulates real-world user conditions.",
+          "text_mn": "Бодит хэрэглэгчийн нөхцөл байдлыг төгс дуурайсан туршилтын орчныг бүрдүүлэх.",
+          "is_correct": false,
+          "source": "Figure 8.2, Guideline 7",
+          "explanation": "Setting up the test environment is a crucial preparation step, but it occurs later in the process, after determining what to test and who will test it. Achieving a 'perfect' simulation is also often challenging and not the very first consideration."
+        }
+      ],
+      "concept": "Guidelines for planning and executing documentation usability tests",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly lists \"Decide what to test\" as the very first guideline for testing documentation (Figure 8.2, Guideline 1). Before selecting testers, preparing the environment, or interpreting data, the foundational step is to clearly define the scope and specific elements of the documentation that require evaluation. This ensures the entire testing process is focused and relevant.",
+      "explanation_mn": "Үндсэн агуулгад \"Юуг туршихаа шийдэх\" нь баримт бичгийг турших хамгийн эхний удирдамж болохыг тодорхой дурдсан байдаг (Зураг 8.2, Удирдамж 1). Туршигчдыг сонгох, орчныг бэлтгэх, өгөгдлийг тайлбарлахаас өмнө баримт бичгийн цар хүрээ, үнэлгээ шаардлагатай тодорхой элементүүдийг тодорхойлох нь суурь алхам юм. Энэ нь туршилтын бүх үйл явцыг төвлөрсөн, хамааралтай байлгахад тусална.",
+      "question_number": 2,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "What is a fundamental initial step when preparing to test documentation, crucial for effective planning?",
+      "question_mn": "Баримт бичгийг шалгахад бэлтгэх үеийн анхны суурь алхам юу вэ, энэ нь үр дүнтэй төлөвлөгөө гаргахад чухал байдаг?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Interpreting the collected data to identify areas for improvement.",
+          "text_mn": "Цуглуулсан өгөгдлийг тайлбарлан, сайжруулах шаардлагатай хэсгүүдийг тодорхойлох.",
+          "is_correct": false,
+          "source": "Page 242, Figure 8.2, Guideline 9",
+          "explanation": "Interpreting data occurs *after* the testing has been conducted, making it a post-test analysis activity, not an initial preparation step."
+        },
+        {
+          "id": "B",
+          "text_en": "Deciding what specific aspects of the documentation require evaluation.",
+          "text_mn": "Баримт бичгийн аль тодорхой хэсгүүдийг үнэлэх шаардлагатайг шийдэх.",
+          "is_correct": true,
+          "source": "Page 242, Figure 8.2, Guideline 1",
+          "explanation": "This directly reflects the first guideline 'Decide what to test' in Figure 8.2, emphasizing the crucial initial planning needed before any other test activities."
+        },
+        {
+          "id": "C",
+          "text_en": "Setting up the appropriate physical or virtual testing environment.",
+          "text_mn": "Тохирох физик эсвэл виртуал туршилтын орчинг бүрдүүлэх.",
+          "is_correct": false,
+          "source": "Page 242, Figure 8.2, Guideline 7",
+          "explanation": "Establishing the test environment is an execution preparation step, not an initial planning step for determining the focus of the test itself."
+        },
+        {
+          "id": "D",
+          "text_en": "Setting performance and learning objectives for the users.",
+          "text_mn": "Хэрэглэгчдийн гүйцэтгэл болон суралцах зорилгыг тодорхойлох.",
+          "is_correct": false,
+          "source": "Page 242, Figure 8.2, Guideline 4",
+          "explanation": "While an important planning step, setting objectives logically follows the decision of *what* to test, as outlined in the guidelines."
+        }
+      ],
+      "concept": "Three main stages for deciding when to test documentation (Design, Writing/Drafting, Post-release)",
+      "difficulty": "medium",
+      "explanation_en": "The primary context, specifically Figure 8.2 \"Guidelines for Testing Documentation,\" lists \"Decide what to test\" as the very first and foundational guideline. This step is crucial for effective planning because it defines the scope and focus of the entire testing process, making it an initial and fundamental activity when preparing to test documentation, aligning with the early design/planning stage.",
+      "explanation_mn": "Үндсэн агуулга, ялангуяа Зураг 8.2 \"Баримт бичгийг турших удирдамж\"-д \"Юуг туршихаа шийдэх\" нь хамгийн эхний бөгөөд суурь удирдамж гэж заасан байдаг. Энэ алхам нь туршилтын үйл явцын хамрах хүрээ, анхаарлыг тодорхойлдог тул үр дүнтэй төлөвлөгөө гаргахад маш чухал бөгөөд баримт бичгийг туршихад бэлтгэх анхны, суурь үйл ажиллагаа бөгөөд дизайны/төлөвлөлтийн эхний үетэй нийцдэг.",
+      "question_number": 3,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "Which principle enhances documentation's adaptability during its design phase?",
+      "question_mn": "Баримтжуулалтын дизайн хийх үе шатанд дасан зохицох чадварыг хамгийн сайн сайжруулдаг зарчим юу вэ?",    
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Setting clear performance and learning objectives for the evaluation.",
+          "text_mn": "Үнэлгээнд зориулсан тодорхой гүйцэтгэл болон суралцах зорилтуудыг тодорхойлох.",
+          "is_correct": false,
+          "source": "Page 242",
+          "explanation": "Setting objectives is an important planning step, but it defines what to measure, rather than providing the inherent flexibility to adapt the documentation design itself."
+        },
+        {
+          "id": "B",
+          "text_en": "Accurately recording information throughout the test execution.",
+          "text_mn": "Туршилтын гүйцэтгэлийн туршид мэдээллийг үнэн зөв тэмдэглэх.",
+          "is_correct": false,
+          "source": "Page 242",
+          "explanation": "While accurate recording is crucial for test reliability, it pertains to the execution phase, not the design phase's flexibility for changes."
+        },
+        {
+          "id": "C",
+          "text_en": "Selecting appropriate testers and evaluators for conducting the procedure test.",
+          "text_mn": "Процедурын туршилт хийхэд тохирох туршигч, үнэлэгчдийг сонгох.",
+          "is_correct": false,
+          "source": "Page 242",
+          "explanation": "Choosing the right personnel ensures effective testing, but it does not directly contribute to the flexibility of the documentation's design or subsequent changes."
+        },
+        {
+          "id": "D",
+          "text_en": "Adapting the test form and guidelines to the specific needs of the documentation project.",
+          "text_mn": "Туршилтын загвар болон удирдамжийг баримтжуулалтын төслийн тодорхой хэрэгцээнд тохируулан өөрчлөх.",     
+          "is_correct": true,
+          "source": "Page 240",
+          "explanation": "The text emphasizes adapting the test forms and guidelines to specific project needs. This early adaptation represents a form of predictive testing during the design phase of the testing process itself, allowing for maximum flexibility in shaping the documentation project to meet its unique requirements effectively."
+        }
+      ],
+      "concept": "Predictive Testing during the design phase for high flexibility in changes",
+      "difficulty": "medium",
+      "explanation_en": "The primary context highlights the importance of adapting test forms and guidelines to the specific needs of a documentation project. This proactive adaptation represents a form of predictive testing during the initial design phase of the testing process, allowing the project to maintain high flexibility for subsequent changes and better align with its unique requirements. This directly supports the concept of maximizing adaptability early on.",
+      "explanation_mn": "Үндсэн контекст нь туршилтын загвар болон удирдамжийг баримтжуулалтын төслийн тодорхой хэрэгцээнд тохируулан өөрчлөхийн чухал ач холбогдлыг онцолсон. Энэхүү идэвхтэй өөрчлөлт нь туршилтын процессын эхний дизайн хийх үе шатанд урьдчилан таамаглах туршилтын нэг хэлбэр бөгөөд төслийг дараагийн өөрчлөлтүүдэд өндөр уян хатан байлгах, өвөрмөц шаардлагад нь илүү сайн нийцүүлэх боломжийг олгодог. Энэ нь эрт үе шатанд дасан зохицох чадварыг нэмэгдүүлэх үзэл баримтлалыг шууд дэмждэг.",   
+      "question_number": 4,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "What is the primary purpose of using a procedure test form during documentation development?",
+      "question_mn": "Баримт бичиг боловсруулах явцад үйл ажиллагааны тест хийх маягтыг ашиглахын гол зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To assess the overall usability and effectiveness of the software application.",
+          "text_mn": "Програм хангамжийн ерөнхий ашиглах чадвар, үр ашгийг үнэлэх.",
+          "is_correct": false,
+          "source": "Page 241"
+        },
+        {
+          "id": "B",
+          "text_en": "To establish overarching performance objectives for the documentation project.",
+          "text_mn": "Баримт бичгийн төслийн ерөнхий гүйцэтгэлийн зорилгыг тогтоох.",
+          "is_correct": false,
+          "source": "Page 242"
+        },
+        {
+          "id": "C",
+          "text_en": "To identify specific elements within a procedure requiring immediate correction or rewriting.",
+          "text_mn": "Үйл ажиллагааны явцад шууд засах, эсвэл дахин бичих шаардлагатай тодорхой элементүүдийг тодорхойлох.",   
+          "is_correct": true,
+          "source": "Page 241"
+        },
+        {
+          "id": "D",
+          "text_en": "To gather general qualitative feedback on user experience for future iterations.",
+          "text_mn": "Ирээдүйн хувилбаруудад зориулж хэрэглэгчийн туршлагын талаарх ерөнхий чанарын санал хүсэлтийг цуглуулах.",
+          "is_correct": false,
+          "source": "Page 241"
+        }
+      ],
+      "concept": "Remedial Testing during drafting or writing for immediate corrections",
+      "difficulty": "medium",
+      "explanation_en": "The Procedure Test Form detailed in Figure 8.1 is a structured tool for evaluating step-by-step documentation. Its \"Part 3: Evaluation of the procedure\" section specifically includes fields to \"Indicate which steps need correcting,\" \"Indicate which graphics/screens need correcting,\" and \"Indicate which explanations need rewriting.\" This direct focus on identifying specific issues for immediate correction aligns perfectly with the concept of remedial testing during the drafting or writing phase.",
+      "explanation_mn": "Зураг 8.1-д дэлгэрэнгүй тайлбарласан \"Үйл ажиллагааны тест хийх маягт\" нь алхам алхмаар баримт бичгийг үнэлэх зорилготой, бүтэцлэгдсэн хэрэгсэл юм. Түүний \"Хэсэг 3: Үйл ажиллагааны үнэлгээ\" хэсэгт \"Аль алхмыг засах шаардлагатайг заах\", \"Аль график/дэлгэцийг засах шаардлагатайг заах\", \"Аль тайлбарыг дахин бичих шаардлагатайг заах\" гэсэн талбарууд тодорхой тусгагдсан байдаг. Энэ нь бичих эсвэл төсөл боловсруулах үе шатанд шууд засах шаардлагатай тодорхой асуудлуудыг тодорхойлоход чиглэсэн бөгөөд энэ нь нэмэлт засвар хийх тестийн үзэл баримтлалтай бүрэн нийцэж байна.",
+      "question_number": 5,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "What is the primary goal when utilizing a procedure test form for documentation evaluation?",
+      "question_mn": "Баримт бичгийн үнэлгээнд процедурын тест хийх маягтыг ашиглахын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To primarily assess the user's proficiency and speed in following the procedure.",
+          "text_mn": "Хэрэглэгчийн процедурыг дагаж мөрдөх чадвар, хурдыг голчлон үнэлэх.",
+          "is_correct": false,
+          "source": "Figure 8.2 description (Page 242)",
+          "explanation": "The text explicitly states that the form \"helps the participant focus on the document rather than on his or her performance,\" making user proficiency assessment a secondary or unintended focus."
+        },
+        {
+          "id": "B",
+          "text_en": "To generate a formal report for management approval of the current document version.",
+          "text_mn": "Баримт бичгийн одоогийн хувилбарыг удирдлагаар батлуулах албан ёсны тайлан боловсруулах.",
+          "is_correct": false,
+          "source": "Related concept, not directly supported by text",
+          "explanation": "While a report might follow, the form's immediate purpose is gathering improvement feedback, not solely gaining approval for the existing version."
+        },
+        {
+          "id": "C",
+          "text_en": "To pinpoint specific elements within the documentation requiring correction or rewriting for improvement.",
+          "text_mn": "Баримт бичигт засварлах, дахин бичих шаардлагатай тодорхой хэсгүүдийг тодорхойлох.",
+          "is_correct": true,
+          "source": "Figure 8.1 (Page 241)",
+          "explanation": "The Procedure Test Form (Figure 8.1) directly asks evaluators to identify specific elements like steps, graphics, explanations, and terms that need correction or rewriting, aiming to improve the documentation."
+        },
+        {
+          "id": "D",
+          "text_en": "To compare different documentation styles and choose the most aesthetically pleasing one.",
+          "text_mn": "Янз бүрийн баримт бичгийн хэв маягийг харьцуулж, хамгийн гоо зүйн хувьд тааламжтайг сонгох.",
+          "is_correct": false,
+          "source": "Irrelevant to primary context",
+          "explanation": "The form's evaluation criteria focus on clarity, correctness, and completeness (e.g., 'not enough detail'), not on aesthetic preferences or comparison of styles."
+        }
+      ],
+      "concept": "Evaluative/Field Evaluation Testing after product release for future release improvements",
+      "difficulty": "medium",
+      "explanation_en": "The Procedure Test Form, as depicted in Figure 8.1, explicitly guides evaluators to identify specific issues such as \"Indicate which steps need correcting,\" \"Indicate which graphics/screens need correcting,\" \"Indicate which explanations need rewriting,\" and \"Indicate which terms you had problems with.\" This structure ensures that the evaluation focuses on pinpointing precise areas for future revision and improvement of the documentation, rather than just assessing user performance or general satisfaction. The overall aim is to \"find out how well this procedure works\" by collecting actionable feedback for enhancements.",
+      "explanation_mn": "8.1-р зурагт үзүүлсэн Процедурын Туршилтын Хуудас нь үнэлгээчдэд \"Аль алхмуудыг засах шаардлагатайг зааж өгөх,\" \"Аль графикууд/дэлгэцүүдийг засах шаардлагатайг зааж өгөх,\" \"Аль тайлбаруудыг дахин бичих шаардлагатайг зааж өгөх,\" \"Аль нэр томъёотой холбоотой асуудалтай байсныг зааж өгөх\" зэрэг тодорхой асуудлуудыг тодорхойлоход чиглүүлдэг. Энэ бүтэц нь үнэлгээг зөвхөн хэрэглэгчийн гүйцэтгэл эсвэл ерөнхий сэтгэл ханамжийг үнэлэх бус, харин баримт бичгийг ирээдүйд шинэчлэх, сайжруулах нарийн талбаруудыг тодорхойлоход чиглүүлдэг. Ерөнхий зорилго нь сайжруулалтад чиглэсэн үнэлгээний санал хүсэлт цуглуулах замаар \"энэ процедур хэр сайн ажиллаж байгааг олж мэдэх\" явдал юм.",
+      "question_number": 6,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "What is the primary reason for carefully selecting test points when evaluating documentation?",
+      "question_mn": "Баримт бичгийг үнэлэхдээ туршилтын цэгүүдийг анхааралтай сонгохын гол шалтгаан юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To include every possible user interaction and scenario for comprehensive coverage.",
+          "text_mn": "Иж бүрэн хамрах хүрээг хангахын тулд хэрэглэгчийн бүх боломжит харилцан үйлчлэл, хувилбаруудыг оруулах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While comprehensiveness is valuable, the guidelines emphasize 'selecting' test points and 'deciding what to test' based on objectives, implying a focused approach rather than an exhaustive inclusion of every single scenario without clear objectives."
+        },
+        {
+          "id": "B",
+          "text_en": "To ensure the evaluation directly addresses the document's performance and learning objectives.",        
+          "text_mn": "Үнэлгээ нь баримт бичгийн гүйцэтгэл болон суралцах зорилтуудыг шууд хангаж байгаа эсэхийг баталгаажуулах.",
+          "is_correct": true,
+          "source": "Page 242, Figure 8.2 Guidelines for Testing Documentation, points 1, 2, and 4",
+          "explanation": "The text explicitly lists 'Set performance and learning objectives' as a guideline for testing documentation. These objectives then guide what to 'Decide what to test' and how to 'Select the test points,' ensuring the evaluation remains focused on the document's intended purpose and effectiveness."
+        },
+        {
+          "id": "C",
+          "text_en": "To make the testing process more efficient and quicker for evaluators.",
+          "text_mn": "Үнэлгээчдэд туршилтын процессыг илүү үр ашигтай, хурдан болгох.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While careful planning can make tests 'go more smoothly,' the primary reason for selecting specific test points is not just efficiency but ensuring the evaluation's relevance to the document's objectives."
+        },
+        {
+          "id": "D",
+          "text_en": "To primarily assess the evaluator's ability to accurately follow complex instructions.",
+          "text_mn": "Үнэлгээчийн нарийн төвөгтэй зааврыг зөв дагах чадварыг голчлон үнэлэх.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text states that the test form 'helps the participant focus on the document rather than on his or her performance,' indicating that the primary goal is not to assess the evaluator's skill."
+        }
+      ],
+      "concept": "Using document goals and objectives to guide test points",
+      "difficulty": "medium",
+      "explanation_en": "The text highlights that tests will be smoother and produce better results if planned carefully, explicitly listing 'Set performance and learning objectives' as a guideline. These objectives directly inform what to 'Decide what to test' and how to 'Select the test points,' ensuring the evaluation is focused and relevant to the document's intended effectiveness.",
+      "explanation_mn": "Уг текст нь туршилтыг сайтар төлөвлөвөл илүү сайн үр дүн өгч, жигд явагдана гэдгийг онцолж, 'гүйцэтгэл болон суралцах зорилтуудыг тодорхойлохыг' удирдамжийн нэг хэсэг болгон дурдсан. Эдгээр зорилтууд нь 'юуг туршихыг шийдэх', 'туршилтын цэгүүдийг сонгох' үйл явцад шууд нөлөөлж, үнэлгээг баримт бичгийн зорилгод чиглүүлэхэд чухал үүрэг гүйцэтгэдэг.",      
+      "question_number": 7,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "In documentation testing, what does 'selecting the test points' primarily involve?",
+      "question_mn": "Баримт бичгийн шалгалтад 'тестийн цэгүүдийг сонгох' нь юуг голчлон хамардаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Identifying specific document elements or issues that interfere with efficient procedure application.",  
+          "text_mn": "Үйл явцыг үр дүнтэй хэрэгжүүлэхэд саад учруулж буй баримт бичгийн тодорхой элементүүд эсвэл асуудлуудыг тодорхойлох.",
+          "is_correct": true,
+          "source": "Figure 8.1, Figure 8.2",
+          "explanation": "The primary context discusses 'Guidelines for Testing Documentation' which includes 'Select the test points.' The Procedure Test Form (Figure 8.1) details various aspects like 'Steps,' 'Graphics/screens,' 'Explanations,' and 'Terms' that evaluators assess for problems ('need correcting,' 'need rewriting,' 'had problems with'). Therefore, 'test points' refer to these specific issues within the documentation that could hinder a user's efficient application of the procedure."     
+        },
+        {
+          "id": "B",
+          "text_en": "Choosing the specific software tools used for automated test execution.",
+          "text_mn": "Автомат тестийн гүйцэтгэлд ашиглах тусгай програм хангамжийн хэрэгслүүдийг сонгох.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The context discusses human-centric usability testing with forms. While software tools might be used in some testing, 'test points' relate to the *content and structure* of the documentation, not the automation tools."
+        },
+        {
+          "id": "C",
+          "text_en": "Establishing the budget and timeline for the entire documentation project.",
+          "text_mn": "Баримт бичгийн төслийн төсөв болон хугацааг тогтоох.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Budget and timeline are project management aspects, not directly related to 'test points' which focus on the specific content issues within the documentation."
+        },
+        {
+          "id": "D",
+          "text_en": "Determining the overall performance goals for the testing participants.",
+          "text_mn": "Тестийн оролцогчдын ерөнхий гүйцэтгэлийн зорилгыг тодорхойлох.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While setting performance objectives is part of the guidelines, 'test points' specifically refer to the aspects of the *document* being evaluated for problems, not the overall goals for the *participants* themselves."
+        }
+      ],
+      "concept": "Definition of a 'test point' as an issue interfering with efficient program application",
+      "difficulty": "medium",
+      "explanation_en": "The primary context discusses 'Guidelines for Testing Documentation' which includes 'Select the test points.' The Procedure Test Form (Figure 8.1) details various aspects like 'Steps,' 'Graphics/screens,' 'Explanations,' and 'Terms' that evaluators assess for problems ('need correcting,' 'need rewriting,' 'had problems with'). Therefore, 'test points' refer to these specific issues within the documentation that could hinder a user's efficient application of the procedure.",     
+      "explanation_mn": "Үндсэн контекст нь 'Баримт бичгийг шалгах удирдамж'-ийг хэлэлцдэг бөгөөд үүнд 'Тестийн цэгүүдийг сонгох' багтдаг. Процедурын тестийн маягт (Зураг 8.1) нь 'Алхамууд', 'График/Дэлгэц', 'Тайлбарууд' болон 'Нэр томъёо' зэрэг үнэлгээчдийн үнэлдэг асуудлуудыг ('засварлах шаардлагатай', 'дахин бичих шаардлагатай', 'асуудалтай байсан') нарийвчлан харуулдаг. Иймээс 'тестийн цэгүүд' нь баримт бичиг доторх хэрэглэгчийн үйл явцыг үр дүнтэй хэрэгжүүлэхэд саад учруулж болзошгүй эдгээр тодорхой асуудлуудыг хэлнэ.",
+      "question_number": 8,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "When evaluating step-by-step documentation, which two primary categories of issues does a Procedure Test Form help identify?",
+      "question_mn": "Алхам алхмаар зааврыг үнэлэхэд Процедурын Туршилтын Хэлбэр нь ямар хоёр үндсэн ангиллын асуудлыг тодорхойлоход тусалдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "The document's length and the time taken for completion.",
+          "text_mn": "Баримт бичгийн урт болон гүйцэтгэлд зарцуулсан цаг.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The form records start and end times, but these are metrics of performance, not primary categories of problems identified within the detailed evaluation sections. Document length is not directly evaluated as a problem category."
+        },
+        {
+          "id": "B",
+          "text_en": "The evaluator's personal preferences and the document's aesthetic appeal.",
+          "text_mn": "Үнэлгээчийн хувийн сонирхол болон баримт бичгийн гоо зүйн үзэмж.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While evaluators have preferences, the form focuses on objective functional issues, not subjective aesthetic appeal or personal likes/dislikes."
+        },
+        {
+          "id": "C",
+          "text_en": "Issues related to the specific textual and visual elements, and difficulties in following the procedure's overall flow and logical arrangement.",
+          "text_mn": "Бичвэр болон дүрслэлийн элементүүдтэй холбоотой асуудлууд, мөн процедурын ерөнхий урсгал, логик дарааллыг дагахад тулгардаг бэрхшээлүүд.",
+          "is_correct": true,
+          "source": "Figure 8.1",
+          "explanation": "The Procedure Test Form provides specific sections like 'Steps', 'Graphics/screens', 'Explanations', and 'Terms', which directly point to problems with the content of the documentation (textual and visual elements). Additionally, the 'Progress' section, especially 'didn't get to step#', indicates issues with the overall design, flow, or logical arrangement of the procedure that prevent successful completion."
+        },
+        {
+          "id": "D",
+          "text_en": "The technical jargon used and the number of graphical elements included.",
+          "text_mn": "Ашигласан техникийн нэр томьёо болон багтсан график элементүүдийн тоо.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "These are specific aspects addressed within the 'Terms' and 'Graphics/screens' sections, which are components of 'content' issues, but they do not represent the two overarching categories of problems (content and design/flow)." 
+        }
+      ],
+      "concept": "Two main areas for test points: problems with content and problems with document design",
+      "difficulty": "medium",
+      "explanation_en": "The Procedure Test Form systematically evaluates specific elements of the documentation, such as 'Steps', 'Graphics/screens', 'Explanations', and 'Terms', which directly correspond to issues with the content (textual and visual information). Furthermore, the 'Progress' section, particularly the inability to complete the procedure ('didn't get to step#'), points to fundamental problems with the overall design, logical flow, or usability of the documented procedure. Thus, the form helps identify both content-specific inaccuracies and broader design-related challenges.",
+      "explanation_mn": "Процедурын Туршилтын Хэлбэр нь 'Алхмууд', 'График/Дэлгэц', 'Тайлбарууд' болон 'Нэр томьёо' зэрэг баримт бичгийн тодорхой элементүүдийг системтэйгээр үнэлдэг бөгөөд эдгээр нь агуулгатай (бичвэр болон дүрслэлийн мэдээлэл) холбоотой асуудлууд юм. Түүнчлэн, 'Явц' хэсэг, ялангуяа процедурын гүйцэтгэл амжилтгүй болсон ('алхамд хүрээгүй') нь процедурын ерөнхий загвар, логик урсгал эсвэл хэрэглэхэд хялбар байдалтай холбоотой суурь асуудлуудыг зааж өгдөг. Иймээс энэхүү хэлбэр нь агуулгатай холбоотой алдаа дутагдал болон илүү өргөн хүрээний загвартай холбоотой сорилтуудыг тодорхойлоход тусалдаг.",
+      "question_number": 9,
+      "page_reference": "270-295"
+    },
+    {
+      "question_en": "Which crucial function does a procedure test form serve in identifying potential user difficulties within documentation?",
+      "question_mn": "Зааварчилгааны тестийн маягт нь баримт бичгийн хэрэглэгчийн бэрхшээлийг тодорхойлоход ямар чухал үүрэгтэй вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Establishing clear performance and learning objectives for the evaluation.",
+          "text_mn": "Үнэлгээний гүйцэтгэл, сургалтын зорилгыг тодорхой тогтоох.",
+          "is_correct": false,
+          "source": "Figure 8.2",
+          "explanation": "While setting performance and learning objectives (Figure 8.2) is a guideline for testing documentation, it's a preparatory step, not the primary function of the test form itself for identifying specific user difficulties during the actual procedure evaluation."
+        },
+        {
+          "id": "B",
+          "text_en": "Ensuring accurate and consistent recording of test session timing.",
+          "text_mn": "Туршилтын хугацааг үнэн зөв, тууштай тэмдэглэн баталгаажуулах.",
+          "is_correct": false,
+          "source": "Figure 8.1",
+          "explanation": "The form records exact start and end times, which is important for data collection, but this is a logistical aspect of the test, not the core function related to identifying *user difficulties* within the documentation content or design."
+        },
+        {
+          "id": "C",
+          "text_en": "Gathering general subjective comments about the evaluator's overall experience.",
+          "text_mn": "Үнэлгээчийн ерөнхий сэтгэгдэл, туршлагын талаар мэдээлэл цуглуулах.",
+          "is_correct": false,
+          "source": "Figure 8.1",
+          "explanation": "The form includes a 'Comments' section for general feedback, but its crucial function in identifying difficulties lies in the specific, structured feedback sections for steps, graphics, explanations, and terms, which go beyond general subjective comments."
+        },
+        {
+          "id": "D",
+          "text_en": "Pinpointing specific problematic steps, graphics, explanations, or terms for correction.",
+          "text_mn": "Алдаатай алхамууд, график, тайлбар, нэр томъёог залруулахаар тодорхойлох.",
+          "is_correct": true,
+          "source": "Figure 8.1",
+          "explanation": "The Procedure Test Form (Figure 8.1) is specifically designed with sections like 'Steps,' 'Graphics/screens,' 'Explanations,' and 'Terms' where evaluators are prompted to 'Indicate which steps need correcting,' 'Indicate which graphics/screens need correcting,' etc. This directly serves the function of pinpointing concrete areas of difficulty for users within the documentation, allowing for targeted improvements."
+        }
+      ],
+      "concept": "Identifying test points by sensing potential user difficulties (e.g., software errors at content or design level)",
+      "difficulty": "medium",
+      "explanation_en": "The Procedure Test Form (Figure 8.1) is specifically designed with sections like 'Steps,' 'Graphics/screens,' 'Explanations,' and 'Terms' where evaluators are prompted to 'Indicate which steps need correcting,' 'Indicate which graphics/screens need correcting,' etc. This directly serves the function of pinpointing concrete areas of difficulty for users within the documentation, allowing for targeted improvements. The distractors represent other aspects of testing or documentation that are either preparatory, too general, or logistical, rather than directly addressing the identification of specific content/design level user difficulties through the structured form.",
+      "explanation_mn": "Зааварчилгааны тестийн маягт (Зураг 8.1) нь 'Алхамууд', 'График/Дэлгэц', 'Тайлбар', 'Нэр томъёо' зэрэг хэсгүүдэд тусгайлан зориулагдсан бөгөөд үнэлгээчдэд 'Ямар алхамд залруулга хийх шаардлагатайг заана уу', 'Ямар график/дэлгэцэд залруулга хийх шаардлагатайг заана уу' гэх мэтээр асуулт тавьдаг. Энэ нь баримт бичиг доторх хэрэглэгчийн бэрхшээлтэй тулгарсан тодорхой хэсгүүдийг олж тогтооход чухал үүрэг гүйцэтгэдэг бөгөөд ингэснээр зорилтот сайжруулалт хийх боломжтой болдог. Бусад хариултууд нь туршилтын бэлтгэл ажил, хэт ерөнхий эсвэл зохион байгуулалтын шинж чанартай бусад талуудыг илэрхийлдэг бөгөөд бүтцийн дагуух маягтаар дамжуулан хэрэглэгчийн тодорхой агуулга/дизайны түвшний бэрхшээлийг тодорхойлохтой шууд холбоогүй юм.",   
+      "question_number": 10,
+      "page_reference": "270-295"
+    }
+  ]
+}

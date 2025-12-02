@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is an advantage of using the same information across different documentation forms?",
+      "question_mn": "Янз бүрийн баримт бичгийн хэлбэрүүдэд ижил мэдээллийг ашиглахын давуу тал юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Reduces overall documentation length",
+          "text_mn": "Баримт бичгийн нийт уртыг багасгана",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "While efficiency is a general goal, the text specifically highlights consistency as the advantage of using the same information across forms, not primarily reducing length."
+        },
+        {
+          "id": "B",
+          "text_en": "Speeds up the writing process significantly",
+          "text_mn": "Бичих процессыг ихээхэн хурдасгана",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Although some time might be saved, the primary advantage cited for using the same information in different forms is ensuring consistency for both writers and users, rather than speeding up the writing process directly."
+        },
+        {
+          "id": "C",
+          "text_en": "Ensures consistency for writers and users",
+          "text_mn": "Бичигчид болон хэрэглэгчдэд тогтвортой байдлыг хангана",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "Using the same information in each form helps writers see consistency and helps users learn due to consistent information."
+        },
+        {
+          "id": "D",
+          "text_en": "Limits the need for cross-referencing",
+          "text_mn": "Загалмайн лавлах хэрэгцээг хязгаарлана",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "The text mentions users learning how to cross-reference information, not that using the same information *limits* this need. Consistency is the main benefit."
+        }
+      ],
+      "concept": "Forms of Reference Documents",
+      "difficulty": "easy",
+      "explanation_en": "The text states that using the same information in each form helps writers ensure consistency among forms and helps users learn by providing consistent information.",
+      "explanation_mn": "Эх сурвалжид дурдсанаар, янз бүрийн хэлбэрээр ижил мэдээллийг ашиглах нь зохиогчдод хэлбэрүүдийн хоорондын уялдаа холбоог хангах, хэрэглэгчдэд тууштай мэдээлэл өгөх замаар сурахад тусалдаг.",
+      "question_number": 1,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What advantage does using the same information across different documentation forms offer a writer?",    
+      "question_mn": "Янз бүрийн баримт бичгийн хэлбэрээр ижил мэдээллийг ашиглах нь зохиолчид ямар давуу тал олгодог вэ?",    
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Eliminates the need for appendices.",
+          "text_mn": "Хавсралтуудын хэрэгцээг арилгах.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "The text mentions appendices as containing valuable information, implying they are still needed."    
+        },
+        {
+          "id": "B",
+          "text_en": "Reduces the number of document types.",
+          "text_mn": "Баримт бичгийн төрлийг цөөлөх.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "The text discusses designing a documentation set with multiple kinds, not reducing the number of types."
+        },
+        {
+          "id": "C",
+          "text_en": "See consistency among forms.",
+          "text_mn": "Хэлбэрүүдийн хоорондын уялдаа холбоог харах.",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The text explicitly states: \"Using the same information in each form helps you as a writer because you can see the consistency among the forms.\""
+        },
+        {
+          "id": "D",
+          "text_en": "Simplifies program function details.",
+          "text_mn": "Програмын үйл ажиллагааны нарийвчилсан мэдээллийг хялбарчлах.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Consistency in documentation helps the writer manage the information, not inherently simplify the program's functions."
+        }
+      ],
+      "concept": "Consistency in Documentation Design",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that \"Using the same information in each form helps you as a writer because you can see the consistency among the forms.\" This directly identifies seeing consistency as a key advantage for the writer.",
+      "explanation_mn": "Анхдагч контекстэд \"Мэдээллийг хэлбэр бүрт ашиглах нь танд зохиолчийн хувьд хэлбэрүүдийн хоорондын уялдаа холбоог харах боломжийг олгодог\" гэж заасан байдаг. Энэ нь уялдаа холбоог харах нь зохиолчийн хувьд гол давуу тал болохыг шууд тодорхойлж байна.",
+      "question_number": 2,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "Which element of a structured reference entry shows how to use a function?",
+      "question_mn": "Бүтэцлэгдсэн лавлах мэдээллийн ямар элемент нь функцийг хэрхэн ашиглахыг харуулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Function entry",
+          "text_mn": "Функцийн нэр",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Function entry tells what the function does, not how to use it."
+        },
+        {
+          "id": "B",
+          "text_en": "Examples",
+          "text_mn": "Жишээнүүд",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Examples apply the entry to workplace uses, rather than showing the basic usage declaration."        
+        },
+        {
+          "id": "C",
+          "text_en": "Remarks",
+          "text_mn": "Тайлах хэсэг",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Remarks help the user know when to apply the function, not how to use it."
+        },
+        {
+          "id": "D",
+          "text_en": "Declaration",
+          "text_mn": "Зарлагдах хэсэг",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "Declaration shows how to use the function."
+        }
+      ],
+      "concept": "Elements of a Structured Reference Entry",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that 'Declaration shows Move procedure how to use the function.' This directly answers how to use a function.",
+      "explanation_mn": "Үндсэн контекстэд 'Зарлагдах хэсэг нь Move процедур функцийг хэрхэн ашиглахыг харуулдаг' гэж дурдсан байна. Энэ нь функцийг хэрхэн ашиглах тухай асуултад шууд хариулдаг.",
+      "question_number": 3,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is the purpose of a function entry?",
+      "question_mn": "Функцийн оруулгын зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To describe what the function does",
+          "text_mn": "Функц юу хийдгийг тайлбарлах",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The text states, 'Function entry tells what the function Move procedure does,' directly defining its purpose."
+        },
+        {
+          "id": "B",
+          "text_en": "To show how to use the function",
+          "text_mn": "Функцийг хэрхэн ашиглахыг харуулах",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of the 'Declaration' section, not the function entry itself."
+        },
+        {
+          "id": "C",
+          "text_en": "To provide workplace application examples",
+          "text_mn": "Ажлын байранд хэрэглэх жишээ өгөх",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of the 'Examples' section, not the function entry."
+        },
+        {
+          "id": "D",
+          "text_en": "To explain when to apply the function",
+          "text_mn": "Функцийг хэзээ хэрэглэхийг тайлбарлах",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of the 'Remarks' section, not the function entry."
+        }
+      ],
+      "concept": "Purpose of Function Entry",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, 'Function entry tells what the function Move procedure does,' clearly defining its purpose.",
+      "explanation_mn": "Үндсэн контекстэд 'Функцийн оруулга нь Move процедур юу хийдгийг хэлж өгдөг' гэж тодорхой заасан нь түүний зорилгыг тодорхой харуулж байна.",
+      "question_number": 4,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is the purpose of a declaration in a reference entry?",
+      "question_mn": "Лавлах бичлэгийн тунхаглалын зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Shows how to use the function.",
+          "text_mn": "Функцийг хэрхэн ашиглахыг харуулна.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text explicitly states that 'Declaration shows Move procedure how to use the function.'"
+        },
+        {
+          "id": "B",
+          "text_en": "Describes what the function does.",
+          "text_mn": "Функц юу хийдгийг тайлбарлана.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes the 'Function entry', not the 'Declaration'."
+        },
+        {
+          "id": "C",
+          "text_en": "Indicates when to apply the function.",
+          "text_mn": "Функцийг хэзээ ашиглахыг заана.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes the purpose of 'Remarks', not the 'Declaration'."
+        },
+        {
+          "id": "D",
+          "text_en": "Helps find the entry alphabetically.",
+          "text_mn": "Бичлэгийг цагаан толгойн үсгийн дарааллаар олоход тусална.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes the purpose of 'Edge bleed', not the 'Declaration'."
+        }
+      ],
+      "concept": "Purpose of Declaration in Reference Entries",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'Declaration shows Move procedure how to use the function.' Other options describe different elements of a reference entry structure.",
+      "explanation_mn": "Тунхаглал нь функцийг хэрхэн ашиглахыг харуулдаг гэж текстэнд тодорхой заасан байна. Бусад сонголтууд нь лавлах бичлэгийн өөр элементийн бүтцийг тайлбарласан болно.",
+      "question_number": 5,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is the role of Remarks in a reference entry?",
+      "question_mn": "Лавлах бичиглэл дэх Тайлал (Remarks)-ын үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Show how to use the function.",
+          "text_mn": "Функцийг хэрхэн ашиглахыг харуулна.",
+          "is_correct": false,
+          "source": "Page 94, Figure 4.1",
+          "explanation": "This describes the purpose of the 'Declaration', not 'Remarks'."
+        },
+        {
+          "id": "B",
+          "text_en": "Help the user know when to apply the function.",
+          "text_mn": "Хэрэглэгчид функцийг хэзээ ашиглахаа мэдэхэд тусална.",
+          "is_correct": true,
+          "source": "Page 94, Figure 4.1",
+          "explanation": "Remarks in a structured reference entry explicitly state conditions or context for function application."
+        },
+        {
+          "id": "C",
+          "text_en": "Provide usage examples.",
+          "text_mn": "Ашиглалтын жишээг өгнө.",
+          "is_correct": false,
+          "source": "Page 94, Figure 4.1",
+          "explanation": "This describes the purpose of 'Examples', not 'Remarks'."
+        },
+        {
+          "id": "D",
+          "text_en": "Describe what the function does.",
+          "text_mn": "Функцийн юу хийдгийг тайлбарлана.",
+          "is_correct": false,
+          "source": "Page 94, Figure 4.1",
+          "explanation": "This describes the purpose of the 'Function entry', not 'Remarks'."
+        }
+      ],
+      "concept": "Role of Remarks in Reference Entries",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, 'Remarks help the user know when to apply the function,' directly defining their role in a reference entry.",
+      "explanation_mn": "Анхдагч контекстэд 'Тайлал (Remarks) нь хэрэглэгчид функцийг хэзээ ашиглахаа мэдэхэд тусална' гэж тодорхой заасан нь тэдгээрийн лавлах бичиглэл дэх үүргийг шууд тодорхойлж байна.",
+      "question_number": 6,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What information is often found in software manual appendices?",
+      "question_mn": "Програм хангамжийн гарын авлагын хавсралтад ямар мэдээлэл ихэвчлэн байдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "General user procedures",
+          "text_mn": "Хэрэглэгчийн ерөнхий процедурууд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "General user procedures are typically found in the main user's guide, not specifically in appendices which are for detailed technical information."
+        },
+        {
+          "id": "B",
+          "text_en": "Highly detailed, technical information",
+          "text_mn": "Маш нарийвчилсан, техникийн мэдээлэл",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states, 'Appendices allow documenters a place to put all the highly detailed, technical information...'"
+        },
+        {
+          "id": "C",
+          "text_en": "Function entry declarations",
+          "text_mn": "Функцийн оруулгын тунхаглал",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Function entry declarations are part of structured reference entries, not the primary content of appendices."
+        },
+        {
+          "id": "D",
+          "text_en": "Quick reference guides",
+          "text_mn": "Түргэн лавлах гарын авлага",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Quick reference guides are mentioned as a separate form of documentation, distinct from the detailed technical information found in appendices."
+        }
+      ],
+      "concept": "Appendices in Software Manuals",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that appendices are used to house 'all the highly detailed, technical information' related to the program, making them a valuable resource for in-depth technical details.",
+      "explanation_mn": "Үндсэн контекстэд хавсралтууд нь програмын талаарх 'маш нарийвчилсан, техникийн мэдээлэл' бүрийг байршуулахад ашиглагддаг бөгөөд энэ нь нарийвчилсан техникийн мэдээллийн үнэ цэнэтэй эх сурвалж болдог гэж тодорхой заасан байна.", 
+      "question_number": 7,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What information is typically found in software manual appendices?",
+      "question_mn": "Програм хангамжийн гарын авлагын хавсралтад ихэвчлэн ямар мэдээлэл байдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Highly detailed, technical information",
+          "text_mn": "Маш нарийвчилсан, техникийн мэдээлэл",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The text explicitly states that appendices are where 'all the highly detailed, technical information' is placed."
+        },
+        {
+          "id": "B",
+          "text_en": "Examples and usage remarks",
+          "text_mn": "Жишээнүүд болон хэрэглээний тайлбарууд",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Examples and remarks are specific elements within reference entries, not the primary focus of an appendix."
+        },
+        {
+          "id": "C",
+          "text_en": "Quick reference guides and procedures",
+          "text_mn": "Түргэн лавлах болон үйлдлийн заавар",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Quick reference and procedures are mentioned as separate forms of documentation, not typically the core content of appendices."
+        },
+        {
+          "id": "D",
+          "text_en": "Function entries and declarations",
+          "text_mn": "Функцийн оруулга ба зарлагууд",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Function entries and declarations are components of a structured reference entry, not the general content of an appendix."
+        }
+      ],
+      "concept": "Typical Content of Appendices",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that appendices in a software manual contain 'all the highly detailed, technical information'.",
+      "explanation_mn": "Үндсэн контекстэд програм хангамжийн гарын авлагын хавсралтууд нь 'бүх маш нарийвчилсан, техникийн мэдээлэл'-ийг агуулдаг гэж заасан.",
+      "question_number": 8,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is a primary benefit of using the same information in different forms of reference documentation?", 
+      "question_mn": "Лавлах баримт бичгийн өөр өөр хэлбэрт ижил мэдээллийг ашиглахын гол ашиг тус юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Ensuring consistency across forms",
+          "text_mn": "Хэлбэрүүдийн хоорондын уялдаа холбоог хангах",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The text states that using the same information in each form helps the writer see consistency and helps the user learn how to cross-reference, emphasizing 'Consistent information'."
+        },
+        {
+          "id": "B",
+          "text_en": "Including online help keyword references",
+          "text_mn": "Онлайн тусламжийн түлхүүр үгийн ишлэлийг оруулах",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Online help references are a specific example of cross-referencing, but not the overarching primary benefit of maintaining the same information across multiple documentation forms."
+        },
+        {
+          "id": "C",
+          "text_en": "Providing highly detailed technical data",
+          "text_mn": "Маш нарийвчилсан техникийн мэдээлэл өгөх",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While detailed technical data is important (often found in appendices), it is not the primary benefit of using the *same* information across *different forms* as highlighted in the text."
+        },
+        {
+          "id": "D",
+          "text_en": "Offering specific workplace application examples",
+          "text_mn": "Ажлын байрны тодорхой хэрэглээний жишээг санал болгох",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Examples are valuable components of reference entries, but this is a feature within a form, not the primary benefit derived from using the *same information* across *multiple forms*."
+        }
+      ],
+      "concept": "Guidelines for Designing Reference Documentation",
+      "difficulty": "easy",
+      "explanation_en": "The primary context highlights that using the same information in different forms of documentation ensures consistency, which benefits both the writer by allowing them to see consistency and the user by helping them cross-reference information effectively.",
+      "explanation_mn": "Үндсэн контекст нь баримт бичгийн янз бүрийн хэлбэрт ижил мэдээллийг ашиглах нь уялдаа холбоог баталгаажуулдаг бөгөөд энэ нь зохиогчид уялдаа холбоог харахад, хэрэглэгчид мэдээллийг үр дүнтэй харьцуулан үзэхэд тусалдаг болохыг онцолжээ.",
+      "question_number": 9,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What information do appendices typically contain in a software manual?",
+      "question_mn": "Програм хангамжийн гарын авлага дахь хавсралтууд нь ихэвчлэн ямар мэдээлэл агуулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Program function declarations",
+          "text_mn": "Програмын функцийн тунхаглал",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "B",
+          "text_en": "Basic user instructions",
+          "text_mn": "Хэрэглэгчийн үндсэн заавар",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "C",
+          "text_en": "Quick reference procedures",
+          "text_mn": "Түргэн лавлах журам",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "D",
+          "text_en": "Highly detailed, technical information",
+          "text_mn": "Өндөр нарийвчилсан, техникийн мэдээлэл",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "Appendices allow documenters a place to put all the highly detailed, technical information."
+        }
+      ],
+      "concept": "Readme Files as Update Information",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that appendices in a software manual allow documenters to include highly detailed, technical information.",
+      "explanation_mn": "Өгөгдсөн эх сурвалжид програм хангамжийн гарын авлага дахь хавсралтууд нь баримт бичиг боловсруулагчдад өндөр нарийвчилсан, техникийн мэдээллийг оруулах боломжийг олгодог гэж заасан.",
+      "question_number": 10,
+      "page_reference": "123-151"
+    }
+  ]
+}

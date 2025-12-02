@@ -1,0 +1,401 @@
+{
+  "total_generated": 9,
+  "mcqs": [
+    {
+      "question_en": "When initiating a technical documentation project, what fundamental purpose does reviewing the user analysis serve in the design process?",
+      "question_mn": "Техникийн баримт бичгийн төслийг эхлүүлэхдээ хэрэглэгчийн дүн шинжилгээг хянах нь дизайны үйл явцад ямар суурь зорилгыг гүйцэтгэдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It identifies the technical specifications and functional requirements of the software, ensuring documentation precisely reflects system capabilities.",
+          "text_mn": "Энэ нь программ хангамжийн техникийн тодорхойлолт, функциональ шаардлагыг тодорхойлж, баримт бичиг нь системийн чадавхийг үнэн зөв тусгасан эсэхийг баталгаажуулдаг.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "User analysis focuses on understanding the user's needs and tasks in relation to the software, not on defining the software's inherent technical specifications or functional requirements. While documentation must reflect these, their definition is typically an earlier stage in software development, separate from user analysis for documentation design." 
+        },
+        {
+          "id": "B",
+          "text_en": "It provides a broad psychological understanding of user behavior and cognitive processes, which helps in theoretical discussions of design problems.",
+          "text_mn": "Энэ нь хэрэглэгчийн зан үйл, танин мэдэхүйн үйл явцын талаарх өргөн хүрээний сэтгэлзүйн ойлголтыг өгдөг бөгөөд энэ нь дизайны асуудлын онолын хэлэлцүүлэгт тусалдаг.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "While the text mentions a \"psychological discussion of users\" for broadening understanding, Guideline 5's practical purpose in the design process is to establish concrete goals based on user tasks and needs, not solely to provide broad theoretical insight."
+        },
+        {
+          "id": "C",
+          "text_en": "It outlines specific document elements such as headers, headings, and typographic patterns to enhance information location and visual hierarchy.",
+          "text_mn": "Энэ нь мэдээллийн байршил, харааны шатлалыг сайжруулахын тулд гарчиг, дэд гарчиг, үсгийн загвар зэрэг баримт бичгийн тодорхой элементүүдийг тодорхойлдог.",
+          "is_correct": false,
+          "source": "Page 304, Figure 10.1, Figure 10.3",
+          "explanation": "The text discusses headers, headings, and typographic patterns as 'elements of document design' and 'guidelines for designing documents.' These are specific implementation details or structural components, which are outcomes of design, rather than the initial user analysis that defines the overall goals and user needs."
+        },
+        {
+          "id": "D",
+          "text_en": "It establishes the documentation's overall goals by identifying users' specific workplace tasks and needs, fundamentally shaping the design strategy.",
+          "text_mn": "Энэ нь хэрэглэгчийн ажлын байран дахь тодорхой даалгавар, хэрэгцээг тодорхойлж, баримт бичгийн ерөнхий зорилгыг тогтоосноор дизайны стратегийг үндсэндээ бүрдүүлдэг.",
+          "is_correct": true,
+          "source": "Page 304",
+          "explanation": "The primary context explicitly states, \"The user analysis will suggest overall goals for your documents. What workplace tasks do they use...\" and links document design to \"meeting users' needs.\" This guideline defines the core objectives based on user interaction and requirements."
+        }
+      ],
+      "concept": "Guideline 5: Review the User Analysis",
+      "difficulty": "hard",
+      "explanation_en": "Guideline 5, 'Review the User Analysis,' is presented as a practical tip for initiating a project. Its fundamental purpose is to establish the 'overall goals for your documents' by understanding 'users’ needs' and 'What workplace tasks do they use.' This deep dive into user requirements is crucial for shaping the entire design strategy, ensuring the documentation directly addresses what users need to accomplish. Distractors refer to broader theoretical understandings of users, specific design elements, or technical specifications, which are either subsequent steps, different aspects, or not the primary focus of user analysis within the context of defining documentation goals.",
+      "explanation_mn": "Удирдамж 5, 'Хэрэглэгчийн дүн шинжилгээг хянах,' нь төслийг эхлүүлэхэд зориулсан практик зөвлөгөө юм. Түүний үндсэн зорилго нь 'хэрэглэгчдийн хэрэгцээ', 'ажлын байран дахь ямар даалгавруудыг гүйцэтгэдэг вэ' гэдгийг ойлгосноор 'баримт бичгийн ерөнхий зорилгыг' тогтоох явдал юм. Хэрэглэгчийн шаардлагыг гүнзгийрүүлэн судлах нь дизайны бүх стратегийг тодорхойлоход чухал ач холбогдолтой бөгөөд баримт бичиг нь хэрэглэгчдийн хэрэгцээг шууд хангаж байгаа эсэхийг баталгаажуулдаг. Буруу хариултууд нь хэрэглэгчдийн талаарх илүү өргөн хүрээний онолын ойлголт, дизайны тодорхой элементүүд эсвэл техникийн үзүүлэлтүүдийг дурдсан бөгөөд эдгээр нь дараагийн алхамууд, өөр талууд эсвэл баримт бичгийн зорилгыг тодорхойлох хүрээнд хэрэглэгчийн дүн шинжилгээний үндсэн зорилго биш юм.",
+      "question_number": 1,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "When addressing the fundamental design problems in technical documentation, what core insight does a psychological discussion of users provide?",
+      "question_mn": "Техникийн баримт бичгийн үндсэн дизайны асуудлыг шийдвэрлэхэд хэрэглэгчийн сэтгэл зүйн хэлэлцүүлэг ямар гол ойлголтыг өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It serves as a comprehensive gallery of proven document and screen design features, offering practical examples and guidelines for immediate implementation.",
+          "text_mn": "Энэ нь баримт бичиг, дэлгэцийн дизайны батлагдсан онцлог шинж чанаруудын иж бүрэн галлерей бөгөөд шууд хэрэгжүүлэх практик жишээ, удирдамжийг санал болгодог.",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "The text states that 'Solutions to the Design Problem' acts as a 'gallery of features.' This distractor incorrectly attributes the function of providing a gallery of solutions to the 'psychological discussion of users' which is intended to deepen understanding of the problem itself."
+        },
+        {
+          "id": "B",
+          "text_en": "It offers fundamental insights into user cognitive behaviors and motivations, essential for precisely defining the design problem and effective solution development.",
+          "text_mn": "Энэ нь хэрэглэгчийн танин мэдэхүйн зан байдал, сэдэл зүйн суурь ойлголтыг өгдөг бөгөөд дизайны асуудлыг тодорхойлж, үр дүнтэй шийдлүүдийг боловсруулахад чухал юм.",
+          "is_correct": true,
+          "source": "PRIMARY CONTEXT",
+          "explanation": "The text explicitly mentions a 'psychological discussion of users under the heading “The Design Problem”' as a means for broadening understanding. This indicates that comprehending users' cognitive processes, motivations, and behaviors is fundamental to accurately defining the core design challenges in technical documentation. Such deep psychological insight enables the development of truly effective solutions by addressing user needs at a foundational level, rather than just surface-level tasks or existing features."
+        },
+        {
+          "id": "C",
+          "text_en": "It facilitates deeper user analysis by identifying explicit task goals and refining overall document objectives for specific workplace applications.",
+          "text_mn": "Энэ нь хэрэглэгчийн шинжилгээг гүнзгийрүүлж, ажлын байрны хэрэглээнд зориулсан баримт бичгийн зорилго, даалгаврын зорилгыг тодорхойлоход тусалдаг.",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "While user analysis is mentioned and important, a 'psychological discussion' delves deeper than just identifying explicit task goals. It explores the underlying cognitive and behavioral mechanisms, which is more profound than merely refining objectives based on surface-level tasks."
+        },
+        {
+          "id": "D",
+          "text_en": "It establishes a standardized organizational hierarchy for document content, ensuring consistent application of headers, headings, and numbering patterns for enhanced navigation.",
+          "text_mn": "Энэ нь баримт бичгийн агуулгын стандартын шатлалыг тогтоож, гарчиг, дэд гарчиг, дугаарлах хэв маягийг тууштай хэрэглэж, хэрэглэгчийн чиглүүлэлтийг сайжруулдаг.",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "This distractor refers to specific elements of document design (headers, headings, numbering) mentioned in the text under 'Elements of Document Design.' While important for usability, these are structural guidelines for solutions, not the core insight derived from a psychological discussion of users which informs the problem definition."
+        }
+      ],
+      "concept": "The Design Problem: Psychological discussion of users",
+      "difficulty": "hard",
+      "explanation_en": "The text explicitly mentions a \"psychological discussion of users under the heading “The Design Problem”\" as a means for broadening understanding. This indicates that comprehending users' cognitive processes, motivations, and behaviors is fundamental to accurately defining the core design challenges in technical documentation. Such deep psychological insight enables the development of truly effective solutions by addressing user needs at a foundational level, rather than just surface-level tasks or existing features.",
+      "explanation_mn": "Текстэнд \"Дизайны асуудал\" гэсэн гарчиг дор \"хэрэглэгчдийн сэтгэл зүйн хэлэлцүүлэг\" нь ойлголтыг өргөжүүлэх арга зам болохыг онцолсон. Энэ нь хэрэглэгчдийн танин мэдэхүйн үйл явц, сэдэл, зан үйлийг ойлгох нь техникийн баримт бичгийн дизайны үндсэн бэрхшээлийг үнэн зөв тодорхойлоход чухал ач холбогдолтойг харуулж байна. Ийм гүн гүнзгий сэтгэл зүйн ойлголт нь гадаргуугийн даалгавар эсвэл одоо байгаа онцлог шинж чанараас давж, хэрэглэгчийн хэрэгцээг суурь түвшинд шийдвэрлэх замаар үр дүнтэй шийдлүүдийг боловсруулах боломжийг олгодог.",
+      "question_number": 2,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What fundamental utility does the 'Solutions to the Design Problem' section offer for designing effective print and online help systems?",
+      "question_mn": "Хэвлэмэл болон цахим тусламжийн системийг үр дүнтэй зохион бүтээхэд 'Дизайны асуудлын шийдэл' хэсэг нь ямар суурь ач холбогдлыг өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It details advanced methodologies for comprehensive user analysis and stakeholder needs assessment, establishing the fundamental requirements that precede all subsequent design implementations.",
+          "text_mn": "Энэ нь хэрэглэгчийн цогц дүн шинжилгээ, оролцогч талуудын хэрэгцээг үнэлэх дэвшилтэт аргачлалыг нарийвчлан тайлбарлаж, дараагийн дизайны бүх хэрэгжилтийг урьдчилан тодорхойлох үндсэн шаардлагыг тогтоодог.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "The text refers to 'Review the User Analysis' as Guideline 5 and a stage beginning with a goal, but this is a preparatory step for design. The 'Solutions' section itself provides the actual design elements and features that are applied *after* user analysis, not the methodologies for conducting the analysis."
+        },
+        {
+          "id": "B",
+          "text_en": "It outlines high-level theoretical frameworks and strategic project management approaches, emphasizing the overarching documentation lifecycle rather than specific structural or visual design elements.",
+          "text_mn": "Энэ нь өндөр түвшний онолын суурь болон стратегийн төслийн удирдлагын арга барилыг тоймлон харуулж, тодорхой бүтцийн болон харагдах дизайны элементүүдээс илүү баримт бичгийн ерөнхий амьдралын мөчлөгийг онцолдог.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "The 'Solutions to the Design Problem' is described as a 'gallery of features' and 'guidelines' for specific design elements (like headers, steps, customizing patterns) aimed at aiding users. It does not primarily focus on broad theoretical frameworks or project management methodologies, which are distinct from the practical design solutions discussed." 
+        },
+        {
+          "id": "C",
+          "text_en": "It extensively explores the psychological underpinnings of user interaction, offering insights into cognitive processes to inform deeper design principles beyond mere surface features.",
+          "text_mn": "Энэ нь хэрэглэгчийн харилцан үйлчлэлийн сэтгэл зүйн үндсийг өргөн хүрээнд судалж, зөвхөн гадаргуугийн онцлогоос илүү гүн гүнзгий дизайны зарчмуудыг тодорхойлоход танин мэдэхүйн үйл явцын талаар ойлголт өгдөг.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "While the text mentions a 'psychological discussion of users' under 'The Design Problem,' this is presented as an area for broadening understanding, distinct from the 'Solutions to the Design Problem,' which focuses on practical design features rather than primary psychological theories."
+        },
+        {
+          "id": "D",
+          "text_en": "It functions as a handy resource, presenting a gallery of specific design features and actionable guidelines vital for constructing effective, task-oriented print and online help systems.",
+          "text_mn": "Энэ нь хэвлэмэл болон цахим тусламжийн системийг үр дүнтэй, даалгавар чиглэлтэй болгон бүтээн байгуулахад зайлшгүй шаардлагатай тодорхой загварын онцлог, хэрэгжүүлэх боломжтой удирдамжийг цуглуулсан бэлэн эх сурвалж болж өгдөг.",   
+          "is_correct": true,
+          "source": "Page 304",
+          "explanation": "The text explicitly states that the 'Solutions to the Design Problem' for print and online help systems acts as 'a handy resource, a gallery of features of manuals and online help systems.' These features and guidelines (e.g., headers, numbered steps, tables of contents) are practical elements designed to help users locate and manage information effectively, aligning with the goal of task orientation."
+        }
+      ],
+      "concept": "Solutions to the Design Problem for print and online help systems",
+      "difficulty": "hard",
+      "explanation_en": "The text explicitly defines the 'Solutions to the Design Problem' as 'a handy resource, a gallery of features of manuals and online help systems' for those planning a project. These features encompass practical design elements and guidelines, such as headers for context, introductions for function application, headings for hierarchical structure, numbered steps for commands, and customizing patterns for key information. The core utility is to provide concrete, actionable design strategies that facilitate user task orientation and efficient access to information within documentation.",
+      "explanation_mn": "Энэ хэсэгт 'Дизайны асуудлын шийдэл' нь төсөл төлөвлөж буй хүмүүст зориулсан 'бэлэн эх сурвалж, гарын авлага болон цахим тусламжийн системийн онцлог шинж чанаруудын цуглуулга' болохыг тодорхойлсон. Эдгээр онцлог шинж чанаруудад агуулгыг тодорхойлох гарчиг, функцын хэрэглээг тайлбарлах танилцуулга, мэдээллийн шаталсан бүтцийг харуулах гарчиг, командын дарааллыг заах дугаарласан алхамууд, болон түлхүүр мэдээллийг таних зохицуулах хэв маяг зэрэг практик дизайны элемент, удирдамжууд багтдаг. Үндсэн ач холбогдол нь хэрэглэгчийн даалгавар гүйцэтгэх чиглэл, мэдээлэлд үр дүнтэй нэвтрэхэд дэмжлэг үзүүлэх тодорхой, хэрэгжүүлэх боломжтой дизайны стратегиудыг хангах явдал юм.",
+      "question_number": 3,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "When structuring technical documentation for user task efficiency, which combination of design elements primarily guides users through information hierarchy, command execution, and functional context?",
+      "question_mn": "Хэрэглэгчийн даалгаврын үр ашгийг дээшлүүлэх зорилгоор техникийн баримт бичгийг бүтэцжүүлэхэд, загварын элементүүдийн аль хослол нь хэрэглэгчдийг мэдээллийн шатлал, командын гүйцэтгэл, үүргийн агуулгаар дамжуулан удирдах үндсэн үүрэгтэй вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Headers for broad navigation, customizing patterns for visual emphasis, and screens with labels for recognition of key information.",
+          "text_mn": "Өргөн хүрээний навигацийн толгой гарчиг, харааны онцлогийн загварчлалын хэв маяг, түлхүүр мэдээллийг таних дэлгэц болон шошго.",
+          "is_correct": false,
+          "source": "Page 304, Figure 10.1",
+          "explanation": "Толгой гарчиг, загварчлалын хэв маяг, дэлгэц, шошго зэрэг нь баримт бичгийн дизайны элементүүд боловч тэдгээр нь голчлон ерөнхий навигаци болон түлхүүр мэдээллийг танихад тусалдаг. Тэдгээр нь мэдээллийн шатлал (гарчгийн нэгэн адил), командын гүйцэтгэл (дугаарласан алхамуудын нэгэн адил), эсвэл функцийн хэрэглээ (танилцуулгын нэгэн адил) гэх мэт гол асуудлуудыг тодорхой даалгаврын агуулгад бүрэн хэмжээгээр хангадаггүй."
+        },
+        {
+          "id": "B",
+          "text_en": "Psychological user discussions for empathy, design problem solutions for feature galleries, and user analysis for overarching document goals.",
+          "text_mn": "Эмх замбараагүй загварын шийдлүүд нь хэрэглэгчийн сэтгэл зүйн хэлэлцүүлэг, онцлог галерейд зориулсан дизайны асуудлын шийдэл, баримт бичгийн ерөнхий зорилгын хэрэглэгчийн шинжилгээ.",
+          "is_correct": false,
+          "source": "Page 304",
+          "explanation": "Хэрэглэгчийн сэтгэл зүйн хэлэлцүүлэг, дизайны асуудлын шийдэл, хэрэглэгчийн шинжилгээ нь дизайны үйл явц болон хэрэглэгчийн хэрэгцээг ойлгох суурь асуудлууд юм. Гэсэн хэдий ч эдгээр нь баримт бичиг доторх шатлалтай мэдээлэл, командын дараалал, болон үүргийн агуулгаар хэрэглэгчдийг шууд удирдах үүрэгтэй \"баримт бичгийн дизайны элементүүд\" гэхээсээ илүүтэйгээр концепцийн хүрээ эсвэл бэлтгэл үе шатууд юм."
+        },
+        {
+          "id": "C",
+          "text_en": "Comprehensive tables of contents for global access, detailed user analyses for goal setting, and robust indexing for cross-referencing.",
+          "text_mn": "Есөн хүрээний агуулгын хүснэгтүүд нь ерөнхий хандалтад зориулагдсан, зорилго тодорхойлох нарийвчилсан хэрэглэгчийн шинжилгээ, мэдээлэл хоорондын уялдаа холбооны бат бөх индексжүүлэлт.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Агуулгын хүснэгт болон индексжүүлэлт нь ерөнхий хандалт болон мэдээлэл хоорондын уялдаа холбоог хөнгөвчилж, хэрэглэгчийн шинжилгээ нь баримт бичгийн зорилгыг тодорхойлоход чухал үүрэгтэй. Гэсэн хэдий ч эдгээр нь илүү өргөн хүрээний зохион байгуулалтын хэрэгсэл эсвэл дизайны урьдчилсан үе шатууд бөгөөд текстэнд Figure 10.1-т дурдсан шиг тухайн хуудас эсвэл хэсэгт хэрэглэгчдийг мэдээллийн шатлал, командын гүйцэтгэл, үүргийн агуулгаар шууд удирдах зорилготой \"баримт бичгийн дизайны элементүүд\" биш юм."
+        },
+        {
+          "id": "D",
+          "text_en": "Headings for information structure, numbered steps for command sequence, and introductions for functional application.",
+          "text_mn": "Мэдээллийн бүтцийн гарчиг, командын дарааллын дугаарласан алхамууд, үйл ажиллагааны хэрэглээний танилцуулга.",
+          "is_correct": true,
+          "source": "Page 304, Figure 10.1",
+          "explanation": "Энэ сонголт нь текстийн утгатай шууд нийцэж байна. Текстэнд \"Гарчигууд нь хэрэглэгчдэд мэдээллийн шатлалтай бүтцийг харахад тусалдаг\", \"Дугаарласан алхамууд нь командуудад зориулсан тодорхой хэсгүүдийг үүсгэдэг\" болон \"Танилцуулга нь хэрэглэгчдэд функцуудын ажлын байран дахь хэрэглээг харахад тусалдаг\" гэж заасан байдаг. Эдгээр элементүүд нь бүтцийн тодорхой байдал, хийгдэх алхамууд, болон агуулгын ойлголтыг хангаснаар хэрэглэгчийн даалгаврын үр ашгийг нэгтгэн оновчтой болгодог."
+        }
+      ],
+      "concept": "Elements of Document Design",
+      "difficulty": "hard",
+      "explanation_en": "The correct answer synthesizes three key functions of document design elements explicitly stated in the primary context related to Figure 10.1. Headings are identified as crucial for helping users perceive the hierarchical structure of information. Numbered steps are highlighted as essential for creating clear areas for commands, thus guiding command execution. Introductions are noted for their role in enabling users to understand the workplace application of functions, establishing functional context. Together, these elements provide comprehensive guidance for user task efficiency. The distractors either focus on broader organizational tools, general recognition, or conceptual/pre-design aspects that, while related to good documentation, do not directly fulfill the specific combined functions requested in the question regarding on-page information hierarchy, command execution, and functional context.",
+      "explanation_mn": "Зөв хариулт нь Figure 10.1-тэй холбоотой үндсэн текстэнд тодорхой дурдсан баримт бичгийн дизайны элементүүдийн гурван үндсэн үүргийг нэгтгэсэн болно. Гарчигууд нь хэрэглэгчдэд мэдээллийн шатлалтай бүтцийг ойлгоход чухал үүрэгтэй гэж тодорхойлогдсон. Дугаарласан алхамууд нь командуудад зориулсан тодорхой хэсгүүдийг үүсгэж, улмаар командын гүйцэтгэлийг удирдан чиглүүлдэг. Танилцуулга нь хэрэглэгчдэд функцуудын ажлын байран дахь хэрэглээг ойлгоход тусалдаг, үүргийн агуулгыг бий болгодог гэж тэмдэглэгдсэн. Эдгээр элементүүд нь хэрэглэгчийн даалгаврын үр ашгийг дээшлүүлэхэд иж бүрэн удирдамж өгдөг. Буруу хариултууд нь баримт бичиг боловсруулахад хамааралтай боловч асуултад дурдсан хуудас дээрх мэдээллийн шатлал, командын гүйцэтгэл, үүргийн агуулгатай холбоотой тусгай хосолсон үүргийг шууд хангадаггүй, илүү өргөн зохион байгуулалтын хэрэгсэл, ерөнхий танилт эсвэл концепцийн/дизайны өмнөх үе шатууд дээр төвлөрдөг.",
+      "question_number": 4,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What fundamental principle defines the iterative progression of effective document design within a project lifecycle?",
+      "question_mn": "Төслийн амьдралын мөчлөг дэх үр дүнтэй баримт бичгийн дизайны давтагдах дэвшлийг ямар суурь зарчим тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It primarily involves structuring information with clear headings, consistent formatting, and visual aids to enhance readability and navigation efficiency.",
+          "text_mn": "Энэ нь юуны өмнө мэдээллийг тодорхой гарчиг, нэгдмэл формат, харааны хэрэгслээр зохион байгуулж, уншигдах байдал, навигацийн үр ашгийг дээшлүүлэхийг хэлнэ.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "This choice describes elements and best practices of document design, not the overarching sequence from identifying a goal to delivering a solution."
+        },
+        {
+          "id": "B",
+          "text_en": "It begins by identifying specific user needs as the primary goal and culminates in delivering comprehensive instructional solutions like manuals or help systems.",
+          "text_mn": "Энэ нь хэрэглэгчийн тодорхой хэрэгцээг үндсэн зорилго болгон тодорхойлж эхэлдэг бөгөөд гарын авлага эсвэл тусламжийн систем зэрэг иж бүрэн зааварчилгааны шийдлүүдийг хүргэснээр дуусдаг.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "This choice accurately reflects the definition from the primary context: 'Think of document design as a sequence of stages beginning with a goal (meeting users’ needs) and ending with a solution (a manual and/or help).'"        
+        },
+        {
+          "id": "C",
+          "text_en": "It focuses on presenting complex technical information in an accessible and intuitive manner that directly supports users in completing specific workplace tasks.",
+          "text_mn": "Энэ нь хэрэглэгчдэд ажлын байран дахь тодорхой даалгаврыг биелүүлэхэд шууд дэмжлэг үзүүлэхээр нарийн төвөгтэй техникийн мэдээллийг ойлгомжтой, хялбар байдлаар танилцуулахад чиглэгддэг.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "This describes the *purpose* or desired *outcome* of effective documentation, not the fundamental sequence of stages from an initial goal to a final solution."
+        },
+        {
+          "id": "D",
+          "text_en": "It emphasizes continuous user feedback integration and iterative refinement across multiple design iterations to ensure optimal system usability and adoption.",
+          "text_mn": "Энэ нь хэрэглэгчийн тасралтгүй санал хүсэлтийг нэгтгэх, системийн ашиглах чадвар, нэвтрэлтийг хангахын тулд олон давталттай дизайныг боловсронгуй болгохыг чухалчилдаг.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While crucial for good design, this focuses on the iterative nature and feedback, rather than defining the fundamental start (goal) and end (solution) points of the entire design process."
+        }
+      ],
+      "concept": "Document design as a sequence of stages (goal to solution)",
+      "difficulty": "hard",
+      "explanation_en": "The primary context explicitly defines document design as a sequence: 'beginning with a goal (meeting users’ needs) and ending with a solution (a manual and/or help).' The correct answer (C) directly articulates this fundamental progression, starting with identifying user needs as the primary objective and concluding with the delivery of comprehensive instructional solutions. Distractor A describes structural elements and formatting techniques, which are components of the design but not the overall developmental sequence. Distractor B focuses on the iterative nature and user feedback, which are crucial aspects *within* the design process but do not define its fundamental start and end points as specified. Distractor D highlights the purpose of effective documentation in supporting user tasks, rather than outlining the specific sequence of stages from a defined goal to a tangible solution.",
+      "explanation_mn": "Үндсэн контекст нь баримт бичгийн дизайныг тодорхой дарааллаар тодорхойлсон: 'зорилгоос (хэрэглэгчийн хэрэгцээг хангах) эхэлж, шийдлээр (гарын авлага ба/эсвэл тусламж) дуусдаг.' Зөв хариулт (C) нь хэрэглэгчийн хэрэгцээг үндсэн зорилго болгон тодорхойлохоос эхлэн иж бүрэн зааварчилгааны шийдлүүдийг хүргэх хүртэлх энэхүү суурь дэвшлийг шууд илэрхийлдэг. А хариулт нь дизайны бүтцийн элементүүд болон форматын аргуудыг тайлбарладаг боловч ерөнхий хөгжлийн дарааллыг биш юм. В хариулт нь давтагдах шинж чанар болон хэрэглэгчийн санал хүсэлтэд анхаардаг бөгөөд энэ нь дизайны үйл явцын чухал хэсэг боловч түүний үндсэн эхлэл, төгсгөлийн цэгүүдийг тодорхойлдоггүй. D хариулт нь хэрэглэгчийн даалгаврыг дэмжихэд үр дүнтэй баримтжуулалтын зорилгыг онцолдог боловч тодорхойлсон зорилгоос бодит шийдэл хүртэлх үе шатуудын дарааллыг биш юм.",
+      "question_number": 6,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What fundamental principle guides the structured presentation of information, such as headers and numbered steps, within effective document design?",
+      "question_mn": "Баримт бичгийн үр дүнтэй дизайны хүрээнд толгой үсэг, дугаарласан алхамууд зэрэг мэдээллийн бүтцийн танилцуулгыг ямар суурь зарчим удирдан чиглүүлдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Optimizing document structure for easier authoring and maintenance by technical writers, simplifying internal content management processes.",
+          "text_mn": "Баримт бичгийн бүтцийг техникийн зохиогчдод бичих, арчлах ажлыг хөнгөвчлөх, дотоод агуулгын удирдлагын үйл явцыг хялбарчлах зорилгоор оновчтой болгох.",
+          "is_correct": false,
+          "source": "Related context",
+          "explanation": "The text clearly anchors document design in \"meeting users' needs\" and enabling user tasks. While efficiency in authoring and maintenance is a practical consideration, it is not presented as the fundamental guiding principle for structuring information from a user-centric design perspective, which prioritizes the end-user's experience."
+        },
+        {
+          "id": "B",
+          "text_en": "To meet users' needs by enabling efficient information location, hierarchical understanding, and clear command execution, facilitating task completion.",
+          "text_mn": "Хэрэглэгчийн хэрэгцээг хангах, мэдээллийг үр дүнтэй олох, шатлалт бүтцийг ойлгох, командуудыг тодорхой гүйцэтгэх боломжийг олгох, ингэснээр ажлыг амжилттай дуусгахад хөнгөвчлөх.",
+          "is_correct": true,
+          "source": "Text provided",
+          "explanation": "The text emphasizes that document design starts with \"meeting users’ needs\" and elements like headers, headings, and numbered steps are crucial for users to \"locate information,\" \"see the hierarchical structure,\" and \"create clear areas for commands,\" ultimately helping them \"gain access to and manage information\" to achieve their goals. Therefore, structuring information is fundamentally driven by the user's need for navigation and comprehension to complete tasks efficiently."
+        },
+        {
+          "id": "C",
+          "text_en": "Ensuring technical content accuracy and comprehensiveness, a crucial aspect distinct from the core design principle for outlining information to users.",
+          "text_mn": "Агуулгын техникийн нарийвчлал, иж бүрэн байдлыг хангах нь чухал боловч энэ нь хэрэглэгчдэд мэдээллийг хэрхэн тоймлон хүргэх дизайны суурь зарчмаас ялгаатай.",
+          "is_correct": false,
+          "source": "Related context",
+          "explanation": "Content accuracy and comprehensiveness, though vital for any document, relate to the quality of the content itself. This is distinct from the design principle concerning *how* that content is structured and outlined for user interaction, navigation, and understanding, which is the focus of the question."
+        },
+        {
+          "id": "D",
+          "text_en": "Prioritizing visual aesthetics and brand consistency to enhance document engagement, rather than its functional structure for efficient information access.",
+          "text_mn": "Баримт бичгийн харагдах байдал, брэндийн нэгдмэл байдлыг чухалчлах нь хэрэглэгчийг татах зорилготой боловч мэдээллийн үр дүнтэй хандалтын функциональ бүтцийг орлохгүй.",
+          "is_correct": false,
+          "source": "Related context",
+          "explanation": "While visual elements (like cueing patterns) contribute to overall design, the text primarily emphasizes structural elements (headers, headings) for functional access and understanding, not aesthetic appeal or branding as the core principle for outlining information. Visuals support usability but are not the fundamental guiding principle for information structure."
+        }
+      ],
+      "concept": "The outline of information as the main design element",
+      "difficulty": "hard",
+      "explanation_en": "The primary context explicitly states that \"document design\" begins with \"a goal (meeting users’ needs)\" and aims to provide \"a solution (a manual and/or help).\" Key elements like headers, headings, and numbered steps are described as helping \"users locate information,\" \"see the hierarchical structure,\" and \"create clear areas for commands,\" all of which facilitate user access and management of information to achieve their tasks. Therefore, the fundamental principle behind outlining information is to directly serve user needs by making content navigable and comprehensible for effective task completion. Distractor B is incorrect because while visual elements (like cueing patterns) contribute to design, the text emphasizes structure (headers, headings) for *functional* access and understanding, not primarily aesthetic appeal or branding as the *fundamental principle* of outlining. Distractor C is incorrect because content accuracy and comprehensiveness, though vital for any document, represent the quality of the *content itself*, not the *design principle* for how that content is structured and outlined for user interaction and navigation. Distractor D is incorrect because the text clearly anchors document design in \"meeting users' needs\" and enabling user tasks. While authoring and maintenance efficiency are practical considerations, they are not presented as the *fundamental guiding principle* for structuring information from a user-centric design perspective.",
+      "explanation_mn": "Өгөгдсөн текстийн дагуу баримт бичгийн дизайн нь \"хэрэглэгчийн хэрэгцээг хангах\" зорилготойгоор эхэлж, \"шийдлийг (гарын авлага ба/эсвэл тусламж)\" өгөх зорилготой. Толгой үсэг, гарчиг, дугаарласан алхамууд зэрэг гол элементүүд нь \"хэрэглэгчдэд мэдээллийг олоход\", \"шатлалт бүтцийг харахад\", \"командуудад тодорхой хэсэг үүсгэхэд\" тусалдаг гэж тодорхойлсон бөгөөд энэ бүхэн нь хэрэглэгчдэд мэдээлэлд хандах, удирдах, ажлаа гүйцэтгэхэд хөнгөвчлөх зорилготой. Иймд мэдээллийг тоймлон хүргэх суурь зарчим нь хэрэглэгчийн хэрэгцээнд шууд үйлчилж, үр дүнтэй ажил гүйцэтгэхэд агуулгыг чиглүүлэх, ойлгомжтой болгоход оршино. Ташаа хариулт B нь буруу, учир нь хэдийгээр харагдах байдлын элементүүд (жишээлбэл, тодотгол, налуу үсэг) дизайнд хувь нэмэр оруулдаг ч текст нь мэдээллийн тоймын \"суурь зарчим\" болохын хувьд голчлон гоо зүй эсвэл брэндийг биш, харин мэдээлэлд \"функциональ\" хандах, ойлгох бүтцийг (толгой үсэг, гарчиг) онцолсон. Ташаа хариулт C нь буруу, учир нь агуулгын нарийвчлал, иж бүрэн байдал нь ямар ч баримт бичгийн хувьд чухал боловч эдгээр нь \"агуулгын чанар\"-тай холбоотой бөгөөд хэрэглэгчийн харилцан үйлчлэл, навигацын үүднээс агуулгыг хэрхэн бүтэцлэн, тоймлон хүргэх \"дизайны зарчим\"-аас ялгаатай. Ташаа хариулт D нь буруу, учир нь текст нь баримт бичгийн дизайныг \"хэрэглэгчийн хэрэгцээг хангах\" болон хэрэглэгчийн ажлыг идэвхжүүлэхэд тулгуурладаг гэдгийг тодорхой заасан. Зохиогчийн болон засвар үйлчилгээний үр ашиг нь практик асуудал боловч мэдээллийг бүтэцлэхэд хэрэглэгчийн төвтэй дизайны үүднээс \"үндсэн удирдах зарчим\" гэж танилцуулагдаагүй.",
+      "question_number": 7,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "When structuring program interface documentation for optimal user task completion, what primary design principle effectively integrates navigational aids with functional application context?",
+      "question_mn": "Хөтөлбөрийн интерфэйсийн баримт бичгийг хэрэглэгчийн ажлын гүйцэтгэлийг оновчтой болгох үүднээс бүтцийн хувьд зохион байгуулахдаа, навигацийн тусламжуудыг үйл ажиллагааны хэрэглээний агуулгатай үр дүнтэй нэгтгэдэг үндсэн дизайны зарчим юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Integrating hierarchical headings and task-oriented introductions to guide users through structured commands, clarifying their practical workplace application within the system.",
+          "text_mn": "Иерархийн гарчиг, даалгавар дээр суурилсан танилцуулгуудыг нэгтгэн, хэрэглэгчдийг бүтцийн командыг ашиглахад чиглүүлж, системийн хүрээнд тэдгээрийн практик хэрэглээг тодруулах.",
+          "is_correct": true,
+          "source": "Page 304, Figure 10.1 annotations",
+          "explanation": "This approach directly addresses how headings provide hierarchical structure for navigation, and introductions explain the workplace application of functions, effectively integrating navigational aids with practical context for task completion."
+        },
+        {
+          "id": "B",
+          "text_en": "Focusing on a user-centric language and consistent terminology across all sections, aiming for readability and comprehension over explicit navigational or contextual scaffolding.",
+          "text_mn": "Хэрэглэгч төвтэй хэллэг, бүх хэсэгт тууштай нэр томъёо ашиглахад анхаарч, уншигдахуйц байдал, ойлгоход хялбар байдлыг навигацийн болон агуулгын тодорхой хүрээг тогтоохоос илүүд үзэх.",
+          "is_correct": false,
+          "source": "General knowledge of technical writing principles",
+          "explanation": "Clear language and consistent terminology are fundamental for usability and comprehension, but they address readability rather than the core organizational strategy for integrating structural navigation with the functional application context, which the question specifically asks for."
+        },
+        {
+          "id": "C",
+          "text_en": "Implementing dynamic search functionalities and comprehensive indexing capabilities, allowing users to find specific information without needing a predefined linear path.",
+          "text_mn": "Динамик хайлтын функц болон цогц индексжүүлэлтийн чадваруудыг хэрэгжүүлж, хэрэглэгчдэд тодорхой мэдээллийг урьдчилан тодорхойлсон шугаман зам шаардахгүйгээр олох боломжийг олгох.",
+          "is_correct": false,
+          "source": "General knowledge of online help systems",
+          "explanation": "Dynamic search and indexing are crucial for information retrieval, especially in online systems, but they primarily facilitate access rather than defining the intrinsic structural organization and contextual application within the document itself, as required by the question's focus on integrating aids with context."
+        },
+        {
+          "id": "D",
+          "text_en": "Prioritizing the extensive use of visual formatting like bolding, italics, and specific screen labels to enhance recognition, rather than establishing a comprehensive structural flow.",
+          "text_mn": "Таних чадварыг сайжруулахын тулд тод, налуу үсэг, дэлгэцийн шошго зэрэг харагдах форматыг өргөнөөр ашиглахад анхаарч, харин цогц бүтцийн урсгалыг тогтоохоос илүүд үзэх.",
+          "is_correct": false,
+          "source": "General knowledge / Partial mention in text but not primary principle",
+          "explanation": "While visual formatting and labels aid recognition, they are supplementary to, not the primary means of, integrating structural navigation with functional context for comprehensive task orientation, which is the core of the question."
+        }
+      ],
+      "concept": "Organizational strategies for structuring program interface information",
+      "difficulty": "hard",
+      "explanation_en": "The primary context explicitly states that 'Headings help users see the hierarchical structure of the information' (a navigational aid) and 'Introductions help users see the workplace application of functions' (functional application context). Numbered steps then 'create clear areas for commands.' The correct answer synthesizes these elements, emphasizing how their integration guides users not just to information, but through tasks, explaining the practical relevance of each step within the broader system. This combination is crucial for optimal user task completion as it provides both 'where to go' and 'why it matters.'",
+      "explanation_mn": "Үндсэн контекстэд 'Гарчигууд нь хэрэглэгчдэд мэдээллийн иерархийн бүтцийг харахад тусалдаг' (навигацийн тусламж) болон 'Танилцуулгууд нь хэрэглэгчдэд функцуудын ажлын байран дахь хэрэглээг харахад тусалдаг' (үйл ажиллагааны хэрэглээний агуулга) гэж тодорхой заасан байдаг. Дараалсан алхамууд нь 'командуудад зориулсан тодорхой хэсгүүдийг бий болгодог'. Зөв хариулт нь эдгээр элементүүдийг нэгтгэж, тэдгээрийг хэрхэн нэгтгэх нь хэрэглэгчдийг зөвхөн мэдээлэлд төдийгүй, даалгавруудыг гүйцэтгэхэд чиглүүлж, өргөн системийн хүрээнд алхам бүрийн практик ач холбогдлыг тайлбарладгийг онцолсон. Энэхүү хослол нь хэрэглэгчийн ажлын гүйцэтгэлийг оновчтой болгоход чухал ач холбогдолтой, учир нь энэ нь 'хаашаа явах' болон 'яагаад чухал болохыг' хоёуланг нь өгдөг.",
+      "question_number": 8,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What primary strategic purpose do headers and introductions jointly serve in technical documentation to facilitate user engagement and task completion?",
+      "question_mn": "Техникийн баримт бичигт гарчиг болон оршил хэсгүүд хэрэглэгчийн оролцоо, даалгавар гүйцэтгэлийг хөнгөвчлөхөд ямар үндсэн стратегийн зорилгоор үйлчилдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Their main goal is to ensure compliance with industry-standard documentation guidelines and to maintain consistent branding across all project deliverables.",
+          "text_mn": "Тэдний үндсэн зорилго нь салбарын стандартын баримт бичгийн удирдамжийг дагаж мөрдөх, бүх төслийн үр дүнгүүдэд брэндийн нэгдмэл байдлыг хадгалах явдал юм.",
+          "is_correct": false,
+          "source": "Distractor",
+          "explanation": "Compliance and branding are important aspects of technical documentation, but the provided text focuses on the user-centric functions of headers and introductions: contextual navigation and workplace application, not adherence to industry standards or branding consistency."
+        },
+        {
+          "id": "B",
+          "text_en": "They primarily improve visual hierarchy and information scannability, allowing users to quickly identify key sections and content without deep engagement with the functional context.",
+          "text_mn": "Тэд гол төлөв баримт бичгийн харагдах байдал, мэдээллийн хурдан хайх чадварыг сайжруулж, хэрэглэгчдэд агуулгыг хурдан таньж мэдэх боломжийг олгодог.",
+          "is_correct": false,
+          "source": "Distractor",
+          "explanation": "While headers contribute to visual hierarchy and scannability, the text emphasizes their role in helping users 'locate information in the context of an entire manual,' which goes beyond mere scannability. Introductions are specifically about 'workplace application,' not just quick content identification."
+        },
+        {
+          "id": "C",
+          "text_en": "Headers facilitate user orientation within the manual's entire structure, while introductions illuminate the real-world workplace application of functions, combining structural navigation with practical task understanding.",        
+          "text_mn": "Гарчиг нь гарын авлагын бүх бүтцийн хүрээнд мэдээллийг байршуулахад тусалдаг бол оршил хэсгүүд нь функцуудыг ажлын байран дахь хэрэглээтэй холбож, бүтцийн чиг баримжаа, практик ач холбогдлыг хоёуланг нь олгодог.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The text explicitly states, 'Headers help users locate information in the context of an entire manual' and 'Introductions help users see the workplace application of functions.' This indicates that headers provide structural navigation and context, while introductions connect functions to real-world tasks, jointly enhancing both practical relevance and overall user orientation."
+        },
+        {
+          "id": "D",
+          "text_en": "They are primarily designed to highlight advanced functionalities and provide quick links to troubleshooting sections, helping expert users navigate complex issues efficiently.",
+          "text_mn": "Тэд голчлон дэвшилтэт функцуудыг тодотгож, алдааг олж засварлах хэсгүүдийн хурдан холбоосыг өгөх зорилготой бөгөөд ингэснээр туршлагатай хэрэглэгчид нарийн төвөгтэй асуудлыг үр дүнтэй шийдвэрлэхэд тусалдаг.",
+          "is_correct": false,
+          "source": "Distractor",
+          "explanation": "This distractor misrepresents the scope. While documentation might include advanced features and troubleshooting, the text describes headers as broadly aiding in locating information within the entire manual and introductions as showing the general 'workplace application of functions,' not exclusively advanced features or troubleshooting for expert users."
+        }
+      ],
+      "concept": "Headers and Introductions in document design",
+      "difficulty": "hard",
+      "explanation_en": "The primary text states that 'Headers help users locate information in the context of an entire manual,' and 'Introductions help users see the workplace application of functions.' Therefore, the strategic purpose of headers is to provide structural orientation, enabling users to understand their position within the larger document. Introductions, on the other hand, connect the document's functionalities to practical, real-world tasks, making the information relevant and actionable. Jointly, they ensure users are both structurally oriented and understand the practical significance of the content for their specific tasks. The distractors describe valid documentation features or general design principles but do not precisely capture the combined strategic function of headers and introductions as described in the provided text, particularly regarding contextual location and workplace application.",
+      "explanation_mn": "Өгөгдсөн текстэнд 'Гарчиг нь гарын авлагын бүх бүтцийн хүрээнд мэдээллийг байршуулахад тусалдаг' ба 'Оршил хэсгүүд нь функцуудыг ажлын байран дахь хэрэглээтэй холбож харахад тусалдаг' гэж заасан байдаг. Иймээс гарчгийн стратегийн зорилго нь бүтцийн чиг баримжааг өгөх, хэрэглэгчдэд баримт бичгийн том бүтцэд өөрийн байршлыг ойлгоход туслах явдал юм. Харин оршил хэсгүүд нь баримт бичгийн функцуудыг практик, бодит ажлын байрны даалгавруудтай холбож, мэдээллийг хамааралтай, хэрэгжүүлэх боломжтой болгодог. Эдгээр нь хамтдаа хэрэглэгчдэд бүтцийн хувьд чиг баримжаатай байхын зэрэгцээ, тухайн ажлын онцлогт агуулгын практик ач холбогдлыг ойлгоход тусалдаг. Бусад хариултууд нь баримт бичгийн үнэ цэнэтэй онцлог эсвэл ерөнхий дизайны зарчмуудыг тайлбарлаж байгаа боловч өгөгдсөн текстэнд тайлбарлагдсан гарчиг, оршил хэсгүүдийн нэгдсэн стратегийн үүргийг (ялангуяа контекст байршил, ажлын байран дахь хэрэглээг) нарийн тусгаагүй байна.",
+      "question_number": 9,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What core design principle do headings embody to facilitate user comprehension of a document's hierarchical information structure?",
+      "question_mn": "Баримт бичгийн шаталсан мэдээллийн бүтцийг хэрэглэгчдэд ойлгоход туслахын тулд гарчиг ямар үндсэн дизайны зарчмыг агуулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They enable rapid navigation, allowing users to quickly pinpoint specific content within the broader context of the entire manual.",
+          "text_mn": "Тэд хурдан чиглүүлэлтийг идэвхжүүлж, хэрэглэгчдэд гарын авлагын бүхэл бүтэн хүрээнд тодорхой агуулгыг хурдан олоход боломж олгодог.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The primary function of headings, as described in the context, is to help users understand the hierarchical structure of information. They visually break down complex content into manageable, nested sections, allowing users to grasp the relationships between different topics and their sub-components. This structural clarity is essential for navigating the document and building a mental model of the information's organization. While headings do aid navigation and draw attention, their fundamental role in conveying hierarchy is distinct from merely locating information or highlighting keywords."
+        },
+        {
+          "id": "B",
+          "text_en": "They distinctly delineate sequences of commands and actionable steps, ensuring clarity and ease of execution for practical tasks.",
+          "text_mn": "Тэд тушаалууд болон үйл ажиллагааны алхмуудын дарааллыг тодорхой зааглаж, практик ажлуудыг гүйцэтгэхэд тодорхой бөгөөд хялбар байдлыг хангадаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The primary function of headings, as described in the context, is to help users understand the hierarchical structure of information. They visually break down complex content into manageable, nested sections, allowing users to grasp the relationships between different topics and their sub-components. This structural clarity is essential for navigating the document and building a mental model of the information's organization. While headings do aid navigation and draw attention, their fundamental role in conveying hierarchy is distinct from merely locating information or highlighting keywords."
+        },
+        {
+          "id": "C",
+          "text_en": "They provide a visual representation that delineates the nested levels and relationships among topics, crucial for understanding content organization.",
+          "text_mn": "Тэд мэдээллийн зохион байгуулалтыг ойлгоход чухал ач холбогдолтой сэдвүүдийн хоорондын шаталсан түвшин, хамаарлыг тодорхойлсон харааны дүрслэлийг өгдөг.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary function of headings, as described in the context, is to help users understand the hierarchical structure of information. They visually break down complex content into manageable, nested sections, allowing users to grasp the relationships between different topics and their sub-components. This structural clarity is essential for navigating the document and building a mental model of the information's organization. While headings do aid navigation and draw attention, their fundamental role in conveying hierarchy is distinct from merely locating information or highlighting keywords."
+        },
+        {
+          "id": "D",
+          "text_en": "They highlight critical keywords and concepts through distinct visual emphasis, guiding users to essential information at a glance.",
+          "text_mn": "Тэд онцгой харааны өргөлтийн тусламжтайгаар чухал түлхүүр үг, ойлголтуудыг тодотгож, хэрэглэгчдэд шаардлагатай мэдээллийг нэг дор харахад чиглүүлдэг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The primary function of headings, as described in the context, is to help users understand the hierarchical structure of information. They visually break down complex content into manageable, nested sections, allowing users to grasp the relationships between different topics and their sub-components. This structural clarity is essential for navigating the document and building a mental model of the information's organization. While headings do aid navigation and draw attention, their fundamental role in conveying hierarchy is distinct from merely locating information or highlighting keywords."
+        }
+      ],
+      "concept": "Headings for hierarchical information structure",
+      "difficulty": "hard",
+      "explanation_en": "The primary function of headings, as described in the context, is to help users understand the hierarchical structure of information. They visually break down complex content into manageable, nested sections, allowing users to grasp the relationships between different topics and their sub-components. This structural clarity is essential for navigating the document and building a mental model of the information's organization. While headings do aid navigation and draw attention, their fundamental role in conveying hierarchy is distinct from merely locating information or highlighting keywords.",
+      "explanation_mn": "Гарчгийн үндсэн үүрэг нь агуулгад дурдсанчлан, хэрэглэгчдэд мэдээллийн шаталсан бүтцийг ойлгоход туслах явдал юм. Тэд нарийн төвөгтэй агуулгыг удирдах боломжтой, шаталсан хэсгүүдэд хувааж, хэрэглэгчдэд өөр өөр сэдэв болон тэдгээрийн дэд бүрэлдэхүүн хэсгүүдийн хоорондын хамаарлыг ойлгоход тусалдаг. Энэхүү бүтцийн тодорхой байдал нь баримт бичгийг чиглүүлэх, мэдээллийн зохион байгуулалтын оюун санааны загварыг бий болгоход чухал ач холбогдолтой. Гарчиг нь чиглүүлэлтэд тусалж, анхаарал татдаг ч шаталсан байдлыг илэрхийлэх үндсэн үүрэг нь зүгээр л мэдээллийг олох эсвэл түлхүүр үгсийг тодотгохоос ялгаатай.",
+      "question_number": 10,
+      "page_reference": "334-378"
+    }
+  ]
+}

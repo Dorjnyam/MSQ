@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is a primary user benefit of consistent information across various forms of reference documentation?",
+      "question_mn": "Лавлах баримт бичгийн төрөл бүрийн хэлбэрүүдэд мэдээллийн нэгдмэл байдлыг хадгалахын үндсэн хэрэглэгчийн ашиг тус юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Enabling users to effectively cross-reference related information within the documentation set.",        
+          "text_mn": "Хэрэглэгчдэд баримт бичгийн багц доторх хамааралтай мэдээллийг үр дүнтэйгээр харилцан уялдуулж ашиглах боломжийг олгох.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states that 'Consistent information helps the user, who begins to learn how to cross-reference information in various elements of the documentation set.' This highlights the advantage of enabling users to navigate and connect related pieces of information across different reference forms."
+        },
+        {
+          "id": "B",
+          "text_en": "Streamlining the authoring process for documenters by content reuse.",
+          "text_mn": "Баримт бичиг боловсруулагчдын хувьд контентийг дахин ашиглах замаар зохиох үйл явцыг хялбарчлах.",       
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While content reuse is a benefit for writers, the question specifically asks for a primary *user* benefit of *consistent information* across forms, which is distinct from authoring process streamlining."
+        },
+        {
+          "id": "C",
+          "text_en": "Ensuring comprehensive coverage of highly technical and detailed program aspects.",
+          "text_mn": "Өндөр нарийвчилсан, техникийн шинж чанартай програмын бүх талыг иж бүрэн хамруулахыг баталгаажуулах.",   
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Comprehensive coverage of technical details is a general goal of reference documentation (e.g., in appendices), but it's not the specific primary benefit of *consistency across various forms* for the user."
+        },
+        {
+          "id": "D",
+          "text_en": "Offering rapid access to summarized function declarations and parameters.",
+          "text_mn": "Функцийн тодорхойлолт, параметрүүдийн хураангуй мэдээлэлд хурдан хандах боломжийг олгох.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Rapid access to summarized information relates to 'quick reference' documents, but not specifically the primary user benefit derived from maintaining *consistency across various forms* of documentation."
+        }
+      ],
+      "concept": "Forms of Reference Documents",
+      "difficulty": "medium",
+      "explanation_en": "The primary context emphasizes that 'Consistent information helps the user, who begins to learn how to cross-reference information in various elements of the documentation set.' This explicitly states that a key advantage for users of having consistent information across different forms of reference documentation is the ability to easily find and connect related pieces of information, thus enhancing their understanding and navigation of the entire documentation suite.",
+      "explanation_mn": "Анхдагч контекстэд 'Нэгдмэл мэдээлэл нь хэрэглэгчдэд баримт бичгийн багцын янз бүрийн элементүүдийн хоорондох мэдээллийг хэрхэн харилцан уялдуулах талаар сурахад тусалдаг' гэж онцолсон байдаг. Энэ нь лавлах баримт бичгийн янз бүрийн хэлбэрүүдэд нэгдмэл мэдээлэлтэй байхын хэрэглэгчийн хувьд гол давуу тал нь хамааралтай мэдээллийг хялбархан олж, холбох чадвар бөгөөд ингэснээр баримт бичгийн багцыг бүхэлд нь ойлгох, чиглүүлэх чадварыг сайжруулдаг болохыг тодорхой заасан байна.",   
+      "question_number": 1,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is a primary advantage of maintaining consistent information across various forms of documentation?",
+      "question_mn": "Баримт бичгийн төрөл бүрийн хэлбэрүүдэд тууштай мэдээллийг хадгалахын гол давуу тал юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It automates the update process, ensuring all related documents are simultaneously modified.",
+          "text_mn": "Энэ нь шинэчлэх үйл явцыг автоматжуулж, холбогдох бүх баримт бичгийг нэгэн зэрэг өөрчлөхийг баталгаажуулдаг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Consistency makes updates easier to manage and verify, but it does not inherently automate the modification of all related documents simultaneously. Automation requires specific tools or systems."
+        },
+        {
+          "id": "B",
+          "text_en": "It significantly reduces the overall size and storage requirements of the documentation set.",
+          "text_mn": "Энэ нь баримт бичгийн багцын нийт хэмжээ, хадгалах шаардлагыг мэдэгдэхүйц бууруулдаг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While information reuse (related to consistency) can save space, consistency itself doesn't primarily reduce file size but ensures accuracy and coherence."
+        },
+        {
+          "id": "C",
+          "text_en": "It helps users more effectively cross-reference information across documentation elements.",
+          "text_mn": "Энэ нь хэрэглэгчдэд баримт бичгийн элементүүдийн хоорондох мэдээллийг илүү үр дүнтэй харьцуулан ойлгоход тусалдаг.",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The primary context explicitly states that 'Consistent information helps the user, who begins to learn how to cross-reference information in various elements of the documentation set.'"
+        },
+        {
+          "id": "D",
+          "text_en": "It accelerates the initial writing phase by streamlining content creation for new documents.",
+          "text_mn": "Энэ нь шинэ баримт бичиг үүсгэх ажлыг хялбаршуулж, анхны бичих үе шатыг хурдасгадаг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Consistency is more about the quality and coherence of information, rather than directly accelerating the initial content creation process. Reuse can help, but consistency ensures the reused content is uniform."
+        }
+      ],
+      "concept": "Importance of Documentation Consistency",
+      "difficulty": "medium",
+      "explanation_en": "The primary context highlights that consistent information aids users in learning how to cross-reference information effectively across various elements of the documentation set. While consistency can indirectly support other aspects of documentation, its direct benefit to the user in navigating and connecting related information is explicitly stated as a key advantage.",
+      "explanation_mn": "Үндсэн контекст нь тууштай мэдээлэл нь хэрэглэгчдэд баримт бичгийн багцын янз бүрийн элементүүдийн хоорондох мэдээллийг үр дүнтэй харьцуулан ойлгоход тусалдаг гэдгийг онцолж байна. Тууштай байдал нь баримт бичгийн бусад талыг шууд бусаар дэмжих боловч, хэрэглэгчдэд холбогдох мэдээллийг чиглүүлж, холбоход үзүүлэх шууд ашиг тус нь гол давуу тал гэж тодорхой заасан байдаг.",
+      "question_number": 2,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is the primary goal of the \"Remarks\" section in a structured reference entry?",
+      "question_mn": "Бүтэцлэгдсэн лавлах мэдээллийн \"Тэмдэглэл\" хэсгийн үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To facilitate alphabetical ordering and quick retrieval of the entry by users.",
+          "text_mn": "Хэрэглэгчдэд мэдээллийг цагаан толгойн дарааллаар хурдан олоход туслах.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of 'Edge bleed', not the 'Remarks' section."
+        },
+        {
+          "id": "B",
+          "text_en": "To highlight interconnectedness and direct users to other related documentation entries.",
+          "text_mn": "Харилцан хамаарлыг тодотгож, хэрэглэгчдийг бусад холбогдох баримт бичгийн хэсгүүд рүү чиглүүлэх.",       
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of the 'See also' section, not the 'Remarks' section."
+        },
+        {
+          "id": "C",
+          "text_en": "To present practical usage scenarios and code snippets illustrating the function.",
+          "text_mn": "Функцийн практик хэрэглээний жишээ, кодын хэсгүүдийг танилцуулах.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of the 'Examples' section, not the 'Remarks' section."
+        },
+        {
+          "id": "D",
+          "text_en": "To provide contextual details and guidance for safe function application.",
+          "text_mn": "Функцийг аюулгүй хэрэглэх талаар нөхцөл байдлын дэлгэрэнгүй мэдээлэл, удирдамж өгөх.",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "This accurately reflects the purpose of Remarks as described in the primary context, including safety considerations."
+        }
+      ],
+      "concept": "Elements of a Structured Reference Entry",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that \"Remarks help the user know when to apply the function.\" This section provides crucial contextual information, caveats, and conditions that users need to understand for correct and safe application. For example, the text highlights warnings like \"No checking is performed, so be careful with this procedure,\" directly informing the user about the proper conditions and potential risks.",
+      "explanation_mn": "Эх сурвалжид \"Тэмдэглэл нь хэрэглэгчид функцийг хэзээ хэрэглэхээ мэдэхэд тусална\" гэж тодорхой заасан байдаг. Энэ хэсэг нь функцийг зөв, аюулгүй ашиглахад хэрэглэгчдэд зайлшгүй шаардлагатай нөхцөл байдлын мэдээлэл, анхааруулга, нөхцөлүүдийг өгдөг. Тухайлбал, \"Ямар ч шалгалт хийгддэггүй тул энэ үйлдлийг хийхдээ болгоомжтой байгаарай\" гэх мэт анхааруулгууд нь хэрэглэгчид зөв нөхцөл байдал, болзошгүй эрсдлийн талаар шууд мэдээлэл өгдөг.",
+      "question_number": 3,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is the primary purpose of a structured reference entry in software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичгийн бүтэцчилсэн лавлах бичилтийн үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To exclusively serve as an appendix for highly technical data.",
+          "text_mn": "Зөвхөн маш нарийн техникийн өгөгдлийн нэмэлт хэсэг болгон ашиглах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "Appendices often contain highly detailed technical information, as noted in the context. However, a structured reference entry itself is a core documentation element designed for clear explanation, not exclusively an auxiliary appendix for raw data."
+        },
+        {
+          "id": "B",
+          "text_en": "To facilitate quick alphabetical lookup of specific entries.",
+          "text_mn": "Тодорхой бичиглэлүүдийг цагаан толгойн дарааллаар хурдан хайхад туслах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "While elements like 'Edge bleed' do aid in alphabetical lookup, this is a specific benefit rather than the overarching primary purpose of the entire structured entry, which also includes detailed explanations and usage guidelines."
+        },
+        {
+          "id": "C",
+          "text_en": "To provide a clear, organized explanation of program functions and their usage.",
+          "text_mn": "Програмын функц болон тэдгээрийн хэрэглээг тодорхой, эмх цэгцтэй тайлбарлах.",
+          "is_correct": true,
+          "source": "Page 94, Figure 4.1 introduction",
+          "explanation": "The primary context explicitly states that a structured reference entry 'shows how elements of a reference entry create a structure for explaining program functions.' Its various components like function entry, declaration, remarks, and examples all contribute to a comprehensive and organized explanation of how a program function works and how to use it effectively."
+        },
+        {
+          "id": "D",
+          "text_en": "To ensure information consistency across diverse documentation forms.",
+          "text_mn": "Янз бүрийн баримт бичгийн хэлбэрүүдийн мэдээллийн уялдаа холбоог хангах.",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "The text mentions consistency across *documentation forms* (e.g., user's guide, quick reference), which benefits both writer and user, but this is distinct from the primary purpose of structuring information *within a single reference entry*."
+        }
+      ],
+      "concept": "Purpose of Structured Reference Entries",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that a structured reference entry 'shows how elements of a reference entry create a structure for explaining program functions.' Its various components like function entry, declaration, remarks, and examples all contribute to a comprehensive and organized explanation of how a program function works and how to use it effectively. This structured approach helps users understand and apply the information.",
+      "explanation_mn": "Үндсэн контекстэд бүтэцчилсэн лавлах бичилтийн 'элементүүд нь програмын функцүүдийг тайлбарлах бүтцийг хэрхэн бүрдүүлж байгааг харуулдаг' гэж тодорхой заасан. Функцийн бичиглэл, тунхаглал, тэмдэглэл, жишээ зэрэг түүний янз бүрийн бүрэлдэхүүн хэсгүүд нь програмын функц хэрхэн ажилладаг, түүнийг хэрхэн үр дүнтэй ашиглах талаар иж бүрэн, эмх цэгцтэй тайлбарлахад хувь нэмэр оруулдаг. Энэхүү бүтэцчилсэн арга нь хэрэглэгчдэд мэдээллийг ойлгож, хэрэглэхэд тусалдаг.",
+      "question_number": 4,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is a primary advantage for users when documentation effectively employs cross-referencing?",        
+      "question_mn": "Баримт бичигт хөндлөн ишлэлтийг үр дүнтэй ашиглах нь хэрэглэгчдэд ямар үндсэн давуу талыг олгодог вэ?",  
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Facilitating quicker location of specific procedures through direct keyword links.",
+          "text_mn": "Түлхүүр үгийн шууд холбоосоор дамжуулан тодорхой процедурыг хурдан олоход тусалдаг.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "While cross-referencing can aid in quickly locating information, the primary benefit highlighted for users is broader: to 'learn how to cross-reference' and 'see interrelationships among entries.' This choice focuses too narrowly on quick lookup of specific procedures, missing the aspect of learning to connect and navigate."
+        },
+        {
+          "id": "B",
+          "text_en": "Providing highly detailed technical specifications in separate appendices for experts.",
+          "text_mn": "Мэргэжилтнүүдэд зориулж өндөр нарийвчилсан техникийн үзүүлэлтүүдийг тусдаа хавсралтаар хангах.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes the purpose of appendices, which contain detailed technical information, but it does not directly explain the primary advantage of *cross-referencing* for users within the documentation set."
+        },
+        {
+          "id": "C",
+          "text_en": "Simplifying the writing process by ensuring information consistency across all forms.",
+          "text_mn": "Бүх хэлбэрийн мэдээллийн нэгдмэл байдлыг хангаж, бичих үйл явцыг хялбаршуулдаг.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "While consistency across forms does help the writer, this choice describes a benefit for the *writer* (simplifying the writing process) rather than the *user's primary advantage* of cross-referencing itself. The question specifically asks for a user advantage."
+        },
+        {
+          "id": "D",
+          "text_en": "Enabling users to connect and navigate related information across various documentation forms.",
+          "text_mn": "Хэрэглэгчдэд янз бүрийн баримт бичгийн хэлбэрүүдийн хоорондох холбогдох мэдээллийг холбож, удирдан чиглүүлэх боломжийг олгодог.",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The primary context explicitly states that consistent information helps the user 'who begins to learn how to cross-reference information in various elements of the documentation set.' Additionally, 'See also' links help users 'see interrelationships among entries.' Therefore, enabling users to connect and navigate related information is a key benefit." 
+        }
+      ],
+      "concept": "Cross-referencing in Documentation",
+      "difficulty": "medium",
+      "explanation_en": "The primary context states that consistent information helps the user 'who begins to learn how to cross-reference information in various elements of the documentation set.' Cross-referencing, such as 'See also' links, specifically aids users in understanding the interrelationships among different entries and navigating the documentation effectively. This allows users to connect related concepts and procedures, enhancing their overall learning and comprehension of the system.",  
+      "explanation_mn": "Үндсэн контекстэд нэгдмэл мэдээлэл нь хэрэглэгчдэд 'баримт бичгийн багцын янз бүрийн элементүүдийн хоорондох мэдээллийг хөндлөн ишлэх аргыг сурахад' тусалдаг гэж заасан. 'Мөн үзнэ үү' зэрэг хөндлөн ишлэлт нь хэрэглэгчдэд өөр өөр бичиглэлүүдийн хоорондох харилцан хамаарлыг ойлгож, баримт бичигт үр дүнтэйгээр чиглүүлэхэд тусалдаг. Энэ нь хэрэглэгчдэд холбогдох ойлголт, процедуруудыг холбож, системийн талаарх ерөнхий суралцах, ойлголтыг нэмэгдүүлэх боломжийг олгодог.",
+      "question_number": 5,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What kind of information is primarily housed in the appendices of a software manual?",
+      "question_mn": "Програм хангамжийн гарын авлагын хавсралтад ямар төрлийн мэдээлэл голчлон багтдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Highly detailed and technical information relevant to the program's use.",
+          "text_mn": "Хөтөлбөрийн ашиглалттай холбоотой өндөр нарийвчилсан, техникийн мэдээлэл.",
+          "is_correct": true,
+          "source": "Page 94",
+          "explanation": "The primary context states that appendices are where documenters place 'highly detailed, technical information' relating to the use of the program. This content is crucial for a deeper understanding beyond the main user's guide."
+        },
+        {
+          "id": "B",
+          "text_en": "Declarations and basic function entries for program components.",
+          "text_mn": "Програмын бүрэлдэхүүн хэсгүүдийн тунхаглал болон үндсэн функцийн бүртгэл.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Declarations and function entries are characteristic of a structured reference entry, which is a main part of the documentation set, separate from appendices."
+        },
+        {
+          "id": "C",
+          "text_en": "Quick reference guides for common procedures and functions.",
+          "text_mn": "Нийтлэг үйлдлүүд болон функцүүдийн хурдан лавлах гарын авлага.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "This describes a 'quick reference' document, which is mentioned as a separate form of documentation, not the primary content of an appendix."
+        },
+        {
+          "id": "D",
+          "text_en": "Step-by-step procedures for routine user tasks.",
+          "text_mn": "Хэрэглэгчийн энгийн даалгавруудыг гүйцэтгэх алхам алхмаар заавар.",
+          "is_correct": false,
+          "source": "Page 94",
+          "explanation": "Step-by-step procedures are typically found in a user's guide, focusing on how to perform tasks, rather than the in-depth technical details of an appendix."
+        }
+      ],
+      "concept": "Function and Content of Appendices",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that appendices in a software manual serve as a location for 'highly detailed, technical information' crucial for understanding program use. This distinguishes them from quick references, step-by-step procedures, or core function declarations found in other documentation sections.",
+      "explanation_mn": "Анхдагч контекстэд програм хангамжийн гарын авлагын хавсралтууд нь програмыг ашиглахад зайлшгүй шаардлагатай 'өндөр нарийвчилсан, техникийн мэдээлэл'-ийг байршуулах зориулалттай гэж тодорхой заасан байдаг. Энэ нь бусад баримт бичгийн хэсэгт байдаг хурдан лавлах, алхам алхмаар заавар, эсвэл үндсэн функцийн тунхаглалаас ялгаатай юм.",
+      "question_number": 6,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "Which characteristic best describes the information typically placed in a software manual's appendices?",
+      "question_mn": "Программын гарын авлагын хавсралтад ихэвчлэн байрладаг мэдээллийн онцлогийг хамгийн сайн тодорхойлсон нь аль нь вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Concise overviews for quick problem-solving and immediate use.",
+          "text_mn": "Асуудлыг хурдан шийдвэрлэх, нэн даруй ашиглахад зориулсан товч тойм.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes a 'quick reference' guide, which is a separate form of documentation, distinct from the detailed content of appendices."
+        },
+        {
+          "id": "B",
+          "text_en": "Declarations and usage syntax for common program functions.",
+          "text_mn": "Нийтлэг програмын функцүүдийн зарлал болон хэрэглээний синтакс.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While technical, this specific content is an example of a 'Structured Reference Entry' (as shown in Figure 4.1), which is a form of reference documentation generally, not exclusively the defining content for appendices."        
+        },
+        {
+          "id": "C",
+          "text_en": "Highly detailed, technical information for specialized users.",
+          "text_mn": "Нарийвчилсан, мэргэжлийн хэрэглэгчдэд зориулсан техникийн мэдээлэл.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context states that appendices are where documenters place \"all the highly detailed, technical information\" valuable for understanding program use."
+        },
+        {
+          "id": "D",
+          "text_en": "Step-by-step instructions for performing common user tasks.",
+          "text_mn": "Хэрэглэгчийн нийтлэг үйлдлүүдийг гүйцэтгэх алхам алхмаар заавар.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This type of information is usually found in a user's guide or procedures section, focusing on how to perform tasks, rather than the detailed technical information in appendices."
+        }
+      ],
+      "concept": "Common Information in Appendices",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that \"Appendices allow documenters a place to put all the highly detailed, technical information that highly detailed, technical per-\" (implying 'personnel' or 'users'). Therefore, appendices are characterized by containing extensive, specific technical details aimed at a specialized audience.",
+      "explanation_mn": "Анхдагч эх сурвалжид \"Хавсралтууд нь баримт бичиг боловсруулагчдад бүх нарийвчилсан, техникийн мэдээллийг байрлуулах боломжийг олгодог...\" гэж тодорхой заасан байдаг. Иймээс хавсралтууд нь мэргэшсэн хэрэглэгчдэд зориулсан өргөн хүрээний, тодорхой техникийн дэлгэрэнгүй мэдээллийг агуулдгаараа онцлог юм.",
+      "question_number": 7,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What essential purpose does a concise documentation form, such as a \"quick reference,\" serve within a software documentation set?",
+      "question_mn": "Програм хангамжийн баримт бичгийн багцад \"түргэн лавлах\" зэрэг товч баримт бичиг ямар чухал зорилготой вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To allow documenters a place to put all the highly detailed, technical information for experts.",        
+          "text_mn": "Мэргэжилтнүүдэд зориулсан бүх нарийвчилсан, техникийн мэдээллийг баримтжуулах боломжийг олгох.",
+          "is_correct": false,
+          "source": "Primary Context, Page 94 (Appendices)",
+          "explanation": "The primary context explicitly states that 'Appendices' are used for 'highly detailed, technical information,' which is a different purpose than a concise 'quick reference' document."
+        },
+        {
+          "id": "B",
+          "text_en": "To offer essential, concise information that supplements detailed procedural guides.",
+          "text_mn": "Нарийвчилсан үйл ажиллагааны гарын авлагыг нөхөж, чухал, товч мэдээллийг өгөх.",
+          "is_correct": true,
+          "source": "Primary Context, Page 94",
+          "explanation": "The primary context states that a 'quick reference' is supplied 'along with the procedures in a user’s guide,' implying its role is to provide essential, summarized information that complements the more detailed procedural instructions."
+        },
+        {
+          "id": "C",
+          "text_en": "To ensure information consistency across all varied documentation forms.",
+          "text_mn": "Бүх төрлийн баримт бичгийн хэлбэрүүдийн хооронд мэдээллийн нэгдмэл байдлыг хангах.",
+          "is_correct": false,
+          "source": "Primary Context, Page 94",
+          "explanation": "While ensuring consistency is a benefit of designing documentation with multiple forms, as mentioned in the text, it is a general design goal for the entire documentation set, not the primary purpose of a 'quick reference' itself."
+        },
+        {
+          "id": "D",
+          "text_en": "To provide a complete, exhaustive catalog of all program functions and their parameters.",
+          "text_mn": "Програмын бүх функц, тэдгээрийн параметрүүдийн иж бүрэн, дэлгэрэнгүй каталогийг өгөх.",
+          "is_correct": false,
+          "source": "Related Context/General Knowledge",
+          "explanation": "This describes a detailed reference entry or API documentation, which the primary context illustrates with structured examples like the 'Move' procedure, contrasting with a 'quick reference' that aims for brevity."
+        }
+      ],
+      "concept": "Definition and Role of Readme Files",
+      "difficulty": "medium",
+      "explanation_en": "The concept of a 'quick reference' in the primary context aligns with the role of a Readme file, which provides immediate and essential information. The text specifies that a 'quick reference' is 'supplied along with the procedures in a user’s guide,' indicating its purpose is to offer concise, vital information that complements the more exhaustive details found in a user's guide. This implies an initial or summary role rather than comprehensive technical detail or a general design principle.",
+      "explanation_mn": "Үндсэн контекст дэх 'түргэн лавлах' гэх ойлголт нь Readme файлын үүрэгтэй нийцэж байгаа бөгөөд энэ нь яаралтай бөгөөд чухал мэдээллийг өгдөг. Уг текстэнд 'түргэн лавлах'-ыг 'хэрэглэгчийн гарын авлагын дагуу, процедуртай хамт' өгдөг гэж заасан нь түүний зорилго нь хэрэглэгчийн гарын авлагад багтсан илүү дэлгэрэнгүй мэдээллийг нөхөж, товч бөгөөд чухал мэдээллийг өгөх явдал юм. Энэ нь иж бүрэн техникийн нарийвчлал эсвэл ерөнхий дизайны зарчим биш, харин эхний буюу хураангуй үүрэг гүйцэтгэдэг болохыг илтгэнэ.",
+      "question_number": 8,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is a primary advantage of structuring reference documentation with consistent information across forms?",
+      "question_mn": "Лавлах баримт бичгийг ижил мэдээллээр тогтмол бүтэцлэх гол давуу тал юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It simplifies the initial content creation and editing efforts for writers.",
+          "text_mn": "Энэ нь зохиолчдын анхны контент үүсгэх, засварлах ажлыг хялбаршуулдаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While consistency can aid writers, the text specifically emphasizes the user's ability to cross-reference as a key advantage of consistent information across forms, making this a secondary benefit."
+        },
+        {
+          "id": "B",
+          "text_en": "It enables users to easily cross-reference information across different documentation elements.",        
+          "text_mn": "Энэ нь хэрэглэгчдэд баримт бичгийн төрөл бүрийн хэсгүүдийн мэдээллийг хялбархан харьцуулан үзэх боломжийг олгодог.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states that 'Consistent information helps the user, who begins to learn how to cross-reference information in various elements of the documentation set.' This highlights the crucial role of consistency in enabling users to connect related information across different documentation forms."
+        },
+        {
+          "id": "C",
+          "text_en": "It guarantees that all highly technical details are included for advanced users.",
+          "text_mn": "Энэ нь дэвшилтэт хэрэглэгчдэд зориулсан бүх өндөр техникийн нарийвчилсан мэдээллийг баталгаажуулдаг.",   
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The inclusion of highly technical details is often handled by specific sections like appendices, and while important, it's not the primary advantage of *consistent information across forms* as described in the context."
+        },
+        {
+          "id": "D",
+          "text_en": "It accelerates the search for specific functions within the reference guide.",
+          "text_mn": "Энэ нь лавлах гарын авлага дахь тодорхой функцүүдийг хайхыг хурдасгадаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Efficient search is a general goal of good documentation, but the specific benefit of 'consistent information across forms' highlighted in the text is enabling users to cross-reference, rather than merely speeding up searches within a single guide."
+        }
+      ],
+      "concept": "Guidelines for Reference Documentation Design",
+      "difficulty": "medium",
+      "explanation_en": "The primary text emphasizes that 'Consistent information helps the user, who begins to learn how to cross-reference information in various elements of the documentation set.' This clearly states that a major benefit of designing reference documentation with consistent information across different forms is to enable users to effectively connect and understand related concepts throughout the entire documentation set.",
+      "explanation_mn": "Анхны текст нь 'Ижил төстэй мэдээлэл нь хэрэглэгчдэд тусалдаг, тэд баримт бичгийн төрөл бүрийн элементүүдийн мэдээллийг харьцуулан үзэхийг сурдаг' гэдгийг онцолсон. Энэ нь лавлах баримт бичгийг янз бүрийн хэлбэрээр тууштай мэдээллээр зохион бүтээх гол ашиг тус нь хэрэглэгчдэд бүх баримт бичгийн багц дахь холбогдох ойлголтуудыг үр дүнтэй холбож, ойлгох боломжийг олгох явдал болохыг тодорхой харуулж байна.",
+      "question_number": 9,
+      "page_reference": "123-151"
+    },
+    {
+      "question_en": "What is a primary advantage for a user interacting with a structured reference entry during a workplace activity?",
+      "question_mn": "Ажлын байран дахь үйл ажиллагааны үед бүтцэд оруулсан лавлахыг ашиглахын гол давуу тал юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It primarily facilitates the debugging process by listing common error codes.",
+          "text_mn": "Энэ нь нийтлэг алдааны кодуудыг жагсаан, алдааг олж засварлах үйл явцыг голчлон хөнгөвчилдөг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Although knowing how to use a function correctly can indirectly help prevent errors, the core purpose of a structured reference entry, as shown by its components, is to explain function usage and application rather than primarily serving as a debugging guide with error codes."
+        },
+        {
+          "id": "B",
+          "text_en": "It offers comprehensive instructions on a function's purpose, use, and application contexts.",
+          "text_mn": "Энэ нь функцийн зорилго, хэрэглээ, хэрэглээний нөхцөл байдлын талаар иж бүрэн зааварчилгааг өгдөг.",     
+          "is_correct": true,
+          "source": null,
+          "explanation": "The text explicitly describes how elements like 'Function entry', 'Declaration', 'Remarks', and 'Examples' within a structured reference entry are designed to explain a function's purpose, how to use it, when to apply it, and illustrate its workplace uses. This collective guidance ensures users can effectively apply functions in practical scenarios."   
+        },
+        {
+          "id": "C",
+          "text_en": "It focuses on providing release notes for new features and updates.",
+          "text_mn": "Энэ нь шинэ функц, шинэчлэлтүүдийн хувилбарын тэмдэглэлийг өгөхөд анхаардаг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Release notes are a distinct type of document that highlights new features and changes. A structured reference entry, conversely, provides detailed instructions and context for existing functions, as illustrated by the 'Move' procedure example."
+        },
+        {
+          "id": "D",
+          "text_en": "It mainly outlines the software's overall system architecture and design.",
+          "text_mn": "Энэ нь программ хангамжийн ерөнхий системийн архитектур, загварыг голчлон тоймлон харуулдаг.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While understanding individual functions contributes to overall system understanding, a structured reference entry's primary focus, as detailed in the text, is on the specific function's use and application, not the broad architectural design."
+        }
+      ],
+      "concept": "Workplace Activity Reference Source",
+      "difficulty": "medium",
+      "explanation_en": "The provided text explicitly details how a structured reference entry is designed to guide users. It mentions the 'Function entry' to state purpose, 'Declaration' for how to use, 'Remarks' to explain when to apply, and 'Examples' to show workplace applications. Collectively, these elements equip a user with the necessary information for effective practical application during a workplace activity, making comprehensive instructions its primary advantage.",
+      "explanation_mn": "Өгөгдсөн текст нь бүтцэд оруулсан лавлахын хэрэглэгчдэд хэрхэн удирдамж өгөхөд зориулагдсан талаар тодорхой тайлбарласан байдаг. Энэ нь функцийн зорилгыг тодорхойлох 'Функцийн оруулга', хэрхэн ашиглахыг заах 'Тушаал', хэзээ хэрэглэхийг тайлбарлах 'Тайлбар', болон ажлын байран дахь хэрэглээг харуулах 'Жишээ' зэрэг элементүүдийг дурдсан. Эдгээр элементүүд нь нийлээд хэрэглэгчийг ажлын байран дахь үйл ажиллагааны үед функцийг үр дүнтэй ашиглахад шаардлагатай мэдээллээр хангаж, иж бүрэн зааварчилгааг гол давуу тал болгодог.",
+      "question_number": 10,
+      "page_reference": "123-151"
+    }
+  ]
+}

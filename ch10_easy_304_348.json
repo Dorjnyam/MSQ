@@ -1,0 +1,442 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What defines document design as a sequence of stages?",
+      "question_mn": "Баримт бичгийн дизайныг үе шаттай үйл явц гэж юу тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Meeting user needs and delivering a solution.",
+          "text_mn": "Хэрэглэгчийн хэрэгцээг хангах, шийдэл гаргах.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text explicitly states: 'Think of document design as a sequence of stages beginning with a goal (meeting users’ needs) and ending with a solution (a manual and/or help).'"
+        },
+        {
+          "id": "B",
+          "text_en": "Focusing on visual appeal and branding.",
+          "text_mn": "Харагдах байдал, брэндэд анхаарах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While important in design, this is not how the text defines the *sequence of stages* for document design."
+        },
+        {
+          "id": "C",
+          "text_en": "Reviewing technical specifications.",
+          "text_mn": "Техникийн үзүүлэлтүүдийг хянах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "This is a project-related activity, but not the core definition of the document design process outlined in the text."
+        },
+        {
+          "id": "D",
+          "text_en": "Continual feedback and iteration.",
+          "text_mn": "Тасралтгүй санал хүсэлт, давталт.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Feedback and iteration are part of a development process, but the text defines the design *sequence* by its specific start and end points."
+        }
+      ],
+      "concept": "Document Design Process: A sequence of stages from defining user needs to delivering a solution (manual/help).",
+      "difficulty": "easy",
+      "explanation_en": "The text states that document design is a sequence of stages beginning with the goal of meeting users’ needs and ending with a solution, such as a manual or help system.",
+      "explanation_mn": "Уг текстэнд баримт бичгийн дизайн нь хэрэглэгчийн хэрэгцээг хангах зорилгоос эхэлж, гарын авлага эсвэл тусламжийн систем зэрэг шийдлээр төгсдөг үе шаттай үйл явц гэж заасан.",
+      "question_number": 1,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What does user analysis primarily suggest for documents?",
+      "question_mn": "Хэрэглэгчийн анализ нь баримт бичгүүдэд юуг голчлон санал болгодог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Specific document layout elements.",
+          "text_mn": "Баримт бичгийн зохион байгуулалтын тодорхой элементүүд.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "These are design choices, not the primary output of user analysis for document goals."
+        },
+        {
+          "id": "B",
+          "text_en": "Visual design patterns.",
+          "text_mn": "Харагдах дизайны загварууд.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Visual design patterns are specific design implementations, not the overarching suggestions from user analysis."
+        },
+        {
+          "id": "C",
+          "text_en": "Hierarchy of information headings.",
+          "text_mn": "Мэдээллийн гарчгуудын шатлал.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This refers to the structural organization of content, which is a design decision rather than a direct suggestion from user analysis regarding document goals."
+        },
+        {
+          "id": "D",
+          "text_en": "Overall document goals and workplace tasks.",
+          "text_mn": "Баримт бичгийн ерөнхий зорилго, ажлын байрны даалгавар.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text states that user analysis suggests overall goals for documents and identifies the workplace tasks users perform."
+        }
+      ],
+      "concept": "Role of User Analysis in Design: Informs document goals, workplace tasks, usability levels, and user performance needs.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that \"The user analysis will suggest overall goals for your documents\" and identify \"What workplace tasks\" users perform, directly linking it to document goals and workplace tasks.",     
+      "explanation_mn": "Үндсэн контекстэд \"Хэрэглэгчийн анализ нь таны баримт бичгүүдийн ерөнхий зорилгыг санал болгоно\" гэж тодорхой заасан бөгөөд хэрэглэгчид \"Ажлын байрны ямар даалгавруудыг гүйцэтгэдэг\" болохыг тодорхойлдог нь үүнийг баримт бичгийн зорилго, ажлын байрны даалгавартай шууд холбож байна.",
+      "question_number": 2,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What primarily suggests the overall goals for documents in design?",
+      "question_mn": "Баримт бичгийн дизайны ерөнхий зорилгыг юу голчлон тодорхойлдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "System settings",
+          "text_mn": "Системийн тохиргоо",
+          "is_correct": false,
+          "explanation": "System settings are examples of content within a document, not the source of its overall goals."     
+        },
+        {
+          "id": "B",
+          "text_en": "User analysis",
+          "text_mn": "Хэрэглэгчийн дүн шинжилгээ",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text states that user analysis suggests the overall goals for documents."
+        },
+        {
+          "id": "C",
+          "text_en": "Design stages",
+          "text_mn": "Дизайны үе шатууд",
+          "is_correct": false,
+          "explanation": "Design stages describe the process of document creation, not what originates its goals."
+        },
+        {
+          "id": "D",
+          "text_en": "Document elements",
+          "text_mn": "Баримт бичгийн элементүүд",
+          "is_correct": false,
+          "explanation": "Document elements like headers are features used to present information, not to define the document's overarching purpose."
+        }
+      ],
+      "concept": "Overall Goals in Document Design: Dictate organizational strategies and are expressed as sequences of user actions.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, \"The user analysis will suggest overall goals for your documents.\" This highlights user analysis as the fundamental step in determining the document's purpose and organizational strategies.",
+      "explanation_mn": "Анхдагч контекстэд \"Хэрэглэгчийн дүн шинжилгээ нь таны баримт бичгийн ерөнхий зорилгыг тодорхойлно\" гэж тодорхой заасан байдаг. Энэ нь баримт бичгийн зорилго, зохион байгуулалтын стратегийг тодорхойлоход хэрэглэгчийн дүн шинжилгээг үндсэн алхам болохыг онцолж байна.",
+      "question_number": 3,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "Which document design element helps users understand the hierarchical structure of information?",        
+      "question_mn": "Баримт бичгийн дизайны аль элемент нь хэрэглэгчдэд мэдээллийн шаталсан бүтцийг ойлгоход тусалдаг вэ?",   
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Headings",
+          "text_mn": "Гарчигууд",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text states, 'Headings help users see the hierarchical structure of the information.'"
+        },
+        {
+          "id": "B",
+          "text_en": "Cueing patterns",
+          "text_mn": "Ишлэл тэмдэглэгээ",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Cueing patterns help users recognize key information, not primarily its hierarchical structure."     
+        },
+        {
+          "id": "C",
+          "text_en": "Numbered steps",
+          "text_mn": "Дугаарласан алхамууд",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Numbered steps create clear areas for commands, not specifically hierarchical structure."
+        },
+        {
+          "id": "D",
+          "text_en": "Introductions",
+          "text_mn": "Оршил хэсгүүд",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Introductions help users see the workplace application of functions."
+        }
+      ],
+      "concept": "The Outline as the Main Design Element: Central to embodying user-oriented ideas and structuring document information.",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'Headings help users see the hierarchical structure of the information,' directly linking them to understanding the document's organization.",
+      "explanation_mn": "Текстэд 'Гарчигууд нь хэрэглэгчдэд мэдээллийн шаталсан бүтцийг харахад тусалдаг' гэж тодорхой заасан нь баримт бичгийн зохион байгуулалтыг ойлгоход чухал үүрэгтэйг харуулж байна.",
+      "question_number": 4,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What element directly organizes user command sequences in an interface?",
+      "question_mn": "Интерфэйс дэх хэрэглэгчийн командын дарааллыг юу шууд зохион байгуулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Introductions",
+          "text_mn": "Оршил",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "Introductions help users understand the application of functions, but do not organize command sequences."
+        },
+        {
+          "id": "B",
+          "text_en": "Highlighting patterns",
+          "text_mn": "Тодруулах загварууд",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "Highlighting patterns help users recognize key information, but not the sequence of commands."       
+        },
+        {
+          "id": "C",
+          "text_en": "Numbered steps",
+          "text_mn": "Дугаарласан алхамууд",
+          "is_correct": true,
+          "source": "Figure 10.1",
+          "explanation": "The text explicitly states, 'Numbered steps create clear areas for commands,' which directly describes a method for organizing user action sequences."
+        },
+        {
+          "id": "D",
+          "text_en": "Headers",
+          "text_mn": "Гарчиг",
+          "is_correct": false,
+          "source": "Figure 10.1",
+          "explanation": "Headers help users locate information within a manual, not specifically organize command sequences." 
+        }
+      ],
+      "concept": "Organizational Strategies for Information Structure: Methods for organizing program interface information based on user action sequences.",
+      "difficulty": "easy",
+      "explanation_en": "The text in Figure 10.1 clearly states that 'Numbered steps create clear areas for commands,' directly indicating their role in organizing user action sequences within an interface.",
+      "explanation_mn": "Зураг 10.1 дээрх текстэнд 'Дугаарласан алхамууд нь командуудад зориулсан тодорхой хэсгүүдийг үүсгэдэг' гэж тодорхой заасан нь тэдгээрийн хэрэглэгчийн үйлдлийн дарааллыг интерфейс дотор зохион байгуулах үүргийг шууд илэрхийлж байна.",
+      "question_number": 5,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the primary function of headers in a manual?",
+      "question_mn": "Гарын авлага дахь толгой мөрний үндсэн үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Locate information within the manual.",
+          "text_mn": "Гарын авлага доторх мэдээллийг олоход туслах.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "Headers help users locate information in the context of an entire manual."
+        },
+        {
+          "id": "B",
+          "text_en": "Recognize key information.",
+          "text_mn": "Түлхүүр мэдээллийг таних.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Customizing patterns (bold, italics) or screens and labels help users recognize key information, not headers."
+        },
+        {
+          "id": "C",
+          "text_en": "See the workplace application of functions.",
+          "text_mn": "Функцийн ажлын байран дахь хэрэглээг харах.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Introductions help users see the workplace application of functions."
+        },
+        {
+          "id": "D",
+          "text_en": "See the hierarchical structure of information.",
+          "text_mn": "Мэдээллийн шатлалыг харах.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Headings (not headers) help users see the hierarchical structure of information."
+        }
+      ],
+      "concept": "Headers: Function to help users locate information within the context of an entire manual.",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'Headers help users locate information in the context of an entire manual.'",
+      "explanation_mn": "Текстэнд 'Headers help users locate information in the context of an entire manual' гэж тодорхой заасан байдаг.",
+      "question_number": 6,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is a primary function of headings in document design?",
+      "question_mn": "Баримт бичгийн дизайны гарчигны үндсэн үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Displaying the hierarchical structure of information",
+          "text_mn": "Мэдээллийн шатлалтай бүтцийг харуулах",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "Headings are specifically noted as helping users see the hierarchical structure of information."     
+        },
+        {
+          "id": "B",
+          "text_en": "Highlighting key information with bold/italics",
+          "text_mn": "Чухал мэдээллийг тод/налуу үсгээр тодруулах",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This is a function of styling patterns (bold, italics), not headings themselves."
+        },
+        {
+          "id": "C",
+          "text_en": "Guiding users through a sequence of stages",
+          "text_mn": "Хэрэглэгчдийг үе шатуудаар удирдах",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This describes the overall document design process, not the specific function of headings."
+        },
+        {
+          "id": "D",
+          "text_en": "Creating clear areas for commands",
+          "text_mn": "Тушаалуудад зориулсан тодорхой хэсгүүдийг үүсгэх",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "This is a function of numbered steps, not headings."
+        }
+      ],
+      "concept": "Headings: Function to display hierarchical information structure and aid in locating/identifying information.",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'Headings help users see the hierarchical structure of the information,' making this their primary function.",
+      "explanation_mn": "Текстэнд \"Гарчиг нь хэрэглэгчдэд мэдээллийн шатлалтай бүтцийг харахад тусалдаг\" гэж тодорхой заасан тул энэ нь тэдний үндсэн үүрэг юм.",
+      "question_number": 7,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the purpose of numbered steps in document design?",
+      "question_mn": "Баримт бичгийн дизайны дугаарласан алхамуудын зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Recognize key information.",
+          "text_mn": "Гол мэдээллийг таних.",
+          "is_correct": false,
+          "source": "Page 305, Figure 10.1 annotation (Screens and labels, Cueing patterns)",
+          "explanation": "This describes the function of screens and labels or cueing patterns, not numbered steps."
+        },
+        {
+          "id": "B",
+          "text_en": "Help users locate information.",
+          "text_mn": "Хэрэглэгчдэд мэдээлэл олоход туслах.",
+          "is_correct": false,
+          "source": "Page 305, Figure 10.1 annotation (Headers)",
+          "explanation": "This describes the function of headers, not numbered steps."
+        },
+        {
+          "id": "C",
+          "text_en": "Create clear areas for commands.",
+          "text_mn": "Тушаалуудад зориулсан тодорхой хэсэг үүсгэх.",
+          "is_correct": true,
+          "source": "Page 305, Figure 10.1 annotation",
+          "explanation": "The text explicitly states, 'Numbered steps create clear areas for commands.'"
+        },
+        {
+          "id": "D",
+          "text_en": "See hierarchical structure.",
+          "text_mn": "Мэдээллийн шаталсан бүтцийг харах.",
+          "is_correct": false,
+          "source": "Page 305, Figure 10.1 annotation (Headings)",
+          "explanation": "This describes the function of headings, not numbered steps."
+        }
+      ],
+      "concept": "Numbered Steps: Function to create clear areas for commands within instructions.",
+      "difficulty": "easy",
+      "explanation_en": "Numbered steps in document design are specifically utilized to create clear, distinct areas for commands, making instructions easier to follow.",
+      "explanation_mn": "Баримт бичгийн дизайн дахь дугаарласан алхамууд нь тушаалуудад зориулсан тодорхой, ялгаатай хэсгүүдийг үүсгэж, зааварчилгааг дагахад хялбар болгодог.",
+      "question_number": 8,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is the purpose of cueing patterns like bold or italics?",
+      "question_mn": "Тод эсвэл налуу үсэг зэрэг тэмдэглэгээний хэв маягийн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To locate information in the manual.",
+          "text_mn": "Гарын авлага дахь мэдээллийг олох.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Headers help users locate information in the context of an entire manual, not cueing patterns."      
+        },
+        {
+          "id": "B",
+          "text_en": "To show hierarchical structure.",
+          "text_mn": "Шаталсан бүтцийг харуулах.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Headings help users see the hierarchical structure, not cueing patterns."
+        },
+        {
+          "id": "C",
+          "text_en": "To create clear command areas.",
+          "text_mn": "Тушаалын тодорхой хэсгүүдийг үүсгэх.",
+          "is_correct": false,
+          "source": "Page 305",
+          "explanation": "Numbered steps create clear areas for commands, not cueing patterns."
+        },
+        {
+          "id": "D",
+          "text_en": "To help users recognize key information.",
+          "text_mn": "Хэрэглэгчдэд гол мэдээллийг танихад туслах.",
+          "is_correct": true,
+          "source": "Page 305",
+          "explanation": "The text explicitly states: \"Cueing patterns (bold, italics, etc.) help users recognize key information.\""
+        }
+      ],
+      "concept": "Cueing Patterns (e.g., bold, italics): Function to help users recognize key information.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that \"Cueing patterns (bold, italics, etc.) help users recognize key information.\" The other options describe the functions of other document design elements.",
+      "explanation_mn": "Үндсэн текстэд \"Тэмдэглэгээний хэв маяг (тод, налуу үсэг г.м.) хэрэглэгчдэд гол мэдээллийг танихад тусалдаг\" гэж заасан байдаг. Бусад сонголтууд нь баримт бичгийн дизайны бусад элементүүдийн үүргийг тодорхойлсон.",
+      "question_number": 9,
+      "page_reference": "334-378"
+    },
+    {
+      "question_en": "What is a key function of lists in document design?",
+      "question_mn": "Баримт бичгийн загварт жагсаалтын гол үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Show document design elements.",
+          "text_mn": "Баримт бичгийн дизайны элементүүдийг харуулах.",
+          "is_correct": false,
+          "source": "Paragraph 1",
+          "explanation": "Figures 10.1 and 10.2 are noted to 'present some elements of document and screen design,' not lists themselves."
+        },
+        {
+          "id": "B",
+          "text_en": "Create clear areas for commands.",
+          "text_mn": "Тушаалуудад зориулсан тодорхой хэсгүүдийг үүсгэх.",
+          "is_correct": true,
+          "source": "Figure 10.1",
+          "explanation": "The text states that 'Numbered steps create clear areas for commands.' Numbered steps are a common form of list that serves to guide users through the application of program functions."
+        },
+        {
+          "id": "C",
+          "text_en": "Review the user analysis.",
+          "text_mn": "Хэрэглэгчийн дүн шинжилгээг хянах.",
+          "is_correct": false,
+          "source": "Paragraph 1",
+          "explanation": "Reviewing the user analysis is mentioned as 'Guideline 5,' which is a task for project planning, not a function of lists within a document."
+        },
+        {
+          "id": "D",
+          "text_en": "Provide psychological discussion.",
+          "text_mn": "Сэтгэл зүйн хэлэлцүүлэг өгөх.",
+          "is_correct": false,
+          "source": "Paragraph 1",
+          "explanation": "The text mentions a 'psychological discussion of users' as a section for broadening understanding, but this is not a function of lists within a document."
+        }
+      ],
+      "concept": "Lists: Function to guide users in deciding how to apply program functions to workplace tasks.",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly states that 'Numbered steps create clear areas for commands.' Numbered steps are a common form of list used in document design to guide users through actions, which aligns with helping users apply program functions to workplace tasks.",
+      "explanation_mn": "Уг текстэд \"Дугаарласан алхамууд нь тушаалуудад зориулсан тодорхой хэсгүүдийг үүсгэдэг\" гэж тодорхой заасан байдаг. Дугаарласан алхамууд нь хэрэглэгчдийг үйлдлүүдээр удирдан чиглүүлэх зорилгоор баримт бичгийн дизайнд ашиглагддаг жагсаалтын нэг хэлбэр бөгөөд энэ нь хэрэглэгчдэд програмын функцийг ажлын байрны даалгавруудад хэрхэн хэрэглэхийг ойлгоход тусалдаг.",
+      "question_number": 10,
+      "page_reference": "334-378"
+    }
+  ]
+}

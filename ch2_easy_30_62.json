@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What are the two main approaches to teaching software?",
+      "question_mn": "Програм хангамжийг заахын тулд ямар хоёр үндсэн хандлага байдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Skills-based and memory-focused",
+          "text_mn": "Ур чадвар дээр суурилсан ба ой тогтоолтод чиглэсэн",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "These relate to the outcomes or goals of teaching software, not the core approaches themselves."     
+        },
+        {
+          "id": "B",
+          "text_en": "Elaborative and minimalist",
+          "text_mn": "Нарийвчилсан ба хязгаарлагдмал",
+          "is_correct": true,
+          "source": "Page 30",
+          "explanation": "The text explicitly states: \"to teach software—the elaborative and the minimalist approaches.\""    
+        },
+        {
+          "id": "C",
+          "text_en": "Online and demonstration-type",
+          "text_mn": "Онлайн ба үзүүлэнгийн хэлбэртэй",
+          "is_correct": false,
+          "source": "Page 30",
+          "explanation": "These describe forms of tutorials, not the underlying teaching approaches."
+        },
+        {
+          "id": "D",
+          "text_en": "Task-oriented and user-centered",
+          "text_mn": "Даалгавар төвтэй ба хэрэглэгч төвтэй",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "These are principles for designing documentation, not the two main teaching approaches."
+        }
+      ],
+      "concept": "Two main approaches to teaching software: Elaborative and Minimalist.",
+      "difficulty": "easy",
+      "explanation_en": "The chapter's introduction directly mentions \"to teach software—the elaborative and the minimalist approaches\" as the subject matter.",
+      "explanation_mn": "Бүлгийн эхэнд \"програм хангамжийг заах—нарийвчилсан болон хязгаарлагдмал хандлагууд\" гэж шууд дурдсан байдаг.",
+      "question_number": 1,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What is a primary goal of software tutorials?",
+      "question_mn": "Програм хангамжийн гарын авлагын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Identify user actions",
+          "text_mn": "Хэрэглэгчийн үйлдлийг тодорхойлох",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Identifying user actions is a step in designing a tutorial, not its primary goal for the user's learning outcome."
+        },
+        {
+          "id": "B",
+          "text_en": "Enable skills from memory",
+          "text_mn": "Ур чадварыг тогтоолттой хийх чадвартай болгох",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text states that a tutorial is designed to teach software skills 'so that the user can perform them by memory'."
+        },
+        {
+          "id": "C",
+          "text_en": "Understand resource needs",
+          "text_mn": "Нөөцийн хэрэгцээг ойлгох",
+          "is_correct": false,
+          "source": "Page 30",
+          "explanation": "Understanding resource needs is information for someone planning a project, not the direct learning goal a tutorial provides to its users."
+        },
+        {
+          "id": "D",
+          "text_en": "Apply design trends",
+          "text_mn": "Загварын чиг хандлагыг хэрэглэх",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Applying design trends relates to the *creation* of a tutorial, not the specific outcome it aims to achieve for the user's skill mastery."
+        }
+      ],
+      "concept": "The primary goal of tutorials: Enabling users to perform software skills from memory.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that documentation is 'designed to teach software skills so that the user can perform them by memory,' directly aligning with enabling skills from memory as a primary goal.",
+      "explanation_mn": "Үндсэн агуулгад баримт бичгийг 'хэрэглэгч програм хангамжийн ур чадварыг тогтоолттой хийх чадвартай болоход зориулан' боловсруулсан гэж тодорхой заасан нь ур чадварыг тогтоолттой хийх нь үндсэн зорилго болохыг илэрхийлж байна.", 
+      "question_number": 2,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What is crucial for identifying skills to teach in tutorials?",
+      "question_mn": "Сургалтын гарын авлагад заах ур чадварыг тодорхойлоход юу чухал вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Principles of software exploration",
+          "text_mn": "Програм хангамжийг судлах зарчмууд",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Principles of software exploration refer to a style of teaching, not a method for initially identifying the skills to be taught."
+        },
+        {
+          "id": "B",
+          "text_en": "Memories of one's own learning",
+          "text_mn": "Өөрийн сурсан дурсамжууд",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "While helpful for understanding learning difficulties, this is not presented as the primary method for identifying *what skills* to teach in tutorials."
+        },
+        {
+          "id": "C",
+          "text_en": "A thorough user analysis",
+          "text_mn": "Хэрэглэгчийн нарийвчилсан дүн шинжилгээ",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text explicitly states: \"You should rely on a thorough user analysis...to help you identify what skills you need to teach.\""
+        },
+        {
+          "id": "D",
+          "text_en": "Observation of other learners",
+          "text_mn": "Бусад суралцагчдыг ажиглах",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Observation of others is mentioned as part of mastering basic principles of writing tutorials, but not specifically for identifying the *skills* that need to be taught."
+        }
+      ],
+      "concept": "The critical role of user analysis in identifying skills to teach in tutorials.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states that \"a thorough user analysis\" is what helps identify \"what skills you need to teach\" in tutorials. The other options are related concepts in the text but do not serve this specific purpose.",
+      "explanation_mn": "Үндсэн контекстэд \"хэрэглэгчийн нарийвчилсан дүн шинжилгээ\" нь сургалтын гарын авлагад \"ямар ур чадварыг заах ёстойгоо\" тодорхойлоход тусална гэж тодорхой заасан байдаг. Бусад сонголтууд нь текст дэх холбогдох ойлголтууд боловч энэ тодорхой зорилгод үйлчлэхгүй.",
+      "question_number": 3,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What is a key step in planning effective tutorials?",
+      "question_mn": "Үр дүнтэй сургалтын гарын авлага төлөвлөхөд чухал алхам юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Identifying user actions and workplace scenarios.",
+          "text_mn": "Хэрэглэгчийн үйлдлүүд болон ажлын байрны нөхцөл байдлыг тодорхойлох.",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The primary context emphasizes identifying user actions and workplace scenarios as a crucial first step in designing tutorials, stating, 'Any actions or scenarios your user would participate in make good problems for users in tutorials.'"
+        },
+        {
+          "id": "B",
+          "text_en": "Illustrating advanced features.",
+          "text_mn": "Нарийвчилсан функцуудыг харуулах.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "The text mentions an example illustrating advanced features, but this is an outcome of a good tutorial design, not the initial planning step of identifying user needs."
+        },
+        {
+          "id": "C",
+          "text_en": "Observing learning difficulties.",
+          "text_mn": "Суралцах бэрхшээлийг ажиглах.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "The text suggests observing others for insight into writing tutorials well, but it is not the primary planning step for defining the tutorial's content around user actions."
+        },
+        {
+          "id": "D",
+          "text_en": "Measuring required resources.",
+          "text_mn": "Шаардлагатай нөөцийг хэмжих.",
+          "is_correct": false,
+          "source": "Page 30",
+          "explanation": "While the text mentions resources, it is described as information for 'planning a project,' not a key step for planning the tutorial's content or skills to teach."
+        }
+      ],
+      "concept": "Planning tutorials around specific user actions and workplace scenarios.",
+      "difficulty": "easy",
+      "explanation_en": "The text states that a key step in planning tutorials is to 'Identify User Actions You Need to Support' and 'Decide on what skills you want to teach to support these scenarios' in the workplace, making this the primary focus for content planning.",
+      "explanation_mn": "Эх сурвалжид сургалтын гарын авлага төлөвлөхөд 'Дэмжих шаардлагатай хэрэглэгчийн үйлдлүүдийг тодорхойлох' болон ажлын байран дахь 'эдгээр нөхцөл байдлыг дэмжихэд ямар ур чадвар заахыг шийдэх' нь чухал алхам болохыг дурдсан тул энэ нь агуулгын төлөвлөлтийн гол зорилго юм.",
+      "question_number": 4,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What foundational skills must users master for program actions?",
+      "question_mn": "Хэрэглэгчид програмын үйлдлүүдийг хийхэд ямар суурь ур чадваруудыг эзэмших ёстой вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Tutorial design, user analysis.",
+          "text_mn": "Зааварчилгааны загвар, хэрэглэгчийн шинжилгээ.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "These are principles for designing effective documentation, not the basic program skills a user needs to learn."
+        },
+        {
+          "id": "B",
+          "text_en": "Project planning, resource allocation.",
+          "text_mn": "Төсөл төлөвлөх, нөөц хуваарилах.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "This refers to the planning aspects for creating tutorials, not the foundational skills users need to operate software."
+        },
+        {
+          "id": "C",
+          "text_en": "Using menus, clicking, combining features.",
+          "text_mn": "Цэс ашиглах, хулганаар дарах, функцүүдийг нэгтгэх.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The text states that user actions require mastering skills like using menus, clicking the mouse, and combining program features meaningfully in the workplace."
+        },
+        {
+          "id": "D",
+          "text_en": "Winning awards, advanced features.",
+          "text_mn": "Шагнал хүртэх, дэвшилтэт функцүүд.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "While an award-winning tutorial is mentioned as an example, these are not the foundational skills a user must master to perform program actions."
+        }
+      ],
+      "concept": "Breaking down user actions into necessary underlying program skills (e.g., using menus, clicking mouse, combining features).",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that for user actions to be accomplished, users must master skills such as 'how to use menus, how to click the mouse, and, most importantly, how to combine program features meaningfully in the workplace.'",
+      "explanation_mn": "Анхдагч контекстэд хэрэглэгчийн үйлдлүүдийг гүйцэтгэхийн тулд хэрэглэгчид 'цэс ашиглах, хулганаар дарах, хамгийн чухал нь програмын функцүүдийг ажлын байрандаа утга учиртай нэгтгэх' зэрэг ур чадваруудыг эзэмших ёстой гэж тодорхой заасан.",
+      "question_number": 5,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "Designing software lesson plans involves:",
+      "question_mn": "Програм хангамжийн сургалтын төлөвлөгөөг боловсруулах нь дараахыг шаарддаг:",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Linking workplace tasks to program skills.",
+          "text_mn": "Ажлын байрны даалгаврыг програмын ур чадвартай холбох.",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text states that user actions can only be accomplished if the user has mastered certain skills from the program and can combine program features meaningfully in the workplace. This directly supports linking workplace tasks to program skills when designing lesson plans."
+        },
+        {
+          "id": "B",
+          "text_en": "Conducting a thorough user analysis.",
+          "text_mn": "Хэрэглэгчийн нарийн дүн шинжилгээ хийх.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "While essential for identifying skills to teach, user analysis is a prerequisite step, not the direct design principle of associating commands with skills and linking them to workplace tasks within the lesson plan itself."      
+        },
+        {
+          "id": "C",
+          "text_en": "Observing other software users.",
+          "text_mn": "Бусад програмын хэрэглэгчдийг ажиглах.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "This is also a guideline for writing tutorials well and understanding user behavior, not the core principle of designing lesson plans by linking workplace tasks to program skills."
+        },
+        {
+          "id": "D",
+          "text_en": "Recalling personal learning struggles.",
+          "text_mn": "Хувийн сурах бэрхшээлээ эргэн санах.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "This is a guideline for writing tutorials well and understanding difficulties, not the core principle of designing lesson plans by linking workplace tasks to program skills."
+        }
+      ],
+      "concept": "Designing lesson plans by associating commands with skills and linking workplace tasks to program skills.",  
+      "difficulty": "easy",
+      "explanation_en": "Designing effective software lesson plans involves identifying user actions or scenarios (workplace tasks) and then deciding what specific program skills are needed to support these scenarios. The goal is to teach users how to combine program features meaningfully in the workplace, directly linking tasks to skills.",
+      "explanation_mn": "Програм хангамжийн үр дүнтэй сургалтын төлөвлөгөөг боловсруулах нь хэрэглэгчийн үйлдэл эсвэл нөхцөл байдлыг (ажлын байрны даалгавар) тодорхойлж, эдгээр нөхцөл байдлыг дэмжихэд ямар тодорхой програмын ур чадвар шаардлагатайг шийдэх явдал юм. Зорилго нь хэрэглэгчдэд програмын онцлогийг ажлын байрандаа утга учиртай хослуулахыг заах бөгөөд энэ нь даалгаврыг ур чадвартай шууд холбохыг хэлнэ.",
+      "question_number": 6,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "Effective software tutorial design primarily follows which principle?",
+      "question_mn": "Програм хангамжийн үр дүнтэй гарын авлага нь үндсэндээ ямар зарчмыг баримталдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Elaborate theoretical explanations.",
+          "text_mn": "Нарийвчилсан онолын тайлбар.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While 'elaborative approaches' are mentioned for teaching software, the primary principle for effective tutorial *design* emphasized in the guidelines is task-orientation, not extensive theory."
+        },
+        {
+          "id": "B",
+          "text_en": "Extensive historical context.",
+          "text_mn": "Өргөн хүрээний түүхэн нөхцөл байдал.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text focuses on practical skill acquisition for current software use, not historical context."   
+        },
+        {
+          "id": "C",
+          "text_en": "Task-oriented documentation.",
+          "text_mn": "Даалгавар төвтэй баримт бичиг.",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text explicitly states that tutorial design 'follows the principles of task-oriented documentation' and focuses on 'Identify User Actions You Need to Support'."
+        },
+        {
+          "id": "D",
+          "text_en": "Solely visual demonstrations.",
+          "text_mn": "Зөвхөн харааны үзүүлэн.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Tutorials often integrate visuals but also rely on explicit, step-by-step instructions for task completion, not solely visual demonstrations."
+        }
+      ],
+      "concept": "Characteristics of direct instruction tutorial organization: explicit style, task-focused steps, integrated graphics with action words.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states, 'By following these guidelines you can design tutorial documentation and be confident that your design follows the principles of task-oriented documentation.' It also emphasizes identifying 'User Actions You Need to Support' and deciding 'what skills you want to teach to support these scenarios,' which are all elements of a task-focused approach.",
+      "explanation_mn": "Эх сурвалж текстэд 'Эдгээр удирдамжийг дагаснаар та гарын авлагын баримт бичгийг боловсруулж, загвар нь даалгавар төвтэй баримт бичгийн зарчмыг баримталж байна гэдэгт итгэлтэй байж болно' гэж заасан. Мөн 'Хэрэглэгчийн дэмжлэг үзүүлэх шаардлагатай үйлдлүүдийг тодорхойлж', 'Эдгээр хувилбарыг дэмжихэд ямар ур чадвар заахыг хүсэж байгаагаа шийдээрэй' гэж онцолсон нь бүгд даалгаварт чиглэсэн арга барилын элементүүд юм.",
+      "question_number": 7,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What guides the selection of program features for tutorials?",
+      "question_mn": "Хичээл заах програм хангамжийн онцлогийг сонгохдоо юуг удирдлага болгох вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "All available program features",
+          "text_mn": "Бүх боломжит програмын функцууд",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text suggests selecting specific skills based on user roles and tasks, not covering all features equally."
+        },
+        {
+          "id": "B",
+          "text_en": "User actions and workplace tasks",
+          "text_mn": "Хэрэглэгчийн үйлдэл болон ажлын байрны даалгавар",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text emphasizes identifying user actions and scenarios and teaching skills to support those, enabling users to combine features meaningfully in the workplace."
+        },
+        {
+          "id": "C",
+          "text_en": "Developer's preferred features",
+          "text_mn": "Хөгжүүлэгчийн илүүд үздэг функцууд",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text focuses on user analysis and needs, not developer preferences, for selecting features."     
+        },
+        {
+          "id": "D",
+          "text_en": "Only advanced, complex features",
+          "text_mn": "Зөвхөн нарийн төвөгтэй, дэвшилтэт функцууд",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text states features should be chosen based on relevance to a user's role and tasks, which may include basic or advanced skills, not exclusively complex ones."
+        }
+      ],
+      "concept": "Guidelines for selecting program features for tutorials: relevance to user tasks, centrality to job performance, and efficiency of software use.",
+      "difficulty": "easy",
+      "explanation_en": "The text states that tutorial design should \"Identify User Actions You Need to Support\" and \"Decide on what skills you want to teach to support these scenarios\" to enable users to \"combine program features meaningfully in the workplace.\"",
+      "explanation_mn": "Эх сурвалжид хичээл заах загвар нь \"хэрэглэгчийн дэмжлэг хэрэгтэй үйлдлийг тодорхойлох\", \"эдгээр хувилбаруудыг дэмжихэд ямар ур чадварыг заахаа шийдэх\" ёстой бөгөөд ингэснээр хэрэглэгчид \"програмын функцуудыг ажлын байрандаа утга учиртай нэгтгэх\" боломжтой болно гэж заасан.",
+      "question_number": 8,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What is a key first step for effective tutorial design?",
+      "question_mn": "Үр дүнтэй зааварчилгааны дизайны эхний чухал алхам юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Identify user actions needing support",
+          "text_mn": "Дэмжлэг хэрэгтэй хэрэглэгчийн үйлдлүүдийг тодорхойлох",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text explicitly states, 'Identify User Actions You Need to Support' as a guideline for designing tutorials to effectively teach skills by connecting them to user scenarios and workplace application."
+        },
+        {
+          "id": "B",
+          "text_en": "Outline the document set structure",
+          "text_mn": "Баримт бичгийн багцын бүтцийг тодорхойлох",
+          "is_correct": false,
+          "source": null,
+          "explanation": "This relates to documentation planning, but not directly to the core content design principle of connecting software skills to user needs."
+        },
+        {
+          "id": "C",
+          "text_en": "List all program features",
+          "text_mn": "Програмын бүх функцийг жагсаах",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While knowing features is important, the text emphasizes linking features to specific user actions, not just listing them."
+        },
+        {
+          "id": "D",
+          "text_en": "Analyze common learning difficulties",
+          "text_mn": "Нийтлэг сурах бэрхшээлийг шинжлэх",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Understanding learning difficulties is helpful, but the primary focus for design is first identifying the user actions to be supported."
+        }
+      ],
+      "concept": "The importance of tying program features directly to user actions in tutorial design.",
+      "difficulty": "easy",
+      "explanation_en": "This question assesses the fundamental understanding that effective software tutorials must first identify and then teach skills relevant to specific user actions and scenarios.",
+      "explanation_mn": "Энэ асуулт нь програм хангамжийн үр дүнтэй зааварчилгаа нь эхлээд тодорхой хэрэглэгчийн үйлдэл, нөхцөл байдалд хамаарах ур чадварыг тодорхойлж, дараа нь заах ёстой гэсэн үндсэн ойлголтыг үнэлдэг.",
+      "question_number": 9,
+      "page_reference": "60-82"
+    },
+    {
+      "question_en": "What helps master basic tutorial design principles?",
+      "question_mn": "Сургалтын үндсэн дизайны зарчмыг эзэмшихэд юу тусалдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Task-oriented documentation principles.",
+          "text_mn": "Даалгаварт чиглэсэн баримт бичгийн зарчмууд.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Following task-oriented documentation principles helps in designing documentation that adheres to those principles, but not directly in mastering the basic design principles through personal experience."
+        },
+        {
+          "id": "B",
+          "text_en": "Personal learning memories and observing others.",
+          "text_mn": "Хувийн суралцсан туршлага, бусдыг ажиглах.",
+          "is_correct": true,
+          "source": "Page 31",
+          "explanation": "The text states, 'When trying to teach skills, rely on memories of your own learning and the difficulties you had with new software, then combine your memories with observation of others.'"
+        },
+        {
+          "id": "C",
+          "text_en": "Thorough user analysis.",
+          "text_mn": "Хэрэглэгчийн гүнзгий дүн шинжилгээ.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Thorough user analysis is mentioned for identifying skills to teach, not for mastering basic design principles themselves."
+        },
+        {
+          "id": "D",
+          "text_en": "Software exploration principles.",
+          "text_mn": "Програм хангамжийг судлах зарчмууд.",
+          "is_correct": false,
+          "source": "Page 31",
+          "explanation": "Software exploration is described as a style of teaching, not the method for the designer to master the basic principles."
+        }
+      ],
+      "concept": "Leveraging personal learning experiences and observations of others to master basic tutorial design principles.",
+      "difficulty": "easy",
+      "explanation_en": "To master the basic principles of tutorial design, one should rely on memories of their own learning difficulties with new software and combine those memories with observations of others.",
+      "explanation_mn": "Сургалтын үндсэн дизайны зарчмуудыг эзэмшихийн тулд хүн шинэ програм хангамж сурахдаа тулгарсан бэрхшээлээ санах, мөн бусдыг ажигласан туршлагаа нэгтгэн ашиглах хэрэгтэй.",
+      "question_number": 10,
+      "page_reference": "60-82"
+    }
+  ]
+}

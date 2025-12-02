@@ -1,0 +1,435 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "Which statement best describes the primary application of copyediting marks in a manuscript?",
+      "question_mn": "Гар бичмэлд засварлах тэмдэглэгээг ашиглах үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To enable editors to efficiently track their own changes and progress.",
+          "text_mn": "Засварлагчдад өөрсдийн хийсэн өөрчлөлт, явцыг үр дүнтэй хянах боломжийг олгох.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While marks might implicitly help editors track changes, their primary stated application in the text focuses on communication to the writer."
+        },
+        {
+          "id": "B",
+          "text_en": "To visually segment the manuscript into distinct sections for quicker review.",
+          "text_mn": "Гар бичмэлийг хурдан хянахын тулд тусдаа хэсгүүдэд хуваах зорилготой.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Copyediting marks are used for specific corrections and instructions, not primarily for general visual segmentation of the manuscript for review purposes."
+        },
+        {
+          "id": "C",
+          "text_en": "To ensure the document's content aligns perfectly with standard industry style guides.",
+          "text_mn": "Баримт бичгийн агуулгыг салбарын стандарт хэв маягийн гарын авлагатай бүрэн нийцүүлэх.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Adherence to style guides is a goal of editing, but the marks themselves are the method for indicating corrections and instructions, not the goal of alignment itself."
+        },
+        {
+          "id": "D",
+          "text_en": "To clearly indicate corrections and provide specific instructions to the writer.",
+          "text_mn": "Засваруудыг тодорхой зааж, зохиогчид тодорхой зааварчилгаа өгөх.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The primary context states that editors use copyediting marks to make corrections 'clearly and has made them easy to find' and to 'include instructions to the writer in a document'. This directly addresses the clear indication of changes and provision of instructions."
+        }
+      ],
+      "concept": "Application and purpose of copyediting marks in manuscripts",
+      "difficulty": "medium",
+      "explanation_en": "The primary context clearly states that editing marks are used to make corrections clear and easy to find, and to include instructions to the writer. This ensures effective communication between the editor and the writer regarding necessary changes, which is the core application of these marks.",
+      "explanation_mn": "Үндсэн контекстэд засварлах тэмдэглэгээг засваруудыг тодорхой бөгөөд олоход хялбар болгох, мөн зохиогчид зааварчилгаа оруулахад ашигладаг гэж тодорхой заасан. Энэ нь засварлагч болон зохиогчийн хооронд шаардлагатай өөрчлөлтүүдийн талаар үр дүнтэй харилцааг баталгаажуулдаг бөгөөд энэ нь эдгээр тэмдэглэгээний үндсэн зорилго юм.",
+      "question_number": 1,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which technique directly contributes to ensuring editorial corrections are both clear and easily located on a marked-up page?",
+      "question_mn": "Засварлах тэмдэглэгээтэй хуудсан дээр засваруудыг ойлгомжтой, олоход хялбар болгоход аль арга шууд хувь нэмэр оруулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Relying on electronic annotating features for comprehensive manuscript notes.",
+          "text_mn": "Гар бичмэлийн дэлгэрэнгүй тэмдэглэгээнд зориулж электрон тэмдэглэгээний функцийг ашиглах.",
+          "is_correct": false,
+          "source": null
+        },
+        {
+          "id": "B",
+          "text_en": "Basing all major revisions solely on in-house style guides for consistency.",
+          "text_mn": "Бүх томоохон засваруудыг зөвхөн компанийн дотоод хэв маягийн гарын авлагад үндэслэн хийх.",
+          "is_correct": false,
+          "source": null
+        },
+        {
+          "id": "C",
+          "text_en": "Rewriting lengthy passages and attaching them separately to the document.",
+          "text_mn": "Урт хэсгүүдийг дахин бичиж, баримт бичигт тусад нь хавсаргах.",
+          "is_correct": false,
+          "source": null
+        },
+        {
+          "id": "D",
+          "text_en": "Utilizing varied colored pens and strategically using margins to prevent page clutter.",
+          "text_mn": "Янз бүрийн өнгийн үзэг ашиглах, мөн хуудасны эмх замбараагүй байдлаас зайлсхийхийн тулд маржингуудыг стратегийн хувьд ашиглах.",
+          "is_correct": true,
+          "source": "Page 266"
+        }
+      ],
+      "concept": "Tools and techniques for making clear editorial corrections",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that editors make corrections \"clearly and... easy to find.\" It then elaborates, \"To facilitate ease of reading, editors often use red, blue, and green pens. You might have to draw some lines or use both margins to avoid clutter on the page.\" This directly links the use of varied colored pens and strategic margin use to the clarity and findability of corrections on a marked-up page. Other options refer to alternative tools, decision-making principles, or methods of extensive revision, rather than the core techniques for clear, on-page marking.",
+      "explanation_mn": "Анхдагч контекстэд редакторууд засваруудыг \"тодорхой бөгөөд... олоход хялбар\" болгохыг тодорхой заасан байдаг. Цаашлаад \"Уншихад хялбар болгохын тулд редакторууд ихэвчлэн улаан, хөх, ногоон үзэг ашигладаг. Хуудсан дээрх эмх замбараагүй байдлаас зайлсхийхийн тулд та зарим шугам зурах эсвэл хоёр маржинг ашиглах шаардлагатай болж магадгүй юм\" гэж тайлбарласан. Энэ нь янз бүрийн өнгийн үзэг ашиглах, маржинг стратегийн хувьд ашиглах нь засварлах тэмдэглэгээтэй хуудсан дээрх засваруудын ойлгомжтой байдал, олоход хялбар байдалд шууд нөлөөлдөг болохыг харуулж байна. Бусад сонголтууд нь өөр багаж хэрэгсэл, шийдвэр гаргах зарчим эсвэл өргөн хүрээтэй засвар хийх арга зүйтэй холбоотой боловч хуудсан дээр тодорхой тэмдэглэгээ хийх үндсэн арга техник биш юм.",
+      "question_number": 2,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What combination of authorities typically informs decisions about document changes during editing?",     
+      "question_mn": "Баримт бичгийг засварлах үед өөрчлөлтийн шийдвэр гаргахад ямар эрх мэдэл бүхий хүчин зүйлс голчлон нөлөөлдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Standard style guides, in-house guidelines, document specifications, and common sense.",
+          "text_mn": "Стандарт хэв маягийн гарын авлага, дотоод зааварчилгаа, баримт бичгийн тодорхойлолт, мөн нийтлэг ойлголт.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states that 'you base decisions about changes on a variety of authorities: standard style guides, in-house style guides, specifications for a specific document, and, more often than not, common sense.' This choice directly reflects these mentioned authorities for editing decisions."
+        },
+        {
+          "id": "B",
+          "text_en": "Author's creative intent, graphic layout requirements, and project management schedules.",
+          "text_mn": "Зохиогчийн бүтээлч санаа, график зохион байгуулалтын шаардлага, болон төслийн менежментийн хуваарь.",    
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The author's intent initiates the content, graphic layout is a visual design aspect, and project schedules are logistical constraints. None of these are presented as the core 'authorities' for making editing decisions regarding content and style."
+        },
+        {
+          "id": "C",
+          "text_en": "Marketing team instructions, legal review outcomes, and available resource constraints.",
+          "text_mn": "Маркетингийн багийн зааварчилгаа, хуулийн хяналтын үр дүн, болон нөөцийн хязгаарлалт.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "These elements represent external directives, compliance checks, and practical limitations, respectively. They influence the overall project and content strategy but are not the fundamental 'authorities' for stylistic or grammatical editing decisions."
+        },
+        {
+          "id": "D",
+          "text_en": "Editor's individual preferences, reader comprehension feedback, and current industry trends.",
+          "text_mn": "Редакторын хувийн сонголтууд, уншигчийн ойлголтын санал хүсэлт, болон салбарын одоогийн чиг хандлага.",  
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While these factors can indirectly influence editing, they are not identified as the primary formal 'authorities' that guide specific decisions about document changes in the same way as established style guides or specifications."
+        }
+      ],
+      "concept": "Authorities that guide editing decisions (style guides, specifications, common sense)",
+      "difficulty": "medium",
+      "explanation_en": "The correct answer directly lists the four categories of authorities mentioned in the primary context that inform editing decisions: standard style guides, in-house style guides, specifications for a specific document, and common sense. The other options refer to related but distinct aspects like personal preferences, logistical factors, or external influences, which are not explicitly stated as the guiding 'authorities' for editing choices.",
+      "explanation_mn": "Зөв хариулт нь баримт бичгийг засах шийдвэр гаргахад нөлөөлдөг дөрвөн төрлийн эрх мэдэл бүхий хүчин зүйлийг үндсэн агуулгад дурдсантай яг таарч байна: стандарт хэв маягийн гарын авлага, дотоод хэв маягийн гарын авлага, тухайн баримт бичгийн тодорхойлолт, мөн нийтлэг ойлголт. Бусад сонголтууд нь хувийн сонголт, логистикийн хүчин зүйлс эсвэл гадны нөлөө зэрэг өөр боловч холбогдох асуудлуудыг дурдсан бөгөөд эдгээр нь засварлах шийдвэрийг удирдах 'эрх мэдэл' гэж тодорхой заагдаагүй болно.",
+      "question_number": 3,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is a primary characteristic of standard copy editor's marks in a manuscript?",
+      "question_mn": "Эх бичвэр дэх стандарт хуулбар засварлагчийн тэмдэглэгээний гол шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "They are exclusively used for editing online help systems, not print manuals.",
+          "text_mn": "Тэдгээрийг зөвхөн онлайн тусламжийн системийг засахад ашигладаг бөгөөд хэвлэмэл гарын авлагад ашигладаггүй.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text explicitly states that these marks are used 'on a draft of a print manual or a printed version of an online help system,' contradicting the idea that they are exclusively for online systems."
+        },
+        {
+          "id": "B",
+          "text_en": "They represent industry-standard symbols used to clearly communicate corrections and instructions to the writer.",
+          "text_mn": "Тэдгээр нь зохиогчид засвар болон зааврыг тодорхой дамжуулах зорилгоор салбарын стандартын тэмдэглэгээг илэрхийлдэг.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "Standard copy editor's marks are described as 'standard ones used throughout the industry' and are employed 'to include instructions to the writer in a document' and make 'corrections clearly and easy to find'."
+        },
+        {
+          "id": "C",
+          "text_en": "They are always applied using specific colored pens like red, blue, and green.",
+          "text_mn": "Тэдгээрийг үргэлж улаан, хөх, ногоон гэх мэт тусгай өнгийн үзэг ашиглан хийдэг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While the text mentions editors 'often use red, blue, and green pens' for ease of reading, this is a common practice for visibility, not an inherent characteristic of the marks themselves, nor is it stated as 'always' the case."
+        },
+        {
+          "id": "D",
+          "text_en": "They primarily serve to reduce the overall length of the original manuscript.",
+          "text_mn": "Тэдгээр нь үндсэндээ эх бичвэрийн ерөнхий уртыг багасгахад үйлчилдэг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The primary purpose of copy editor's marks, according to the text, is to illustrate corrections and provide instructions, not specifically to reduce the manuscript's length."
+        }
+      ],
+      "concept": "Standardized copy editor's marks and their meanings (e.g., delete, insert, transpose)",
+      "difficulty": "medium",
+      "explanation_en": "Standard copy editor's marks are industry-recognized symbols designed to make corrections and instructions explicit and easily identifiable for the writer. This ensures clarity and efficiency in the revision process, as supported by the text's description of standard symbols used to include instructions and make corrections clear.",
+      "explanation_mn": "Стандарт хуулбар засварлагчийн тэмдэглэгээ нь зохиогчид зориулсан засвар, зааврыг тодорхой бөгөөд амархан танигдахуйц болгох зорилготой, салбартаа хүлээн зөвшөөрөгдсөн тэмдэглэгээ юм. Энэ нь эргэн хянаж засварлах үйл явцын тодорхой бөгөөд үр дүнтэй байдлыг хангадаг бөгөөд уг текстэнд стандарт тэмдэглэгээг заавар оруулах, засварыг тодорхой болгоход ашигладаг гэж тайлбарласан байдаг.",
+      "question_number": 4,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is the primary role of an in-house style guide for documentation consistency?",
+      "question_mn": "Баримт бичгийн нэгдмэл байдлыг хангах дотоодын хэв маягийн гарын авлагын үндсэн үүрэг юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To be the sole authority for all documentation decisions, replacing common sense.",
+          "text_mn": "Баримт бичгийн бүх шийдвэрийн цорын ганц эрх мэдэл болж, нийтлэг ойлголтыг орлох.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The text indicates that documentation decisions are based on various authorities including in-house style guides, but also 'standard style guides, specifications for a specific document, and, more often than not, common sense,' implying it's not the sole authority and doesn't replace common sense."
+        },
+        {
+          "id": "B",
+          "text_en": "To provide writers with guidelines for consistent documentation writing and formatting.",
+          "text_mn": "Зохиогчдод баримт бичгийн нэгдмэл бичигдэхүүн, форматад зориулсан удирдамж өгөх.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The primary context states that an in-house style guide \"provides general information about documentation at the company, and tells how to write and format procedural tables\" for its writers, directly supporting its role in ensuring consistency."
+        },
+        {
+          "id": "C",
+          "text_en": "To illustrate standard copyediting marks used across the industry.",
+          "text_mn": "Салбарт ашигладаг стандарт засварлах тэмдэглэгээг харуулах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "While the text mentions standard editing marks (Figure 9.2), this is a separate aspect of editing and not the primary role of an in-house style guide as described for a software company."
+        },
+        {
+          "id": "D",
+          "text_en": "To detail methods for rewriting passages and pasting them into the manuscript.",
+          "text_mn": "Дамжлага хэсгүүдийг дахин бичиж, гар бичмэлд буулгах аргуудыг нарийвчлан тайлбарлах.",
+          "is_correct": false,
+          "source": "Page 266",
+          "explanation": "This describes a specific editing technique, not the overarching purpose of an in-house style guide, which focuses on consistent writing and formatting standards."
+        }
+      ],
+      "concept": "The role and importance of in-house style guides for consistency in documentation",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that an in-house style guide \"provides general information about documentation at the company, and tells how to write and format procedural tables\" for its writers. This indicates its main purpose is to ensure consistency in the creation and formatting of company documentation.",
+      "explanation_mn": "Үндсэн контекстэд дотоодын хэв маягийн гарын авлага нь \"компанийн баримт бичгийн талаарх ерөнхий мэдээллийг өгч, зохиогчдод процедурын хүснэгтийг хэрхэн бичих, форматлахыг заадаг\" гэж тодорхой заасан байдаг. Энэ нь түүний гол зорилго нь компанийн баримт бичгийг үүсгэх, форматлахад нэгдмэл байдлыг хангах явдал болохыг илтгэнэ.",
+      "question_number": 5,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which information is commonly included in a company's in-house style guide?",
+      "question_mn": "Компанийн дотоод хэв маягийн гарын авлагад ихэвчлэн ямар мэдээлэл багтдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Guidelines for formatting procedural tables within documentation.",
+          "text_mn": "Баримт бичиг доторх горимын хүснэгтийг форматлах удирдамж.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The primary text explicitly states that a style guide \"tells how to write and format procedural tables\" as a key function, making this a direct and accurate representation of its content."
+        },
+        {
+          "id": "B",
+          "text_en": "Standardized editing marks for correcting manuscript drafts.",
+          "text_mn": "Гар бичмэлийн ноорогт засвар хийхэд зориулсан стандартчилсан засварын тэмдэг.",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text_en": "The complete workflow for document editing and approval.",
+          "text_mn": "Баримт бичгийг засах, батлах бүрэн ажлын урсгал.",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text_en": "Detailed software installation procedures for end-users.",
+          "text_mn": "Эцсийн хэрэглэгчдэд зориулсан программ хангамж суулгах нарийвчилсан заавар.",
+          "is_correct": false
+        }
+      ],
+      "concept": "Typical content of a style guide (e.g., formatting procedural tables, acronym usage guidelines)",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that a style guide \"tells how to write and format procedural tables\" and provides \"general information about documentation.\" The correct answer directly reflects this. Distractors concern editing processes, specific product instructions, or overall workflows, which are related to documentation but not typically the specific content found within an in-house style guide as described.",
+      "explanation_mn": "Эх эх сурвалжид хэв маягийн гарын авлага нь \"горимын хүснэгтийг хэрхэн бичих, форматлах\"-ыг зааж, \"баримт бичгийн талаарх ерөнхий мэдээлэл\" өгдөг гэж тодорхой заасан байдаг. Зөв хариулт нь үүнийг шууд тусгаж байна. Буруу хариултууд нь засварлах үйл явц, бүтээгдэхүүний тодорхой заавар, эсвэл ерөнхий ажлын урсгалтай холбоотой бөгөөд эдгээр нь баримт бичигтэй холбоотой боловч тайлбарласан дотоод хэв маягийн гарын авлагад ихэвчлэн багтдаггүй.",
+      "question_number": 6,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which factors primarily guide decisions about documentation changes and project guidelines?",
+      "question_mn": "Баримт бичгийн өөрчлөлт, төслийн удирдамжийн талаарх шийдвэрийг юуны үндсэн дээр гаргадаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Editor's personal preferences and the availability of editing pens.",
+          "text_mn": "Редакторын хувийн сонголт, засварлах үзэгний бэлэн байдал.",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "B",
+          "text_en": "The latest electronic annotating features and software updates.",
+          "text_mn": "Хамгийн сүүлийн үеийн электрон тэмдэглэгээний функцууд болон програмын шинэчлэлтүүд.",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "C",
+          "text_en": "Standard and in-house style guides, specific document specifications, and common sense.",
+          "text_mn": "Стандарт болон дотоодын хэв маягийн гарын авлага, баримт бичгийн тодорхойлолт, мөн нийтлэг ойлголт.",    
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The text explicitly states that decisions about documentation changes are based on a 'variety of authorities,' including standard style guides, in-house style guides, and specifications for a specific document, alongside common sense. These elements directly relate to establishing project guidelines that consider both general industry standards (standard guides), organizational context (in-house guides), and the unique needs of the content (specific document specifications). The other options describe tools or personal preferences, not the foundational guidelines."
+        },
+        {
+          "id": "D",
+          "text_en": "Exclusive reliance on writer's input and minimal external oversight.",
+          "text_mn": "Зөвхөн зохиогчийн оролцоонд тулгуурлах, гаднаас хяналт тавихыг багасгах.",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        }
+      ],
+      "concept": "Establishing project guidelines based on user situations and content uniqueness",
+      "difficulty": "medium",
+      "explanation_en": "The text explicitly states that decisions about documentation changes are based on a 'variety of authorities,' including standard style guides, in-house style guides, and specifications for a specific document, alongside common sense. These elements directly relate to establishing project guidelines that consider both general industry standards (standard guides), organizational context (in-house guides), and the unique needs of the content (specific document specifications). The other options describe tools or personal preferences, not the foundational guidelines.",
+      "explanation_mn": "Уг текстэнд баримт бичгийн өөрчлөлтийн талаарх шийдвэрийг стандарт хэв маягийн гарын авлага, дотоодын хэв маягийн гарын авлага, тодорхой баримт бичгийн тодорхойлолт, мөн нийтлэг ойлголт зэрэг олон төрлийн эх сурвалжид тулгуурлан гаргадаг гэж тодорхой заасан байдаг. Эдгээр элементүүд нь салбарын ерөнхий стандарт (стандарт гарын авлага), байгууллагын нөхцөл байдал (дотоодын гарын авлага), агуулгын өвөрмөц хэрэгцээ (тодорхой баримт бичгийн тодорхойлолт) зэргийг харгалзан төслийн удирдамжийг тогтоохтой шууд холбогдоно. Бусад сонголтууд нь хэрэгсэл эсвэл хувийн сонголтыг тодорхойлдог боловч үндсэн удирдамж биш юм.",
+      "question_number": 7,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is a primary goal of an in-house style guide within a software company's documentation process?",   
+      "question_mn": "Програм хангамжийн компанийн баримт бичгийн үйл явцад байгууллагын дотоод хэв маягийн гарын авлагын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To supply writers with direct commands for electronically annotating help systems.",
+          "text_mn": "Зохиогчдод туслах системийн электрон тайлбарыг шууд оруулах командуудыг нийлүүлэх.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "While the text mentions electronic annotating as a method for editing help systems, the style guide's description focuses on providing information about documentation, how to write and format procedural tables, and references online versions for *formatting commands* to achieve a specific look, not necessarily direct commands for annotation tools."     
+        },
+        {
+          "id": "B",
+          "text_en": "To provide consistent guidelines for writers and editors on company documentation standards and formatting.",
+          "text_mn": "Зохиогчид болон редакцлагчдад компанийн баримт бичгийн стандарт, форматын талаарх нэгдсэн удирдамжийг өгөх.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The primary context explicitly states that an in-house style guide for a software company 'provides general information about documentation at the company, and tells how to write and format procedural tables,' ensuring writers and editors 'can see what commands to use to achieve the exact same format.' This directly supports its goal of providing consistent guidelines."
+        },
+        {
+          "id": "C",
+          "text_en": "To base all document changes exclusively on widely recognized industry style guides.",
+          "text_mn": "Баримт бичгийн бүх өөрчлөлтийг зөвхөн өргөн хүрээнд хүлээн зөвшөөрөгдсөн салбарын хэв маягийн гарын авлагад үндэслэх.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The text states that decisions are based on 'a variety of authorities: standard style guides, in-house style guides, specifications for a specific document, and, more often than not, common sense,' indicating that changes are not *exclusively* based on industry style guides."
+        },
+        {
+          "id": "D",
+          "text_en": "To ensure all editing marks are applied using specific colored pens to reduce page clutter.",
+          "text_mn": "Хуудасны эмх замбараагүй байдлыг багасгахын тулд засварын бүх тэмдэглэгээг тодорхой өнгийн үзэг ашиглан хийх.",
+          "is_correct": false,
+          "source": "Page 266",
+          "explanation": "This describes a general editing practice for clarity, not the primary goal of an in-house style guide specific to documentation standards and formatting. While related to editing, it's not the core purpose of a style guide."   
+        }
+      ],
+      "concept": "Understanding roles and goals in the editing process for specific projects",
+      "difficulty": "medium",
+      "explanation_en": "The primary context explicitly states that an in-house style guide for a software company 'provides general information about documentation at the company, and tells how to write and format procedural tables,' ensuring writers and editors 'can see what commands to use to achieve the exact same format.' This directly supports its goal of providing consistent guidelines for company documentation standards and formatting.",
+      "explanation_mn": "Анхдагч контекстэд програм хангамжийн компанийн дотоод хэв маягийн гарын авлага нь 'компанийн баримт бичгийн талаарх ерөнхий мэдээллийг өгч, процедурын хүснэгтүүдийг хэрхэн бичих, форматлахыг заадаг' бөгөөд зохиогчид болон редакцлагчид 'яг ижил форматыг хэрэгжүүлэхэд ямар командуудыг ашиглахыг харах' боломжтойг тодорхой дурдсан. Энэ нь компанийн баримт бичгийн стандарт, форматын нэгдмэл удирдамж өгөх зорилгыг шууд дэмжиж байна.",
+      "question_number": 8,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which activity exemplifies a writer performing self-editing within their own work?",
+      "question_mn": "Зохиогч өөрийн бүтээлийг өөрөө редакторлох үйл ажиллагааг аль нь хамгийн сайн илэрхийлэх вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Collaborating with staff editors to apply an in-house style guide.",
+          "text_mn": "Дотоод хэв маягийн гарын авлагыг хэрэглэхээр редакторын багтай хамтран ажиллах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The text mentions a 'staff of about 12 writers and editors' and how style guides help 'writers,' describing a collaborative environment with distinct roles, not an individual self-editing."
+        },
+        {
+          "id": "B",
+          "text_en": "Using industry-standard copyediting marks to provide instructions for a separate editor.",
+          "text_mn": "Салангид редакторт зааварчилгаа өгөх зорилгоор салбарын стандартын засварлах тэмдэглэгээг ашиглах.",     
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The text describes editors using marks to include instructions 'to the writer,' implying separate roles, not a writer marking for another editor in a self-editing scenario."
+        },
+        {
+          "id": "C",
+          "text_en": "Substantially rewriting passages and integrating them to enhance manuscript quality.",
+          "text_mn": "Гар бичмэлийн чанарыг сайжруулахын тулд зарим хэсгийг дахин бичиж, нэгтгэх.",
+          "is_correct": true,
+          "source": "Page 266",
+          "explanation": "The primary text notes that 'you might have to rewrite certain passages and paste them into the manuscript.' This action of substantive content revision aligns with a writer taking on the editorial role to improve their own work."
+        },
+        {
+          "id": "D",
+          "text_en": "Using colored pens to mark printed hard copy for another reviewer.",
+          "text_mn": "Хэвлэсэн хувийг өнгөт үзэгээр тэмдэглэж, өөр хянагчид бэлтгэх.",
+          "is_correct": false,
+          "source": "Page 266",
+          "explanation": "The text specifically states, 'To facilitate ease of reading, editors often use red, blue, and green pens,' attributing this activity to editors making corrections clear for others, rather than a writer self-editing."
+        }
+      ],
+      "concept": "Three common editing scenarios: writer and editor roles combined (self-editing)",
+      "difficulty": "medium",
+      "explanation_en": "The primary text notes that 'you might have to rewrite certain passages and paste them into the manuscript.' This action aligns with a writer performing self-editing, where they take on the editorial role to make substantive changes and improvements to their own content. The other options describe tasks more explicitly attributed to separate editors, collaborative teams, or functions that do not specifically exemplify the writer-as-editor scenario.",
+      "explanation_mn": "Эх текстэд 'зарим хэсгийг дахин бичиж, гар бичмэлдээ оруулах шаардлагатай байж болно' гэж дурдсан байдаг. Энэ үйлдэл нь зохиогч өөрийн бүтээлийг редакторлох үүргийг гүйцэтгэж, өөрийн контентод бодитой өөрчлөлт, сайжруулалт хийхтэй таарч байна. Бусад сонголтууд нь тусдаа редакторууд, хамтын багуудад илүү тодорхой хамаарах үүрэг эсвэл зохиогч-редактор гэсэн хувилбарыг илэрхийлэхгүй байна.",
+      "question_number": 9,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "How do editors typically communicate detailed instructions for document changes directly to a writer?",  
+      "question_mn": "Редакторууд баримт бичгийн өөрчлөлтийн нарийвчилсан зааврыг зохиогчид ихэвччлэн хэрхэн дамжуулдаг вэ?",  
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "By employing standardized editing marks and symbols directly on the manuscript.",
+          "text_mn": "Гар бичмэл дээрээ шууд стандартчилсан засварын тэмдэг, бэлгэдлийг ашиглах замаар.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The primary context explicitly states that editors use editing marks to provide instructions to the writer on a marked-up page, with these symbols being standard throughout the industry."
+        },
+        {
+          "id": "B",
+          "text_en": "By using electronic annotating features to add notes to the digital manuscript.",
+          "text_mn": "Цахим гар бичмэлд тэмдэглэл нэмэхийн тулд цахим тайлбарлах функцийг ашиглах замаар.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text mentions electronic annotating as an option, but the primary discussion and example focuses on physical editing marks on a marked-up page as the typical method."
+        },
+        {
+          "id": "C",
+          "text_en": "By referring to the company's in-house style guide for documentation standards.",
+          "text_mn": "Компанийн дотоод хэв маягийн гарын авлагаас баримт бичгийн стандартыг иш татах замаар.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While style guides inform editorial decisions, they are not the direct method for communicating specific, on-page change instructions for a particular draft to a writer."
+        },
+        {
+          "id": "D",
+          "text_en": "Through verbal discussions or a separate summary document outlining major revisions.",
+          "text_mn": "Амаар ярилцах эсвэл томоохон засваруудыг тоймлон бичсэн тусдаа хураангуй баримт бичгээр.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The provided text does not mention verbal discussions or separate summary documents as the primary method for conveying detailed, on-page change instructions."
+        }
+      ],
+      "concept": "Writer submitting to an editor and specifying the type of edit required",
+      "difficulty": "medium",
+      "explanation_en": "The question tests the understanding of how editors communicate specific, detailed instructions for document changes to a writer, as described in the primary context. The correct answer highlights the use of standardized editing marks and symbols directly on the manuscript, which the text explicitly states are used to 'include instructions to the writer in a document' and are 'standard ones used throughout the industry.' Distractors represent other related but incorrect methods, such as general style guides, electronic tools mentioned as an alternative, or unmentioned verbal summaries, none of which serve as the primary method for direct, on-page detailed instructions within the provided text.",
+      "explanation_mn": "Энэ асуулт нь редакторууд баримт бичгийн өөрчлөлтийн нарийвчилсан зааврыг зохиогчид хэрхэн дамжуулдаг тухай үндсэн контекстэд заасан ойлголтыг шалгаж байна. Зөв хариулт нь гар бичмэл дээр шууд стандартчилсан засварын тэмдэг, бэлгэдлийг ашиглахыг онцолж байгаа бөгөөд энэ нь зохиогчид 'баримт бичигт заавар оруулах'-д ашиглагддаг бөгөөд 'салбар даяар ашиглагддаг стандарт тэмдэг' гэж текстэнд тодорхой дурдсан байдаг. Бусад хувилбарууд нь буруу боловч холбогдох аргууд болох ерөнхий хэв маягийн гарын авлага, орлуулах аргаар дурдагдсан цахим хэрэгслүүд эсвэл дурдагдаагүй амаар ярих хураангуй зэрэг болно. Эдгээрийн аль нь ч өгөгдсөн текстэнд дурдсан шууд, хуудас дээрх нарийвчилсан зааварчилгааны үндсэн арга биш юм.",
+      "question_number": 10,
+      "page_reference": "296-332"
+    }
+  ]
+}

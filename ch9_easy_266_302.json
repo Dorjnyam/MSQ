@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What do copyediting marks help editors achieve?",
+      "question_mn": "Хуулбар засварын тэмдэглэгээ редакторуудад юунд хүрэхэд тусалдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Approve the final document layout",
+          "text_mn": "Баримт бичгийн эцсийн зохион байгуулалтыг батлах",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "While related to the publishing process, copyediting marks specifically indicate changes to content, not approval of the final layout."
+        },
+        {
+          "id": "B",
+          "text_en": "Make corrections clear and easy to find",
+          "text_mn": "Засваруудыг тодорхой бөгөөд олоход хялбар болгох",
+          "is_correct": true,
+          "source": "PRIMARY CONTEXT",
+          "explanation": "The text explicitly states that editors use copyediting marks to make corrections clearly and easy to find."
+        },
+        {
+          "id": "C",
+          "text_en": "Prepare for print production",
+          "text_mn": "Хэвлэлийн үйлдвэрлэлд бэлтгэх",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "Copyediting is a step towards print production, but the marks themselves serve the purpose of indicating editorial changes, not directly preparing the file for print."
+        },
+        {
+          "id": "D",
+          "text_en": "Generate new document content",
+          "text_mn": "Шинэ баримт бичгийн агуулгыг үүсгэх",
+          "is_correct": false,
+          "source": "RELATED CONTEXT",
+          "explanation": "Copyediting marks are used for correcting existing content, not generating new content."
+        }
+      ],
+      "concept": "Purpose and use of copyediting marks in manuscripts",
+      "difficulty": "easy",
+      "explanation_en": "Copyediting marks are a fundamental tool for editors to communicate necessary changes and instructions clearly within a manuscript, ensuring that corrections are easily identifiable and implementable.",
+      "explanation_mn": "Хуулбар засварын тэмдэглэгээ нь редакторуудад гар бичмэл дэх шаардлагатай өөрчлөлт, зааврыг тодорхой илэрхийлэхэд зориулагдсан суурь хэрэгсэл бөгөөд ингэснээр засваруудыг хялбар таньж, хэрэгжүүлэх боломжтой болгодог.",
+      "question_number": 1,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What do editors often use to make corrections clear?",
+      "question_mn": "Засварлагчид засварыг тодорхой болгохын тулд юуг ихэвчлэн ашигладаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Red, blue, and green pens",
+          "text_mn": "Улаан, хөх, ногоон үзэг",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states that editors often use red, blue, and green pens to facilitate ease of reading and make corrections clear and easy to find."
+        },
+        {
+          "id": "B",
+          "text_en": "Electronic annotating features",
+          "text_mn": "Цахим тэмдэглэгээний функц",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text mentions electronic annotating features for editing help systems, but not as the primary tool for making general copyediting marks clear on a marked-up page."
+        },
+        {
+          "id": "C",
+          "text_en": "Black ink pens",
+          "text_mn": "Хар бэхэн үзэг",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text specifies red, blue, and green pens as the tools used to make corrections clear, implying these colors are preferred over standard black for visibility."
+        },
+        {
+          "id": "D",
+          "text_en": "Digital editing software",
+          "text_mn": "Дижитал засварлах програм хангамж",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While digital editing software exists, the provided context specifically refers to physical pens for making marks clear on a hard copy."
+        }
+      ],
+      "concept": "Standard copyeditor's marks and their functions (e.g., delete, insert, transpose)",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, 'To facilitate ease of reading, editors often use red, blue, and green pens' to make corrections clear and easy to find.",
+      "explanation_mn": "Үндсэн контекстэд 'Уншихад хялбар болгохын тулд засварлагчид улаан, хөх, ногоон үзэг ихэвчлэн ашигладаг' гэж шууд заасан нь засварыг тодорхой, олоход хялбар болгох зорилготой.",
+      "question_number": 2,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which method helps editors make corrections clear?",
+      "question_mn": "Засвар оруулахдаа аль аргыг ашиглавал засвар тодорхой харагдах вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Rewriting passages only digitally.",
+          "text_mn": "Зөвхөн дижиталаар хэсгийг дахин бичих.",
+          "is_correct": false,
+          "source": "Page 266",
+          "explanation": "While rewriting passages and electronic annotating are mentioned, the primary method for making physical editing *marks* clear on a page, as described, involves tools like colored pens, not solely digital rewriting."
+        },
+        {
+          "id": "B",
+          "text_en": "Using colored pens.",
+          "text_mn": "Өнгөт үзэг ашиглах.",
+          "is_correct": true,
+          "source": "Page 266",
+          "explanation": "The text explicitly states that editors often use red, blue, and green pens to make corrections clear and easy to find."
+        },
+        {
+          "id": "C",
+          "text_en": "Employing a full-time indexer.",
+          "text_mn": "Бүтэн цагийн индексчийг ажиллуулах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "A full-time indexer is mentioned as a staff role for a software company, not a method for making corrections clear on a page."
+        },
+        {
+          "id": "D",
+          "text_en": "Referring to online style guides.",
+          "text_mn": "Онлайн загварын гарын авлагад хандах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "Referring to online style guides helps with formatting and adherence to style, not directly with making correction marks clear on a draft."
+        }
+      ],
+      "concept": "Methods for ensuring clear and easy-to-find corrections (e.g., colored pens, electronic annotation)",        
+      "difficulty": "easy",
+      "explanation_en": "The primary context states, \"To facilitate ease of reading, editors often use red, blue, and green pens.\" This directly indicates that using colored pens is a method to make corrections clear and easy to find.",
+      "explanation_mn": "Үндсэн контекстэд \"Уншихад хялбар болгохын тулд редакторууд ихэвчлэн улаан, хөх, ногоон үзэг ашигладаг\" гэж заасан байдаг. Энэ нь засварыг тодорхой бөгөөд олоход хялбар болгох арга болох өнгөт үзэг ашиглахыг шууд илэрхийлж байна.",
+      "question_number": 3,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "Which of the following is an authority for making editing decisions?",
+      "question_mn": "Дараахын аль нь засварлах шийдвэр гаргах эрх мэдэл болох вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Reader's educational background",
+          "text_mn": "Уншигчийн боловсролын түвшин",
+          "is_correct": false,
+          "source": "Related Context (Distractor)",
+          "explanation": "While audience considerations are important for writing, the authorities for editing decisions are specific guides and common sense."
+        },
+        {
+          "id": "B",
+          "text_en": "In-house style guides",
+          "text_mn": "Дотоодын загварын гарын авлага",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "Editing decisions are based on a variety of authorities, including in-house style guides."
+        },
+        {
+          "id": "C",
+          "text_en": "Writer's personal preferences",
+          "text_mn": "Зохиогчийн хувийн сонголтууд",
+          "is_correct": false,
+          "source": "Related Context (Distractor)",
+          "explanation": "Editing decisions are guided by established authorities, not individual preferences."
+        },
+        {
+          "id": "D",
+          "text_en": "Availability of software tools",
+          "text_mn": "Програм хангамжийн хэрэгслүүдийн бэлэн байдал",
+          "is_correct": false,
+          "source": "Related Context (Distractor)",
+          "explanation": "Software tools assist with editing but do not dictate the editorial decisions themselves."
+        }
+      ],
+      "concept": "Authorities guiding editing decisions (standard style guides, in-house guides, document specifications, common sense)",
+      "difficulty": "easy",
+      "explanation_en": "The primary context states that decisions about changes are based on a variety of authorities, including \"in-house style guides,\" \"standard style guides,\" \"specifications for a specific document,\" and \"common sense.\"",   
+      "explanation_mn": "Үндсэн контекстэд өөрчлөлтийн талаарх шийдвэрүүд нь \"дотоодын загварын гарын авлага\", \"стандарт загварын гарын авлага\", \"тодорхой баримт бичгийн техникийн нөхцөл\", болон \"нийтлэг ойлголт\" зэрэг олон төрлийн эрх мэдлүүдэд тулгуурладаг гэж заасан.",
+      "question_number": 4,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is a main purpose of an in-house style guide?",
+      "question_mn": "Дотоодын хэв маягийн гарын авлагын гол зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To provide general documentation information and formatting guidance.",
+          "text_mn": "Баримт бичгийн ерөнхий мэдээлэл, форматлах заавар өгөх.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "The text states the style guide 'provides general information about documentation at the company, and tells how to write and format procedural tables.'"
+        },
+        {
+          "id": "B",
+          "text_en": "To manage staffing of writers and editors.",
+          "text_mn": "Зохиолч, редакторуудын ажлын байрыг удирдах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The text mentions a company employing writers and editors, but this is about company structure, not the style guide's purpose."
+        },
+        {
+          "id": "C",
+          "text_en": "To illustrate standard copyediting marks.",
+          "text_mn": "Стандарт засварлах тэмдгийг харуулах.",
+          "is_correct": false,
+          "source": "Page 266-267",
+          "explanation": "While copyediting marks are discussed in the chapter, they are not the main purpose of an in-house style guide itself."
+        },
+        {
+          "id": "D",
+          "text_en": "To detail commands for online document formatting.",
+          "text_mn": "Онлайн баримт бичгийн форматын тушаалуудыг нарийвчлан заах.",
+          "is_correct": false,
+          "source": "Page 267",
+          "explanation": "The style guide may refer to online commands, but its main purpose is to provide general guidelines for documentation, not just specific technical commands."
+        }
+      ],
+      "concept": "Function and benefits of in-house style guides for consistent documentation",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that for writers, 'the style guide provides general information about documentation at the company, and tells how to write and format procedural tables.' This directly reflects its purpose in ensuring consistent documentation.",
+      "explanation_mn": "Үндсэн контекстэд зохиолчдын хувьд 'хэв маягийн гарын авлага нь компанийн баримт бичгийн ерөнхий мэдээллийг өгч, процедурын хүснэгтүүдийг хэрхэн бичих, форматлахыг заана' гэж тодорхой заасан байдаг. Энэ нь баримт бичгийн нэгдмэл байдлыг хангахад чиглэсэн зорилгыг шууд тусгаж байна.",
+      "question_number": 5,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What does a style guide for a software company tell writers how to do?",
+      "question_mn": "Програм хангамжийн компанийн загварын гарын авлага зохиогчдод юуг заадаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Determine staffing levels",
+          "text_mn": "Боловсон хүчний хэмжээг тодорхойлох",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The number of staff is mentioned as a characteristic of the company, not as content within the style guide itself."
+        },
+        {
+          "id": "B",
+          "text_en": "Write and format procedural tables",
+          "text_mn": "Процедурын хүснэгт бичих, форматлах",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The primary context explicitly states that the style guide 'tells how to write and format procedural tables.'"
+        },
+        {
+          "id": "C",
+          "text_en": "Use standard editing marks",
+          "text_mn": "Стандарт засварлах тэмдэглэгээг ашиглах",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While editing marks are mentioned elsewhere in the text, the specific style guide described does not state it provides instructions on their use to writers."
+        },
+        {
+          "id": "D",
+          "text_en": "Install software on a hard drive",
+          "text_mn": "Програм хангамжийг хатуу дискэнд суулгах",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Installing software is an example of the content that might be documented in a manual, not a guideline provided by the style guide for writing."
+        }
+      ],
+      "concept": "Components of a style guide (e.g., formatting procedural tables, handling acronyms)",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states that a style guide for a software company 'tells how to write and format procedural tables.' This directly answers the question.",
+      "explanation_mn": "Анхдагч контекстэд програм хангамжийн компанийн загварын гарын авлага нь 'процедурын хүснэгтийг хэрхэн бичих, форматлахыг заадаг' гэж тодорхой дурдсан. Энэ нь асуултад шууд хариулж байна.",
+      "question_number": 6,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What document provides general guidelines for documentation within a company?",
+      "question_mn": "Компанийн баримт бичгийн ерөнхий удирдамжийг ямар баримт бичиг өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Standard style guide",
+          "text_mn": "Стандарт хэв маягийн гарын авлага",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While a standard style guide is an authority, the primary context specifies the in-house style guide as providing general information *at the company*."
+        },
+        {
+          "id": "B",
+          "text_en": "Software specifications",
+          "text_mn": "Програм хангамжийн техникийн нөхцөл",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Software specifications provide details for a specific document, not general company-wide documentation guidelines."
+        },
+        {
+          "id": "C",
+          "text_en": "In-house style guide",
+          "text_mn": "Байгууллагын дотоод хэв маягийн гарын авлага",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states, \"For these writers, the style guide provides general information about documentation at the company, and tells how to write and format procedural tables.\""
+        },
+        {
+          "id": "D",
+          "text_en": "Editor's personal notes",
+          "text_mn": "Редакторын хувийн тэмдэглэл",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Personal notes are not a formal document providing company-wide guidelines."
+        }
+      ],
+      "concept": "Establishing project guidelines for editing processes",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that an \"in-house style guide provides general information about documentation at the company\" which includes how to write and format. This directly aligns with establishing general guidelines for documentation.",
+      "explanation_mn": "Үндсэн эх сурвалжид \"байгууллагын дотоод хэв маягийн гарын авлага нь компанийн баримтжуулалтын талаарх ерөнхий мэдээллийг өгч, хэрхэн бичих, форматлахыг заадаг\" гэж тодорхой дурдсан. Энэ нь баримтжуулалтын ерөнхий удирдамжийг тогтооход шууд хамаатай.",
+      "question_number": 7,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What editing role is clearly illustrated by Figure 9.1?",
+      "question_mn": "Зураг 9.1 нь ямар засварлах үүргийг тодорхой харуулсан бэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "A writer self-editing.",
+          "text_mn": "Зохиогч өөрөө засварлаж буй.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While writers do self-edit, Figure 9.1 specifically depicts an editor making corrections and giving instructions *to the writer*, not a writer editing their own work."
+        },
+        {
+          "id": "B",
+          "text_en": "A writer finalizing a draft.",
+          "text_mn": "Зохиогч нооргийг эцэслэн боловсруулж буй.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "Figure 9.1 shows an *editor's* work on a draft, not a writer's finalization process."
+        },
+        {
+          "id": "C",
+          "text_en": "An editor instructing a writer.",
+          "text_mn": "Засварлагч зохиогчид зааварчилж буй.",
+          "is_correct": true,
+          "source": "Page 267",
+          "explanation": "Figure 9.1 explicitly shows an editor using marks to correct a manuscript and include instructions for the writer, demonstrating an editor-to-writer workflow."
+        },
+        {
+          "id": "D",
+          "text_en": "A writer creating a style guide.",
+          "text_mn": "Зохиогч загварын гарын авлага үүсгэж буй.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The text mentions style guides, but Figure 9.1 illustrates a marked-up page for editing, not the creation of a style guide."
+        }
+      ],
+      "concept": "Different editing scenarios and roles (writer as editor, writer submitting to editor, editor of another's work)",
+      "difficulty": "easy",
+      "explanation_en": "Figure 9.1 illustrates a marked-up page where an editor has made clear corrections and included instructions for the writer, explicitly showing the role of an editor working on someone else's manuscript.",
+      "explanation_mn": "Зураг 9.1 нь засварлагчийн тодорхой залруулга хийж, зохиогчид зааварчилгаа оруулсан тэмдэглэгээтэй хуудсыг харуулсан бөгөөд энэ нь өөр хүний гар бичмэл дээр ажиллаж буй засварлагчийн үүргийг тодорхой харуулж байна.",
+      "question_number": 8,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is a primary reason for making editing marks clear?",
+      "question_mn": "Засварлах тэмдэглэгээг тодорхой болгохын гол шалтгаан юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To meet strict publication deadlines.",
+          "text_mn": "Хэвлэлийн хатуу хугацаанд амжих.",
+          "is_correct": false,
+          "source": "Page 266-267",
+          "explanation": "While meeting deadlines is important in publishing, it is not the primary reason for making editing marks clear, according to the provided text."
+        },
+        {
+          "id": "B",
+          "text_en": "To convey instructions effectively to the writer.",
+          "text_mn": "Зохиогчид зааврыг үр дүнтэй дамжуулах.",
+          "is_correct": true,
+          "source": "Page 266-267",
+          "explanation": "The text states that the editor makes 'corrections clearly and has made them easy to find' and uses 'editing marks to include instructions to the writer in a document.'"
+        },
+        {
+          "id": "C",
+          "text_en": "To minimize the use of colored pens.",
+          "text_mn": "Өнгийн үзэгний хэрэглээг багасгах.",
+          "is_correct": false,
+          "source": "Page 266-267",
+          "explanation": "The text explicitly mentions that 'editors often use red, blue, and green pens' to facilitate ease of reading, so minimizing their use is incorrect."
+        },
+        {
+          "id": "D",
+          "text_en": "To impress stakeholders with professionalism.",
+          "text_mn": "Оролцогч талуудыг мэргэжлийн ур чадвараар гайхуулах.",
+          "is_correct": false,
+          "source": "Page 266-267",
+          "explanation": "Professionalism is implied, but the text emphasizes clarity for the writer's understanding, not for impressing stakeholders directly."
+        }
+      ],
+      "concept": "Importance of specifying the desired type of edit (e.g., substantive, copyedit, proofreading)",
+      "difficulty": "easy",
+      "explanation_en": "The primary context highlights that editors make corrections 'clearly and has made them easy to find' and 'use editing marks to include instructions to the writer in a document.' This directly supports that the main reason for clear marks is to effectively communicate instructions to the writer, which is essential for any type of edit.",
+      "explanation_mn": "Эх сурвалжид редакторууд засварыг 'тодорхой бөгөөд олоход хялбар болгосон' бөгөөд 'засварлах тэмдэглэгээг ашиглан зохиогчид зааварчилгааг оруулдаг' гэж онцолсон байдаг. Энэ нь тодорхой тэмдэглэгээний гол шалтгаан нь зохиогчид зааварчилгааг үр дүнтэй дамжуулах явдал бөгөөд энэ нь аливаа төрлийн засварын хувьд чухал юм.",
+      "question_number": 9,
+      "page_reference": "296-332"
+    },
+    {
+      "question_en": "What is a primary objective when applying editing marks to a document?",
+      "question_mn": "Баримтад засвар хийх тэмдэглэгээг ашиглах үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Using red, blue, and green pens.",
+          "text_mn": "Улаан, хөх, ногоон үзэг ашиглах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Different colored pens are tools used in editing, not the primary objective itself."
+        },
+        {
+          "id": "B",
+          "text_en": "Making corrections clear and easy to find.",
+          "text_mn": "Засваруудыг тодорхой, олоход хялбар болгох.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states that editors make corrections clearly and easy to find."
+        },
+        {
+          "id": "C",
+          "text_en": "Rewriting extensive passages.",
+          "text_mn": "Өргөн хүрээтэй хэсгүүдийг дахин бичих.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Rewriting passages is an action taken during editing, but not the overarching primary goal of using marks."
+        },
+        {
+          "id": "D",
+          "text_en": "Referring to online help systems.",
+          "text_mn": "Онлайн тусламжийн системд хандах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Referring to online help systems is a specific context for editing a help system, not a general primary objective of applying editing marks."
+        }
+      ],
+      "concept": "Systematic approach to self-editing to identify document weaknesses",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that when applying editing marks, the editor \"has made the corrections clearly and has made them easy to find,\" highlighting this as a key objective of the process.",
+      "explanation_mn": "Эх текстэд засвар хийх тэмдэглэгээг ашиглахдаа редактор \"засваруудыг тодорхой, олоход хялбар болгосон\" гэж тодорхой заасан нь энэ үйл явцын гол зорилго болохыг онцолж байна.",
+      "question_number": 10,
+      "page_reference": "296-332"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is identified as the overriding principle for successful software documentation?",
+      "question_mn": "Програм хангамжийн баримт бичгийн амжилтын хамгийн чухал зарчим юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Making the software usable by adapting it to the user’s job, rather than making the user adapt to the software.",
+          "text_mn": "Хэрэглэгчийг програмд дасан зохицохыг шаардахын оронд програмыг хэрэглэгчийн ажилд нийцүүлж, ашиглахад хялбар болгох.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states, \"Make the software usable. A manual that does this adapts the software to the user’s job, rather than making the user adapt to the software.\" This directly defines the overriding principle."
+        },
+        {
+          "id": "B",
+          "text_en": "Providing comprehensive step-by-step procedural information for every task.",
+          "text_mn": "Бүх даалгаврын хувьд алхам алхмаар, иж бүрэн үйлдлийн мэдээллийг өгөх.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While good documentation includes procedural information, the text indicates it's not the *overriding* principle. The example shows procedures but emphasizes \"discovery and efficiency\" and adapting to the user's job first, not just comprehensive steps."
+        },
+        {
+          "id": "C",
+          "text_en": "Ensuring the manual is as brief and easy to read as possible to minimize user effort.",
+          "text_mn": "Хэрэглэгчийн хүчин чармайлтыг багасгахын тулд гарын авлагыг аль болох товч бөгөөд уншихад хялбар болгох.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Brevity and readability are desirable qualities of documentation, but they are means to an end, not the *overriding principle* of making the software *usable* by adapting to the user's job, which is a deeper, more strategic goal highlighted in the text."
+        },
+        {
+          "id": "D",
+          "text_en": "Highlighting new features and technical specifications to impress advanced users.",
+          "text_mn": "Шинэ боломжууд болон техникийн үзүүлэлтүүдийг онцолж, дэвшилтэт хэрэглэгчдийг гайхшруулах.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This might be a goal for marketing or product releases, but it's not the *overriding principle* for successful *documentation* in making the software *usable* from the user's job perspective as stated in the context."
+        }
+      ],
+      "concept": "Overriding principle of successful software documentation: making software usable",
+      "difficulty": "hard",
+      "explanation_en": "The text explicitly states that the overriding principle for successful software documentation is to \"Make the software usable,\" further clarifying that this means adapting the software to the user’s job, rather than making the user adapt to the software. Other options represent important aspects of documentation but are not identified as the *overriding principle*.",
+      "explanation_mn": "Уг текстэд програм хангамжийн баримт бичгийн амжилтын хамгийн чухал зарчим нь \"програмыг ашиглахад хялбар болгох\" явдал бөгөөд энэ нь хэрэглэгчийг програмд дасан зохицохыг шаардахын оронд програмыг хэрэглэгчийн ажилд нийцүүлэхийг хэлнэ гэж тодорхой заасан байдаг. Бусад сонголтууд нь баримт бичгийн чухал талууд боловч тэдгээр нь хамгийн чухал зарчим гэж тодорхойлогдоогүй юм.",
+      "question_number": 1,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "What is the fundamental principle that defines task-oriented software documentation?",
+      "question_mn": "Үүрэгт чиглэсэн программ хангамжийн баримт бичгийг тодорхойлдог суурь зарчим юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It meticulously details every single procedural step required to operate the software without emphasizing the overarching user goal.",
+          "text_mn": "Энэ нь хэрэглэгчийн ерөнхий зорилгыг онцлохгүйгээр программ хангамжийг ажиллуулахад шаардлагатай алхам бүрийг нарийн ширийнээр тайлбарладаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While task-oriented documentation includes procedural information, its defining characteristic is not merely listing steps, but integrating those steps into the context of the user's job and goals. A purely procedural approach without emphasizing the 'why' is not task-oriented in the described sense."
+        },
+        {
+          "id": "B",
+          "text_en": "It primarily provides an exhaustive listing and explanation of every feature and menu option within the software.",
+          "text_mn": "Энэ нь голчлон программ хангамжийн доторх бүх онцлог, цэсийн сонголтуудыг дэлгэрэнгүй жагсааж, тайлбарладаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This describes feature-centric documentation, which lists functionalities but may not effectively integrate the software into the user's job or workflow."
+        },
+        {
+          "id": "C",
+          "text_en": "It focuses on adapting the software to the user's existing job or analytical process, enabling them to achieve specific goals efficiently and discover new insights.",
+          "text_mn": "Энэ нь программ хангамжийг хэрэглэгчийн одоо байгаа ажил эсвэл шинжилгээний процесст дасан зохицуулахад чиглэгдэж, тодорхой зорилгод үр дүнтэй хүрч, шинэ ойлголтуудыг нээх боломжийг олгодог.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "Task-oriented documentation's core principle is to make software usable by adapting it to the user's job, rather than forcing the user to adapt to the software. This involves enabling users to integrate the program into their analytical process, perform meaningful work, achieve specific goals efficiently, and foster discovery, as highlighted in the primary context."
+        },
+        {
+          "id": "D",
+          "text_en": "It emphasizes theoretical concepts and architectural details to give users a deep understanding of how the software functions internally.",
+          "text_mn": "Энэ нь программ хангамж дотооддоо хэрхэн ажилладаг талаар гүн гүнзгий ойлголт өгөхийн тулд онолын ойлголт, архитектурын нарийн ширийн зүйлийг онцолдог.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "This approach focuses on the technical intricacies and theoretical understanding of the software itself, rather than how the software facilitates the user's practical job tasks. It's too technical and not user-job focused."     
+        }
+      ],
+      "concept": "Definition of task-oriented documentation",
+      "difficulty": "hard",
+      "explanation_en": "Task-oriented documentation's core principle is to make software usable by adapting it to the user's job, rather than forcing the user to adapt to the software. This involves enabling users to integrate the program into their analytical process, perform meaningful work, achieve specific goals efficiently, and foster discovery. While procedures are included, the primary focus is on the user's job context and overall goals, emphasizing efficiency and insight for the end-user. The distractors describe documentation that is feature-centric, purely procedural, or theoretical, none of which capture the essential adaptive and job-focused nature of task-oriented documentation.",
+      "explanation_mn": "Үүрэгт чиглэсэн баримт бичгийн үндсэн зарчим нь программ хангамжийг хэрэглэгчийн ажилд дасан зохицуулж, ашиглах боломжтой болгох явдал юм. Энэ нь хэрэглэгчийг программ хангамжид дасан зохицоход хүчлэх бус, харин программ хангамжийг хэрэглэгчийн ажилд нийцүүлэхийг хэлнэ. Ингэснээр хэрэглэгчид програмыг шинжилгээний процесстоо нэгтгэх, утга учиртай ажил хийх, тодорхой зорилгод үр дүнтэй хүрэх, нээлт хийх боломжийг олгодог. Үйл ажиллагааны дараалал багтсан хэдий ч гол анхаарал нь хэрэглэгчийн ажлын нөхцөл байдал, ерөнхий зорилгод чиглэсэн байдаг бөгөөд эцсийн хэрэглэгчид үр ашиг, ойлголтыг онцолдог. Бусад хариултууд нь онцлог шинж чанарт төвлөрсөн, зөвхөн процедурт суурилсан эсвэл онолын баримт бичгийн хандлагыг тайлбарласан бөгөөд эдгээр нь үүрэгт чиглэсэн баримт бичгийг тодорхойлдог дасан зохицох болон ажлын чиг баримжаатай мөн чанарыг бүрэн илэрхийлдэггүй.",
+      "question_number": 2,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "What is the primary objective of a task-oriented software manual?",
+      "question_mn": "Даалгавар-чиглэсэн программ хангамжийн гарын авлагын үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To enable users to quickly and efficiently learn new software operations.",
+          "text_mn": "Хэрэглэгчдэд программ хангамжийн шинэ үйлдлүүдийг хурдан бөгөөд үр дүнтэй сурахад туслах.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "Efficiency and quick learning are desirable outcomes and benefits of a well-designed task-oriented manual, as indicated by the manual's emphasis on discovery and efficiency for the end-user. However, they are a consequence of, rather than the fundamental objective of, adapting the software to the user's job."
+        },
+        {
+          "id": "B",
+          "text_en": "To ensure that all procedural steps are technically accurate and repeatable.",
+          "text_mn": "Бүх процедурын алхамууд техникийн хувьд үнэн зөв, давтагдах боломжтой байхыг баталгаажуулах.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "Technical accuracy and repeatability of procedures are crucial for any software manual, and the text acknowledges the presence of procedural information. However, this is a quality standard for the manual's content, not its overarching goal of adapting the software to the user's job."
+        },
+        {
+          "id": "C",
+          "text_en": "To provide comprehensive documentation of all software features and functionalities.",
+          "text_mn": "Программ хангамжийн бүх функц, боломжуудын талаар иж бүрэн баримт бичгийг бүрдүүлэх.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "While good documentation may include features, the primary goal of a task-oriented manual is not merely comprehensive listing, but rather showing how features apply to a user's job. This describes a feature-oriented approach, not the user-centric adaptation of a task-oriented manual."
+        },
+        {
+          "id": "D",
+          "text_en": "To adapt the software to the user's existing job and workflow.",
+          "text_mn": "Программ хангамжийг хэрэглэгчийн одоо байгаа ажил, ажлын урсгалд дасан зохицуулах.",
+          "is_correct": true,
+          "source": "Page 2",
+          "explanation": "The core principle stated is to 'Make the software usable. A manual that does this adapts the software to the user’s job, rather than making the user adapt to the software.'"
+        }
+      ],
+      "concept": "Goal of task-oriented manuals: adapting software to the user's job",
+      "difficulty": "hard",
+      "explanation_en": "The primary objective of a task-oriented software manual, as emphasized in the text, is to make the software usable by adapting it to the user’s existing job and workflow, rather than forcing the user to adapt to the software. Options B, C, and D represent important aspects or benefits of good documentation but do not capture this fundamental principle of user-job adaptation.",
+      "explanation_mn": "Тексэд онцолсон даалгавар-чиглэсэн программ хангамжийн гарын авлагын үндсэн зорилго нь программ хангамжийг хэрэглэгчийн одоо байгаа ажил, ажлын урсгалд дасан зохицуулснаар ашиглахад хялбар болгох явдал юм. Хэрэглэгчийг программ хангамжид дасан зохицоход хүчлэх бус, харин программ хангамжийг хэрэглэгчид тохируулах нь гол зарчим. В, С, D сонголтууд нь сайн баримт бичгийн чухал талууд эсвэл ашиг тусыг илэрхийлдэг боловч хэрэглэгчийн ажлыг дасан зохицуулах үндсэн зарчмыг агуулдаггүй.",
+      "question_number": 3,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "When designing effective technical software documentation that helps adapt software to a user's job, what are the core user motivators that the documentation should emphasize?",
+      "question_mn": "Програм хангамжийг хэрэглэгчийн ажилд нь тохируулан зохицуулахад туслах үр дүнтэй техникийн баримт бичгийг боловсруулахдаа, баримт бичиг нь хэрэглэгчийн ямар гол сэдэл тэмүүллийг онцлон харуулах ёстой вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Advanced customization options and aesthetic appeal",
+          "text_mn": "Нарийн тохируулгын сонголтууд болон үзэмж",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Advanced customization and aesthetic appeal can enhance user experience but are not highlighted as the primary motivators for technical users in the context of documentation adapting software to a user's job. The text focuses on the tangible benefits of 'discovery' (learning from data) and 'efficiency' (using time better)."
+        },
+        {
+          "id": "B",
+          "text_en": "Compliance with industry regulations and robust security features",
+          "text_mn": "Аж үйлдвэрийн зохицуулалт болон найдвартай аюулгүй байдлын онцлогуудад нийцэх",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Compliance and security are crucial for software adoption, especially in enterprise environments, but the primary context specifically identifies 'discovery and efficiency' as the motivators for the scientific end-user when documentation aims to make the software usable and adapted to their specific job, focusing on personal analytical gains."
+        },
+        {
+          "id": "C",
+          "text_en": "Ease of installation and comprehensive troubleshooting",
+          "text_mn": "Суулгахад хялбар байдал болон иж бүрэн алдааг олж засварлах",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While ease of installation and troubleshooting are important for overall usability, the primary context emphasizes 'discovery and efficiency' as the core motivators for technical users when documentation aims to adapt software to their job, focusing on new insights and time savings, rather than just basic functionality or issue resolution."
+        },
+        {
+          "id": "D",
+          "text_en": "Discovery and efficiency",
+          "text_mn": "Нээлт болон үр ашиг",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The primary context explicitly states, 'The introduction emphasizes discovery and efficiency, both motivators for the scientific end user. With it, you can learn things from your data that might have been otherwise obscured, You'll find that you wse lime more efficiently...'. This indicates that effective documentation focuses on enabling users to gain new insights (discovery) and perform tasks more quickly and effectively (efficiency)."
+        }
+      ],
+      "concept": "Key user motivators for technical software documentation (discovery and efficiency)",
+      "difficulty": "hard",
+      "explanation_en": "The primary context explicitly states that effective technical software documentation 'adapts the software to the user’s job, rather than making the user adapt to the software.' It then identifies 'discovery and efficiency' as 'both motivators for the scientific end user,' elaborating that users can 'learn things from your data that might have been otherwise obscured' and 'use time more efficiently'. Therefore, emphasizing discovery (gaining new insights) and efficiency (saving time and effort) directly aligns with the core principles outlined for successful documentation that truly motivates technical users.",
+      "explanation_mn": "Анхдагч контекст нь үр дүнтэй техникийн програм хангамжийн баримт бичиг нь 'програмыг хэрэглэгчийн ажилд дасан зохицуулдаг, харин хэрэглэгчийг програмд дасан зохицуулдаггүй' гэж тодорхой заасан байдаг. Үүний дараа 'нээлт болон үр ашиг' нь 'шинжлэх ухааны эцсийн хэрэглэгчдийн хоёр гол сэдэл тэмүүлэл' болохыг тодорхойлж, хэрэглэгчид 'өгөгдлөөс өмнө нь олж хараагүй зүйлсийг сурч мэдэх' болон 'цагийг илүү үр ашигтай ашиглах' боломжтойг тайлбарласан. Иймээс нээлт (шинэ ойлголт олж авах) болон үр ашгийг (цаг хугацаа, хүчин чармайлт хэмнэх) онцлох нь техникийн хэрэглэгчдийг үнэхээр сэдэлжүүлдэг амжилттай баримт бичгийн үндсэн зарчмуудтай шууд нийцэж байна.",
+      "question_number": 4,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "What key function does a well-designed scenario or story serve in software documentation, especially when aiming to help specialized users effectively integrate a program into their workflow?",
+      "question_mn": "Нарийн мэргэжлийн хэрэглэгчдэд програмыг ажлын урсгалд үр дүнтэй нэгтгэхэд чиглэсэн програм хангамжийн баримт бичигт сайн боловсруулсан үйл явдал (сценари) эсвэл өгүүлэл ямар гол үүргийг гүйцэтгэдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It primarily presents a step-by-step procedural guide for operating new or complex functions, ensuring users follow predetermined sequences without deviation.",
+          "text_mn": "Энэ нь голчлон шинэ эсвэл нарийн төвөгтэй функцийг ажиллуулах алхам алхмаар зааварчилгааг танилцуулж, хэрэглэгчид урьдчилан тогтоосон дарааллыг гажихгүйгээр дагаж мөрдөхийг баталгаажуулдаг.",
+          "is_correct": false,
+          "source": "Related Context (distractor)",
+          "explanation": "While documentation does contain procedural information, the text emphasizes that the scenario's role goes beyond mere steps. It focuses on user control and performing 'meaningful work' within the job context, not just following predetermined sequences. The text also states, 'Don’t get the wrong idea— that this manual doesn’t offer procedural information. If you read this example carefully you can see tl.at the writers have represented the steps of a procedure, but The introduction emphasizes discovery and PY WAVE P&C has a significant role to play in your analytical process,' indicating that procedures are part of the larger goal, but not the primary function of the scenario itself."
+        },
+        {
+          "id": "B",
+          "text_en": "It mainly serves to humanize the software and establish a relatable role model for users, reducing the intimidation factor associated with highly technical applications.",
+          "text_mn": "Энэ нь голчлон програм хангамжийг хүнчилж, хэрэглэгчдэд ойр дүр бүтээж, өндөр технологийн програмуудтай холбоотой айдас түгшүүрийг бууруулдаг.",
+          "is_correct": false,
+          "source": "Related Context (distractor)",
+          "explanation": "The context attributes the humanizing effect and the creation of a user role model to 'The cartoon,' not specifically the scenario. While documentation aims to reduce intimidation, this is not the described primary function of the scenario."
+        },
+        {
+          "id": "C",
+          "text_en": "Its core purpose is to highlight novel features and advanced capabilities of the software, thereby emphasizing its competitive advantages over alternative methods or programs.",
+          "text_mn": "Түүний гол зорилго нь програм хангамжийн шинэлэг онцлог, дэвшилтэт чадавхийг онцлон харуулж, өөр аргууд эсвэл програмуудаас давуу талыг нь онцлох явдал юм.",
+          "is_correct": false,
+          "source": "Related Context (distractor)",
+          "explanation": "While a scenario might implicitly showcase features, its explicit role described in the text is about demonstrating user control and enabling 'meaningful work' within the user's job, aligning the software with their tasks. The emphasis is on usability and integration, rather than simply highlighting competitive advantages or new features."
+        },
+        {
+          "id": "D",
+          "text_en": "It concretely demonstrates how users can actively control the software to perform meaningful tasks that align with their professional responsibilities, effectively adapting the program to their job requirements.",
+          "text_mn": "Энэ нь хэрэглэгчид програм хангамжийг хэрхэн идэвхтэй хянаж, мэргэжлийн үүрэгтэй нь нийцсэн утга учиртай даалгавруудыг гүйцэтгэж, програмыг ажлын шаардлагад нь үр дүнтэй тохируулахыг тодорхой харуулдаг.",
+          "is_correct": true,
+          "source": "Primary Context, Figure 1.1 'The scenario (story)' description",
+          "explanation": "The primary context explicitly states that 'The scenario (story) illustrates how the user can control the program' and that 'The example shows the user ... doing meaningful work with the program.' This directly links to the goal of adapting the software to the user's job, rather than the user to the software."
+        }
+      ],
+      "concept": "Role of scenarios in encouraging user control and efficient application of software",
+      "difficulty": "hard",
+      "explanation_en": "The question asks about the primary function of scenarios in software documentation for specialized users, linking to the goal of effective program integration. The provided text emphasizes that scenarios 'illustrate how the user can control the program' and show the user 'doing meaningful work with the program,' which is directly tied to making the software usable and adapting it to the user's job. This goes beyond merely presenting procedures (Choice B), humanizing the interface (Choice C, which is attributed to the cartoon), or simply highlighting features (Choice D). Instead, it focuses on empowering the user to apply the software effectively within their professional context.",
+      "explanation_mn": "Энэ асуулт нь нарийн мэргэжлийн хэрэглэгчдэд програмыг үр дүнтэй нэгтгэх зорилготой програм хангамжийн баримт бичигт үйл явдлын (сценарийн) гүйцэтгэх үндсэн үүргийг асууж байна. Өгөгдсөн текстэнд үйл явдлууд нь хэрэглэгчийг 'програмыг хэрхэн удирдахыг харуулж,' 'програмын тусламжтайгаар утга учиртай ажил хийхийг' үзүүлдэг болохыг онцолсон бөгөөд энэ нь програм хангамжийг хэрэглэгчийн ажилд зориулж, ашиглах боломжтой болгох зорилготой шууд холбоотой юм. Энэ нь зөвхөн процедур танилцуулах (В сонголт), интерфэйсийг хүнчилэх (С сонголт, энэ нь хүүхэлдэйн кинонд хамаатай), эсвэл зүгээр л онцлог шинжүүдийг тодруулахаас (D сонголт) илүү юм. Харин оронд нь хэрэглэгчийг өөрийн мэргэжлийн хүрээнд програмыг үр дүнтэй ашиглах чадварыг нэмэгдүүлэхэд чиглэдэг.",
+      "question_number": 5,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "What approach best integrates the user's need for understanding a software's purpose and value ('how-so') with their need for step-by-step operational guidance ('how-to')?",
+      "question_mn": "Програм хангамжийн зорилго, үнэ цэнийг ('яагаад' буюу үндэслэлийг) ойлгох хэрэглэгчийн хэрэгцээг алхам алхмаар ашиглах заавартай ('хэрхэн') хамгийн сайн хослуулах арга барил юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Providing extensive, detailed procedural guides first, followed by a separate section on advanced applications and best practices.",
+          "text_mn": "Эхлээд өргөн хүрээтэй, нарийвчилсан процедурын гарын авлага өгч, дараа нь дэвшилтэт хэрэглээ болон шилдэг туршлагын тусдаа хэсгийг оруулдаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While providing procedural guides is necessary, this option describes a separation of 'how-to' from 'how-so,' rather than the integrated approach emphasized in the primary context where the manual 'makes the integration of the program easier' by connecting it to the user's job from the outset."
+        },
+        {
+          "id": "B",
+          "text_en": "Focusing primarily on presenting the program's unique features and innovative capabilities, assuming users will deduce the operational steps.",
+          "text_mn": "Программын онцгой шинж чанар, шинэлэг боломжуудыг танилцуулахад голчлон анхаарч, хэрэглэгчид ашиглах алхмуудыг өөрсдөө дүгнэж гаргана гэж үздэг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text explicitly states, 'Don’t get the wrong idea— that this manual doesn’t offer procedural information. If you read this example carefully you can see tl.at the writers have represented the steps of a procedure.' This indicates that the manual does not assume users will deduce operational steps but provides them within a meaningful context."      
+        },
+        {
+          "id": "C",
+          "text_en": "The documentation embeds procedural instructions within scenarios that demonstrate the software's real-world application and benefits, making it usable by adapting to the user's job.",
+          "text_mn": "Баримт бичиг нь процедурын зааврыг программ хангамжийн бодит хэрэглээ, ашиг тусыг харуулсан хувилбарууд (сценари) дотор суулгаж, хэрэглэгчийн ажилд нийцүүлэн, ашиглахад хялбар болгодог.",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "This approach aligns directly with the primary context, which describes a manual that 'adapts the software to the user’s job' by emphasizing 'discovery and efficiency' (how-so) and presenting 'scenarios (story)' and examples of 'meaningful work' that embed 'the steps of a procedure' (how-to)."
+        },
+        {
+          "id": "D",
+          "text_en": "Organizing content strictly by software function and menu hierarchy, ensuring logical flow for experienced technical users.",
+          "text_mn": "Агуулгыг програм хангамжийн функц болон цэсийн шатлалаар нарийн зохион байгуулж, туршлагатай техникийн хэрэглэгчдэд логик дарааллыг хангадаг.",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While this can be a valid organizational structure, the primary context emphasizes 'adapting the software to the user’s job' and 'task orientation,' which suggests a focus on user goals and real-world scenarios rather than strict software function/menu hierarchy as the primary integration method."
+        }
+      ],
+      "concept": "User need for both 'how-so' (background) and 'how-to' (procedural) information",
+      "difficulty": "hard",
+      "explanation_en": "The primary context highlights that effective documentation 'adapts the software to the user’s job' and 'makes the software usable.' This is achieved by integrating the 'how-so' (understanding the purpose, value, discovery, efficiency, and meaningful work) with the 'how-to' (procedural steps). The described manual embeds procedural information within engaging scenarios and examples that demonstrate real-world applications and benefits, ensuring users understand both what to do and why it matters in their specific context. This integrated approach avoids merely listing steps or benefits separately.",    
+      "explanation_mn": "Үндсэн контекст нь үр дүнтэй баримт бичиг нь программ хангамжийг 'хэрэглэгчийн ажилд нийцүүлж', 'ашиглахад хялбар' болгох ёстойг онцолж байна. Үүнийг 'яагаад' (зорилго, үнэ цэнэ, нээлт, үр ашиг, утга учиртай ажил) болон 'хэрхэн' (процедурын алхмууд) гэсэн мэдээллийг нэгтгэснээр хэрэгжүүлдэг. Тодорхойлсон гарын авлага нь процедурын мэдээллийг бодит хэрэглээ, ашиг тусыг харуулсан сонирхолтой хувилбарууд, жишээнүүд дотор оруулснаар хэрэглэгчид юу хийх, яагаад энэ нь тэдний ажилд чухал болохыг ойлгоход тусалдаг. Энэхүү нэгдсэн арга нь зөвхөн алхмууд эсвэл ашиг тусыг тусад нь жагсаахаас зайлсхийдэг.",       
+      "question_number": 6,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "The PV-WAVE P&C manual exemplifies a documentation approach that integrates immersive scenarios showing meaningful work with clear procedural steps. What key benefit does this combined strategy offer for user engagement and learning?",
+      "question_mn": "PV-WAVE P&C гарын авлага нь утга учиртай ажлыг харуулсан гүн гүнзгий хувилбарт үзэгдлүүдийг тодорхой үйлдлийн алхмуудтай нэгтгэсэн баримт бичгийн хандлагыг үлгэрлэж байна. Энэхүү нэгдсэн стратеги нь хэрэглэгчийн оролцоо, суралцахад ямар гол ашиг тусыг өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It primarily aims to replace traditional instructional methods by relying solely on visual storytelling and minimizing textual content.",
+          "text_mn": "Энэ нь голчлон уламжлалт зааварчилгааны аргуудыг зөвхөн дүрслэлээр өгүүлэх аргаар орлуулж, бичвэр контентыг багасгахыг зорьдог.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While the manual uses visuals and storytelling (scenarios), it explicitly states that it also 'offer[s] procedural information,' indicating that it does not solely rely on visuals or minimize textual content, but rather integrates both."
+        },
+        {
+          "id": "B",
+          "text_en": "It enforces a standardized, linear learning path, ensuring all users acquire the same information in the exact same sequence.",
+          "text_mn": "Энэ нь стандартчилагдсан, шугаман сургалтын замыг хэрэгжүүлж, бүх хэрэглэгчдэд ижил мэдээллийг яг ижил дарааллаар олж авахыг баталгаажуулдаг.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The documentation emphasizes 'discovery' and adapting 'to the user’s job,' which implies flexibility and user control, rather than enforcing a rigid, standardized, or linear learning path. The ability to transition between conceptual and procedural details suggests choice, not enforcement."
+        },
+        {
+          "id": "C",
+          "text_en": "It is designed to reduce the overall development cost of documentation by simplifying content creation and update processes.",
+          "text_mn": "Энэ нь контент үүсгэх, шинэчлэх процессуудыг хялбаршуулснаар баримт бичгийн боловсруулалтын нийт зардлыг бууруулахад зориулагдсан.",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The text focuses on improving user usability and adaptation to the user’s job, not on reducing documentation development costs. Creating rich scenarios in addition to detailed procedures could potentially increase complexity and cost, rather than simplify it."
+        },
+        {
+          "id": "D",
+          "text_en": "It allows users to seamlessly transition between understanding the overarching purpose and context of tasks and executing the precise steps required, catering to varied learning needs and depths of inquiry.",
+          "text_mn": "Энэ нь хэрэглэгчдэд даалгаврын ерөнхий зорилго, нөхцөл байдлыг ойлгохоос шаардлагатай алхмуудыг гүйцэтгэх хүртэлх шилжилтийг саадгүй хийх боломжийг олгож, суралцах янз бүрийн хэрэгцээ, мэдлэгийн гүнийг хангадаг.",
+          "is_correct": true,
+          "source": "Page 2, Figure 1.1 description",
+          "explanation": "The manual adapts to the user’s job by emphasizing discovery and efficiency through scenarios (higher-level purpose) while still providing procedural information (lower-level steps). This integration allows users to engage at their preferred depth, understanding both the strategic 'why' and the tactical 'how'."
+        }
+      ],
+      "concept": "Importance of allowing users to choose the appropriate level of detail in documentation",
+      "difficulty": "hard",
+      "explanation_en": "The PV-WAVE P&C manual is described as adapting software to the user's job by emphasizing discovery, efficiency, and showing meaningful work through engaging scenarios. Crucially, it also explicitly states that it 'offer[s] procedural information.' This combined approach—presenting both the higher-level 'why' and context via scenarios and the lower-level 'how' through procedural steps—allows users to seamlessly transition between understanding the overall purpose and context of tasks and executing the precise steps required. This flexibility in information presentation effectively enables users to choose their appropriate level of detail, supporting diverse learning styles and specific information needs at different stages of their interaction with the software. This directly addresses the concept of the importance of allowing users to choose their level of detail.",
+      "explanation_mn": "PV-WAVE P&C гарын авлага нь програм хангамжийг хэрэглэгчийн ажилд дасан зохицуулж, нээлт, үр ашгийг чухалчлан үздэг бөгөөд утга учиртай ажлыг сонирхолтой хувилбарт үзэгдлээр харуулдаг. Хамгийн гол нь энэ нь 'үйлдлийн алхмуудыг санал болгодог' гэдгийг тодорхой дурдсан байдаг. Энэхүү нэгдсэн хандлага буюу өндөр түвшний 'яагаад' гэдэг асуулт болон контекстийг хувилбарт үзэгдлээр, доод түвшний 'хэрхэн' гэдэг асуултыг үйлдлийн алхмуудаар танилцуулснаар хэрэглэгчдэд даалгаврын ерөнхий зорилго, контекстийг ойлгохоос шаардлагатай алхмуудыг гүйцэтгэх хүртэлх шилжилтийг саадгүй хийх боломжийг олгодог. Мэдээллийг танилцуулах энэхүү уян хатан байдал нь хэрэглэгчдэд өөрсдийн тохиромжтой мэдээллийн түвшинг сонгох боломжийг үр дүнтэй олгож, програм хангамжтай харилцах янз бүрийн үе шат дахь суралцах олон янзын хэв маяг болон тодорхой мэдээллийн хэрэгцээг хангадаг. Энэ нь хэрэглэгчдэд мэдээллийн зохих түвшинг сонгох боломжийг олгохын ач холбогдлын тухай ойлголтыг шууд илэрхийлдэг.",
+      "question_number": 7,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "When technical documentation employs interactive scenarios that demonstrate users 'controlling' a software program, what is the most significant outcome for helping users integrate that software into their professional work?",      
+      "question_mn": "Техникийн баримт бичигт хэрэглэгчид програм хангамжийг 'удирдах' боломжийг харуулсан интерактив хувилбаруудыг ашиглах нь хэрэглэгчдэд уг програм хангамжийг мэргэжлийн ажилдаа нэгтгэхэд хамгийн чухал үр дүн юу өгдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It fosters a sense of personal connection to the software by humanizing its abstract functions through relatable narratives.",
+          "text_mn": "Энэ нь хийсвэр функцуудыг ойлгомжтой түүхүүдээр хүмүүнжүүлж, програм хангамжтай хувийн холбоо тогтоох мэдрэмжийг бий болгодог.",
+          "is_correct": false,
+          "source": "Page 2, Figure 1.1",
+          "explanation": "The 'cartoon humanizes the program,' which contributes to accessibility, but the primary benefit of the 'scenario' demonstrating 'user control' for 'integrating the software into professional work' is the practical application and its direct relevance to meaningful job tasks, not solely fostering a personal connection."
+        },
+        {
+          "id": "B",
+          "text_en": "It allows users to discern how the software performs meaningful work directly applicable to their specific job responsibilities, thereby adapting the program to their occupational context.",
+          "text_mn": "Энэ нь хэрэглэгчдэд програм хангамж нь өөрсдийн ажлын онцлог үүрэгт шууд хамааралтай, утга учиртай ажлыг хэрхэн гүйцэтгэж буйг ойлгоход тусалдаг бөгөөд ингэснээр програмыг тэдний мэргэжлийн орчинд дасан зохицуулдаг.",
+          "is_correct": true,
+          "source": "Page 2, Figure 1.1",
+          "explanation": "The text states that a manual should 'adapt the software to the user’s job.' It then highlights that a 'scenario (story) illustrates how the user can control the program,' and 'The example shows the user doing meaningful work with the program.' This directly links user control in a scenario to performing meaningful, job-related work, which is the core of adapting the software to the user's occupational context."
+        },
+        {
+          "id": "C",
+          "text_en": "It reduces the reliance on traditional reference materials by providing all necessary information within the interactive examples.",
+          "text_mn": "Энэ нь шаардлагатай бүх мэдээллийг интерактив жишээнүүдээр хангаж, уламжлалт лавлах материалын хамаарлыг бууруулдаг.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "The provided text focuses on the benefits of the interactive scenario itself in relating the software to the user's job, not on its role in replacing or reducing reliance on other forms of documentation or reference materials." 
+        },
+        {
+          "id": "D",
+          "text_en": "It streamlines the memorization of complex procedural steps, thus speeding up initial program adoption.",
+          "text_mn": "Энэ нь нарийн төвөгтэй процедурын алхмуудыг тогтоохыг хялбаршуулж, програмыг анх нэвтрүүлэх хугацааг хурдасгадаг.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "While the manual does offer procedural information and emphasizes efficiency for the end-user, the primary benefit of 'user control' within a 'scenario' for 'job adaptation' is not merely the memorization of steps, but rather understanding the software's practical application and value in their specific work."
+        }
+      ],
+      "concept": "Primary benefit of user control over information detail: relating program to workplace",
+      "difficulty": "hard",
+      "explanation_en": "The primary context explicitly states that a successful manual 'adapts the software to the user’s job.' It then explains that 'The scenario (story) illustrates how the user can control the program' and 'The example shows the user doing meaningful work with the program.' Therefore, the most significant outcome of allowing user control through interactive scenarios in documentation is to demonstrate how the software can perform work directly relevant to the user's specific job responsibilities, effectively adapting the program to their professional context (Choice A). The other options describe plausible but secondary or indirect benefits, or ideas not directly supported as the *most significant outcome* for *job integration* in the given context.",
+      "explanation_mn": "Анхдагч контекстэд амжилттай гарын авлага 'програм хангамжийг хэрэглэгчийн ажилд тохируулах' ёстой гэж тодорхой заасан байдаг. Дараа нь 'хувилбар (түүх) нь хэрэглэгч програмыг хэрхэн удирдахыг харуулдаг' ба 'жишээ нь хэрэглэгчийг програмтай утга учиртай ажил хийж буйг харуулдаг' гэж тайлбарласан. Тиймээс, баримт бичигт интерактив хувилбаруудаар хэрэглэгчийн хяналтыг олгохын хамгийн чухал үр дүн нь програм хангамж нь хэрэглэгчийн ажлын тодорхой үүрэгт шууд хамааралтай ажлыг хэрхэн гүйцэтгэж чадахыг харуулах, улмаар програмыг тэдний мэргэжлийн орчинд үр дүнтэй дасан зохицуулах явдал юм (А сонголт). Бусад сонголтууд нь боломжит боловч хоёрдогч эсвэл шууд бус ашиг тусыг тайлбарласан бөгөөд өгөгдсөн нөхцөл байдалд 'ажил мэргэжилд нэгтгэх' хамгийн чухал үр дүн гэж шууд дэмжигдээгүй болно.",
+      "question_number": 8,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "What is the overarching principle for effective software documentation that ensures the program integrates meaningfully into a user's professional work?",
+      "question_mn": "Програм хангамжийн баримт бичгийг үр дүнтэй болгох, хэрэглэгчийн мэргэжлийн ажилд утга учиртай нэгтгэхийг баталгаажуулдаг гол зарчим юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Adapting the software to the user's job by demonstrating its application to their real-world tasks and analytical processes.",
+          "text_mn": "Хэрэглэгчийн бодит ажил, аналитик үйл явцад програм хангамжийг хэрхэн ашиглахыг харуулж, түүнийг хэрэглэгчийн ажилд дасгах.",
+          "is_correct": true,
+          "source": "Page 2",
+          "explanation": "The primary context explicitly states that the overriding principle is to 'Make the software usable' by adapting 'the software to the user’s job, rather than making the user adapt to the software.' This involves showing how the program helps users with their real-world tasks and analytical processes, as demonstrated by the PV-WAVE P&C example."
+        },
+        {
+          "id": "B",
+          "text_en": "Ensuring the manual has an attractive design and is easy to navigate, prioritizing aesthetics over content depth.",
+          "text_mn": "Гарын авлагын дизайныг сонирхолтой болгож, удирдан чиглүүлэхэд хялбар байлгах, агуулгын гүнээс илүү гоо зүйг чухалчлах.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "While good design and navigability contribute to the usability of documentation, they are secondary to the core principle of content. The fundamental goal is about the *message* that connects the software to the user's professional tasks, not just the packaging of that message."
+        },
+        {
+          "id": "C",
+          "text_en": "Providing exhaustive, step-by-step procedural instructions for every single function and menu option.",  
+          "text_mn": "Програм хангамжийн үйлдэл бүр, цэсний сонголт бүрийн талаар дэлгэрэнгүй, алхам алхмаар зааварчилгаа өгөх.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "While procedural information is an important part of documentation, focusing *exclusively* on exhaustive steps for every function misses the overarching principle of connecting the software to the user's actual job and workflow. The text mentions that procedural information is offered, but it is not the *overriding principle* described."
+        },
+        {
+          "id": "D",
+          "text_en": "Listing and describing all technical features and specifications of the software in a comprehensive manner.",
+          "text_mn": "Програм хангамжийн бүх техникийн онцлог, үзүүлэлтийг дэлгэрэнгүй жагсаан тайлбарлах.",
+          "is_correct": false,
+          "source": "Page 2",
+          "explanation": "A detailed list of features is useful for reference but doesn't inherently adapt the software to the user's job. The core principle goes beyond simply stating *what* the software does, to explaining *how* it helps the user achieve *their professional goals*."
+        }
+      ],
+      "concept": "Core guideline for all software documentation: explaining connections between user's professional work and the program",
+      "difficulty": "hard",
+      "explanation_en": "The passage emphasizes that the 'overriding principle' for software documentation is to 'Make the software usable' by adapting 'the software to the user’s job, rather than making the user adapt to the software.' This means the documentation should clearly demonstrate how the software helps users accomplish their real-world professional tasks and integrate into their analytical processes. The example of the PV-WAVE P&C manual illustrates this by showing 'how to transfer real-world tasks done with a telescope to tasks done with the software program' and enabling the user to do 'meaningful work with the program.'",
+      "explanation_mn": "Уг хэсэгт програм хангамжийн баримт бичгийн 'давамгайлсан зарчим' бол 'хэрэглэгчийг програм хангамжид дасгах биш, харин програм хангамжийг хэрэглэгчийн ажилд дасгах' замаар 'програм хангамжийг хэрэглэхэд хялбар болгох' явдал гэдгийг онцолсон. Энэ нь програм хангамж хэрэглэгчдэд бодит мэргэжлийн ажлыг гүйцэтгэх, аналитик үйл явцад хэрхэн нэгдэхэд тусалдагийг баримт бичиг тодорхой харуулах ёстой гэсэн үг. PV-WAVE P&C гарын авлагын жишээ нь 'бодит ертөнцийн телескопоор хийдэг ажлыг програм хангамжаар хийдэг ажилд хэрхэн шилжүүлэх' болон хэрэглэгчид 'програм хангамжаар утга учиртай ажил хийх' боломжийг олгох замаар үүнийг харуулсан.",
+      "question_number": 9,
+      "page_reference": "31-58"
+    },
+    {
+      "question_en": "Which characteristic is most crucial for a software manual to be truly effective and enable users to successfully integrate a new program into their workflow?",
+      "question_mn": "Програм хангамжийн гарын авлага үнэхээр үр дүнтэй байж, хэрэглэгчдэд шинэ програмыг ажлын урсгалдаа амжилттай нэгтгэхэд хамгийн чухал шинж чанар юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "It provides an exhaustive list of all software features and detailed step-by-step procedures for every function.",
+          "text_mn": "Энэ нь програм хангамжийн бүх функцийн жагсаалт болон функц тус бүрийн алхам алхмаар дэлгэрэнгүй зааврыг багтаасан байдаг.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "While manuals include procedural information, the text explicitly states that this is not the 'overriding principle.' Merely listing features or procedures without demonstrating their relevance to the user's problems does not ensure usability or successful integration into their job."
+        },
+        {
+          "id": "B",
+          "text_en": "It clearly outlines the software's internal architecture and expects users to adapt their existing methods to the program's predefined workflows for optimal use.",
+          "text_mn": "Энэ нь програм хангамжийн дотоод архитектурыг тодорхой харуулж, хэрэглэгчдээс оновчтой ашиглахын тулд одоо байгаа арга барилаа програмын урьдчилан тодорхойлсон ажлын урсгалд дасан зохицуулахыг хүлээдэг.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "This directly contradicts the core principle identified in the text, which advocates for 'adapts the software to the user’s job, rather than making the user adapt to the software.' A manual that forces user adaptation is considered less effective."
+        },
+        {
+          "id": "C",
+          "text_en": "It demonstrates how the software addresses specific real-world tasks and problems, aligning with the user's job rather than requiring the user to conform to the software's structure.",
+          "text_mn": "Энэ нь програм хангамж нь тодорхой бодит ажил, асуудлыг хэрхэн шийдвэрлэж, хэрэглэгчийн ажлын хэрэгцээнд нийцүүлж байгааг харуулдаг бөгөөд хэрэглэгчдийг програмын бүтцэд дасан зохицохыг шаарддаггүй.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The text states the overriding principle is to 'Make the software usable' by adapting 'the software to the user’s job, rather than making the user adapt to the software.' The example manual's features, such as emphasizing discovery, efficiency, and showing real-world task transfer through scenarios, all serve to demonstrate how the program solves user problems and enables meaningful work."
+        },
+        {
+          "id": "D",
+          "text_en": "It includes comprehensive technical specifications and troubleshooting guides for every conceivable error and advanced configuration option.",
+          "text_mn": "Энэ нь боломжит бүх алдаа, нарийвчилсан тохиргооны сонголтуудын иж бүрэн техникийн тодорхойлолт, алдааг олж засварлах гарын авлагыг багтаасан байдаг.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "While comprehensive technical details and troubleshooting are valuable aspects of good documentation, the primary context emphasizes 'making the software usable' by adapting it to the user's job and showing how it solves problems. Prioritizing raw technical specifications over demonstrating practical application for user tasks would not be the 'most crucial' characteristic for effectiveness and integration."
+        }
+      ],
+      "concept": "Guideline for successful manuals: Emphasize problem-solving",
+      "difficulty": "hard",
+      "explanation_en": "The passage repeatedly stresses that an effective manual 'adapts the software to the user’s job, rather than making the user adapt to the software,' and focuses on the 'overriding principle: Make the software usable.' This means demonstrating how the software helps users achieve their goals, solve their problems, and perform 'meaningful work,' as exemplified by the PV-WAVE P&C manual's approach. The correct answer (A) perfectly encapsulates this user-centric, problem-solving approach. The distractors represent common, but less effective or even contradictory, approaches to documentation.",
+      "explanation_mn": "Уг хэсэгт үр дүнтэй гарын авлага нь 'хэрэглэгчийг програм хангамжид дасан зохицуулах бус, харин програм хангамжийг хэрэглэгчийн ажилд дасан зохицуулах ёстой' бөгөөд 'гол зарчим: Програм хангамжийг ашиглахад хялбар болгох' явдал гэдгийг онцолсон. Энэ нь програм хангамж нь хэрэглэгчдэд зорилгодоо хүрэх, асуудлаа шийдвэрлэх, 'утга учиртай ажил' хийхэд хэрхэн тусалдагийг PV-WAVE P&C гарын авлагын жишээн дээр харуулснаар илэрдэг. Зөв хариулт (A) нь хэрэглэгч төвтэй, асуудал шийдвэрлэх энэхүү арга барилыг бүрэн илэрхийлж байна. Бусад хариултууд нь нийтлэг боловч үр дүн багатай эсвэл зөрчилдсөн баримт бичгийн арга барилыг илэрхийлдэг.",
+      "question_number": 10,
+      "page_reference": "31-58"
+    }
+  ]
+}

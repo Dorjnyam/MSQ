@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is a key guideline for effective software documentation?",
+      "question_mn": "Үр дүнтэй программ хангамжийн баримт бичгийн гол удирдамж юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Focus on functionality, not functions.",
+          "text_mn": "Функцээс илүү үйл ажиллагаанд анхаарах.",
+          "is_correct": true,
+          "source": "Page 383",
+          "explanation": "The text explicitly states the guideline 'Focus on Functionality Rather than Functions' as important for software documentation."
+        },
+        {
+          "id": "B",
+          "text_en": "Prioritize formal, technical language.",
+          "text_mn": "Албан ёсны, техникийн хэллэгт ач холбогдол өгөх.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text suggests 'informal diction increases ease of reading', which contrasts with prioritizing formal technical language for a user-oriented approach."
+        },
+        {
+          "id": "C",
+          "text_en": "Document every program function.",
+          "text_mn": "Програмын функц бүрийг баримтжуулах.",
+          "is_correct": false,
+          "source": "Page 383",
+          "explanation": "While completeness is good, the primary focus is on functionality rather than enumerating every single function, which can overwhelm users."
+        },
+        {
+          "id": "D",
+          "text_en": "Include extensive technical details.",
+          "text_mn": "Өргөн хүрээний техникийн дэлгэрэнгүй мэдээллийг оруулах.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text emphasizes 'program use instead of technical details', making extensive technical details less user-oriented."
+        }
+      ],
+      "concept": "User-Oriented Software Documentation",
+      "difficulty": "easy",
+      "explanation_en": "The text highlights 'Focus on Functionality Rather than Functions' as a crucial guideline for creating effective, user-oriented software documentation.",
+      "explanation_mn": "Текст нь үр дүнтэй, хэрэглэгчид чиглэсэн программ хангамжийн баримт бичиг үүсгэхэд 'Функцээс илүү үйл ажиллагаанд анхаарах' гэсэн гол удирдамжийг онцолсон.",
+      "question_number": 1,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What should software documentation emphasize?",
+      "question_mn": "Програм хангамжийн баримт бичиг юунд гол анхаарлаа хандуулах ёстой вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Technical details and program code",
+          "text_mn": "Техникийн нарийн ширийн зүйлс, програмын код",
+          "is_correct": false,
+          "source": "Page 383",
+          "explanation": "While documentation may include technical details, the emphasis should be on functionality, not just technical specifications or code."
+        },
+        {
+          "id": "B",
+          "text_en": "Specific program functions",
+          "text_mn": "Програмын тодорхой функцууд",
+          "is_correct": false,
+          "source": "Page 383",
+          "explanation": "The guideline specifically advises focusing on functionality *rather than* functions."
+        },
+        {
+          "id": "C",
+          "text_en": "Editing and style consistency",
+          "text_mn": "Засварлах, хэв маягийн нэгдмэл байдал",
+          "is_correct": false,
+          "source": "Page 383",
+          "explanation": "Editing and style are important aspects of good documentation, but they are not the primary emphasis regarding *what* content to prioritize."
+        },
+        {
+          "id": "D",
+          "text_en": "Functionality, not technical functions",
+          "text_mn": "Техникийн функцээс илүүтэй, ажиллагаанд",
+          "is_correct": true,
+          "source": "Page 383",
+          "explanation": "The primary context explicitly states the guideline: “Focus on Functionality Rather than Functions.”"
+        }
+      ],
+      "concept": "Focus on Functionality Rather than Functions",
+      "difficulty": "easy",
+      "explanation_en": "The text states a key guideline for software documentation is to “Focus on Functionality Rather than Functions,” highlighting that the emphasis should be on what the program *does* for the user rather than just its technical operations.",
+      "explanation_mn": "Уг текстэд програм хангамжийн баримт бичгийн гол удирдамж бол “Функцээс илүүтэй үйл ажиллагаанд анхаарлаа хандуулах” явдал гэж заасан нь програмын техникийн үйлдлээс илүүтэйгээр хэрэглэгчид юу хийж өгөх вэ гэдэгт анхаарах ёстойг онцолж байна.",
+      "question_number": 2,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What do effective software documentation sentences emphasize?",
+      "question_mn": "Үр дүнтэй програм хангамжийн баримт бичгийн өгүүлбэрүүд юунд анхаардаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "coding standards",
+          "text_mn": "кодлох стандартууд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "While coding standards are relevant to software development, the text does not mention them as the primary emphasis for sentences in user documentation."
+        },
+        {
+          "id": "B",
+          "text_en": "user actions",
+          "text_mn": "хэрэглэгчийн үйлдлүүд",
+          "is_correct": true,
+          "source": "Page ??",
+          "explanation": "The text states that sentences in good software documentation focus on user actions instead of program functions."
+        },
+        {
+          "id": "C",
+          "text_en": "program functions",
+          "text_mn": "програмын функцууд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text explicitly states that good documentation focuses on user actions instead of program functions."
+        },
+        {
+          "id": "D",
+          "text_en": "technical details",
+          "text_mn": "техникийн нарийн ширийн зүйлс",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "The text notes that an operational overview emphasizes program use instead of technical details."    
+        }
+      ],
+      "concept": "Writing About Actions Rather than Functions",
+      "difficulty": "easy",
+      "explanation_en": "The primary context highlights that effective software documentation focuses on user actions, not technical details or program functions. Specifically, it states, 'Sentences focus on user actions instead of program functions.'", 
+      "explanation_mn": "Анхан шатны контекст нь үр дүнтэй програм хангамжийн баримт бичиг нь техникийн нарийн ширийн зүйл эсвэл програмын функцээс илүү хэрэглэгчийн үйлдлүүдэд анхаардаг болохыг онцолсон. Тодруулбал, 'Өгүүлбэрүүд програмын функцээс илүү хэрэглэгчийн үйлдлүүдэд анхаардаг' гэж дурдсан.",
+      "question_number": 3,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What does using the active voice enhance in documentation?",
+      "question_mn": "Идэвхтэй өгүүлбэрийн хэв маягийг ашиглах нь баримт бичигт юуг сайжруулдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Paragraph length",
+          "text_mn": "Хуудасны урт",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "While paragraphs are kept at a reasonable length, this is a separate guideline and not directly enhanced by active voice."
+        },
+        {
+          "id": "B",
+          "text_en": "Program functions",
+          "text_mn": "Програмын үйл ажиллагаа",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The text states that sentences focus on user actions instead of program functions, not that active voice enhances program functions."
+        },
+        {
+          "id": "C",
+          "text_en": "Clarity",
+          "text_mn": "Ойлгомжтой байдал",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text explicitly states that 'Use of the active voice enhances the clarity.'"
+        },
+        {
+          "id": "D",
+          "text_en": "Technical details",
+          "text_mn": "Техникийн нарийн ширийн зүйлс",
+          "is_correct": false,
+          "source": "Related Context",
+          "explanation": "The text emphasizes program use instead of technical details, not that active voice enhances technical details."
+        }
+      ],
+      "concept": "Active Voice in Documentation",
+      "difficulty": "easy",
+      "explanation_en": "The text states, 'Use of the active voice enhances the clarity,' directly linking active voice to improved understanding in documentation.",
+      "explanation_mn": "Текстэд 'Идэвхтэй өгүүлбэрийн хэв маягийг ашиглах нь ойлгомжтой байдлыг сайжруулдаг' гэж шууд заасан нь идэвхтэй өгүүлбэрийн хэв маягийг баримт бичгийг ойлгоход чухал үүрэгтэйг харуулж байна.",
+      "question_number": 4,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What effect does informal diction have?",
+      "question_mn": "Албан бус хэллэг ямар нөлөө үзүүлдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Emphasizes technical details",
+          "text_mn": "Техникийн нарийн ширийн зүйлийг онцолдог",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text mentions operational overview emphasizes program use instead of technical details, not informal diction."
+        },
+        {
+          "id": "B",
+          "text_en": "Keeps paragraphs short",
+          "text_mn": "Хэсгүүдийг богино байлгадаг",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text notes that paragraphs are kept at a reasonable length, which is a separate guideline from informal diction."
+        },
+        {
+          "id": "C",
+          "text_en": "Increases ease of reading",
+          "text_mn": "Уншихад хялбар болгодог",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text states, 'Informal diction increases ease of reading.'"
+        },
+        {
+          "id": "D",
+          "text_en": "Enhances clarity",
+          "text_mn": "Тодорхой байдлыг нэмэгдүүлдэг",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text attributes enhanced clarity to the use of active voice, not informal diction."
+        }
+      ],
+      "concept": "Informal Diction for Readability",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, 'Informal diction increases ease of reading,' directly linking informal diction to readability.",
+      "explanation_mn": "Үндсэн контекстэд 'Албан бус хэллэг нь уншихад хялбар байдлыг нэмэгдүүлдэг' гэж шууд заасан нь албан бус хэллэгийг уншихад хялбар байдалтай холбодог.",
+      "question_number": 5,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What do operational overviews emphasize?",
+      "question_mn": "Үйл ажиллагааны ерөнхий тойм юуг онцолдог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Program use over technical details",
+          "text_mn": "Техникийн нарийн ширийн зүйлсээс илүү програмын хэрэглээ",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text explicitly states that an operational overview \"emphasizes program use instead of technical details.\""
+        },
+        {
+          "id": "B",
+          "text_en": "Programming instructions",
+          "text_mn": "Програмчлалын заавар",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Operational overviews are not about programming instructions but about how to use the software."     
+        },
+        {
+          "id": "C",
+          "text_en": "Software development methods",
+          "text_mn": "Програм хангамж хөгжүүлэх аргууд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Operational overviews relate to software use, not the methods of its development."
+        },
+        {
+          "id": "D",
+          "text_en": "Technical specifications",
+          "text_mn": "Техникийн үзүүлэлтүүд",
+          "is_correct": false,
+          "source": "Page ??",
+          "explanation": "Operational overviews focus on use, not technical specifications."
+        }
+      ],
+      "concept": "Operational Overviews",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states that an operational overview \"emphasizes program use instead of technical details.\"",
+      "explanation_mn": "Анхан шатны агуулгад үйл ажиллагааны ерөнхий тойм нь \"техникийн нарийн ширийн зүйлсээс илүү програмын хэрэглээг онцолдог\" гэж тодорхой заасан.",
+      "question_number": 6,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What do data files provide to programs?",
+      "question_mn": "Дата файлууд нь программд юу олгодог вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Non-sequence information for analysis.",
+          "text_mn": "Дүн шинжилгээ хийхэд зориулсан дарааллын бус мэдээлэл.",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text states that programs require data files, which are 'nonsequence information... to analyze the sequences.'"
+        },
+        {
+          "id": "B",
+          "text_en": "Error logs for debugging.",
+          "text_mn": "Алдаа илрүүлэх зорилготой лог файлууд.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "While programs might generate logs, data files' primary purpose is not error logging."
+        },
+        {
+          "id": "C",
+          "text_en": "Sequence databases for storage.",
+          "text_mn": "Хадгалах дарааллын мэдээллийн сан.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Data files are used to analyze sequences from databases, but they are not the databases themselves; they are 'nonsequence information.'"
+        },
+        {
+          "id": "D",
+          "text_en": "Program code for execution.",
+          "text_mn": "Гүйцэтгэх програмын код.",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Data files contain data, not the executable program code itself."
+        }
+      ],
+      "concept": "Data Files (in software programs)",
+      "difficulty": "easy",
+      "explanation_en": "The text explicitly defines data files as 'nonsequence information, or data files, which they use to analyze the sequences.' This directly answers what data files provide to programs.",
+      "explanation_mn": "Текстэнд дата файлуудыг 'дарааллын бус мэдээлэл эсвэл дарааллуудад дүн шинжилгээ хийхэд ашигладаг дата файлууд' гэж тодорхойлсон байдаг. Энэ нь дата файлууд программд юу олгодогийг шууд харуулж байна.",
+      "question_number": 7,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Who can access default data files?",
+      "question_mn": "Анхдагч өгөгдлийн файлуудад хэн хандах боломжтой вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Only users with permissions",
+          "text_mn": "Зөвхөн тусгай зөвшөөрөлтэй хэрэглэгчид",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text indicates default files are 'public' and available to 'everyone' without mentioning special permissions."
+        },
+        {
+          "id": "B",
+          "text_en": "Only system administrators",
+          "text_mn": "Зөвхөн системийн администраторууд",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The text explicitly states these files are 'available to everyone who uses the Package,' not just administrators."
+        },
+        {
+          "id": "C",
+          "text_en": "Everyone who uses the Package",
+          "text_mn": "Багцыг ашигладаг хүн бүр",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "The text states that default files are 'available to everyone who uses the Package' and 'may be accessed by everyone who uses the Package.'"
+        },
+        {
+          "id": "D",
+          "text_en": "Only the file's creator",
+          "text_mn": "Зөвхөн файлын үүсгэгч",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Default files are pre-supplied and public, not created by individual users for exclusive access."    
+        }
+      ],
+      "concept": "Default Data Files",
+      "difficulty": "easy",
+      "explanation_en": "The primary context clearly states that default data files are 'public in that they are available to everyone who uses the Package' and 'may be accessed by everyone who uses the Package.'",
+      "explanation_mn": "Анхдагч өгөгдлийн файлууд нь 'багцыг ашигладаг хүн бүрт нээлттэй' бөгөөд 'багцыг ашигладаг хүн бүр нэвтрэх боломжтой' гэж үндсэн эх сурвалжид тодорхой заасан байна.",
+      "question_number": 8,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "Where are GCG alternative data files stored?",
+      "question_mn": "GCG-ийн нэмэлт өгөгдлийн файлууд хаана хадгалагддаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "The GenRunData directory",
+          "text_mn": "GenRunData директор",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "The GenRunData directory is where default data files are located, not alternative data files."       
+        },
+        {
+          "id": "B",
+          "text_en": "The sequence databases",
+          "text_mn": "Дарааллын мэдээллийн сангууд",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Sequence databases store nucleic acid or protein sequences, not alternative data files used by programs."
+        },
+        {
+          "id": "C",
+          "text_en": "The GenMoreData directory",
+          "text_mn": "GenMoreData директор",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "Alternative data files are located in the directory with the logical name GenMoreData."
+        },
+        {
+          "id": "D",
+          "text_en": "Your local directory",
+          "text_mn": "Таны локал директор",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Your local directory is for data files you create or copy and modify, known as local data files."    
+        }
+      ],
+      "concept": "Alternative Data Files",
+      "difficulty": "easy",
+      "explanation_en": "The text states that alternative data files are located in the directory with the logical name GenMoreData, providing a direct answer to their storage location.",
+      "explanation_mn": "Текстэнд нэмэлт өгөгдлийн файлууд нь GenMoreData логик нэртэй директор дотор байрладаг гэж шууд заасан байдаг.",
+      "question_number": 9,
+      "page_reference": "413-434"
+    },
+    {
+      "question_en": "What are local data files?",
+      "question_mn": "Орон нутгийн өгөгдлийн файлууд гэж юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Storing nucleic acid sequences",
+          "text_mn": "Нуклейн хүчлийн дараалал хадгалдаг",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "These are 'sequence files' or 'sequence databases', which are different from the 'data files' discussed, especially local data files."
+        },
+        {
+          "id": "B",
+          "text_en": "Public default program files",
+          "text_mn": "Програмын нийтийн анхдагч файлууд",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Default files are public and automatically used, not considered 'local' in the context of user modification."
+        },
+        {
+          "id": "C",
+          "text_en": "User-created or modified",
+          "text_mn": "Хэрэглэгчийн үүсгэсэн эсвэл өөрчилсөн",
+          "is_correct": true,
+          "source": "Page 384",
+          "explanation": "Local data files are explicitly defined as files you create yourself or copy and modify in your local directory."
+        },
+        {
+          "id": "D",
+          "text_en": "GCG-supplied alternative files",
+          "text_mn": "GCG-ээс нийлүүлсэн хувилбар файлууд",
+          "is_correct": false,
+          "source": "Page 384",
+          "explanation": "Alternative files are supplied by GCG and are public, distinct from user-created or modified local files."
+        }
+      ],
+      "concept": "Local Data Files",
+      "difficulty": "easy",
+      "explanation_en": "The text states: 'You also can create your own data files or copy a default or alternative public data file to your local directory and modify it. These files are known as local data files.' This clearly defines them as files created or modified by the user.",
+      "explanation_mn": "Текстэнд: 'Та өөрийн гэсэн өгөгдлийн файл үүсгэх эсвэл анхдагч буюу өөр нийтийн өгөгдлийн файлыг орон нутгийнхаа сан руу хуулж өөрчилж болно. Эдгээр файлуудыг орон нутгийн өгөгдлийн файлууд гэж нэрлэдэг' гэж заасан. Энэ нь эдгээрийг хэрэглэгчийн үүсгэсэн эсвэл өөрчилсөн файлууд гэж тодорхойлж байна.",
+      "question_number": 10,
+      "page_reference": "413-434"
+    }
+  ]
+}

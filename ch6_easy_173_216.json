@@ -1,0 +1,445 @@
+{
+  "total_generated": 10,
+  "mcqs": [
+    {
+      "question_en": "What is essential for producing quality documentation?",
+      "question_mn": "Чанартай баримт бичиг боловсруулахад юу зайлшгүй шаардлагатай вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Advanced software tools",
+          "text_mn": "Дэвшилтэт програм хангамжийн хэрэгсэл",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Advanced tools can aid in documentation, but they are not the fundamental key to producing quality documentation mentioned in the text."
+        },
+        {
+          "id": "B",
+          "text_en": "Extensive user testing",
+          "text_mn": "Өргөн хүрээний хэрэглэгчийн туршилт",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While user testing is a part of documentation development, the text identifies following a process as the overall key to quality."
+        },
+        {
+          "id": "C",
+          "text_en": "Following a process",
+          "text_mn": "Процесс дагах",
+          "is_correct": true,
+          "source": "Page 174",
+          "explanation": "The text states, \"The key to producing quality documentation is to follow a process.\""
+        },
+        {
+          "id": "D",
+          "text_en": "Detailed style guidelines",
+          "text_mn": "Нарийвчилсан хэв маягийн удирдамж",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Style guidelines contribute to consistency, but the overarching principle for quality documentation is following a process."
+        }
+      ],
+      "concept": "The importance of following a process for producing quality documentation.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, \"The key to producing quality documentation is to follow a process.\" This identifies following a process as the essential element for achieving quality.",
+      "explanation_mn": "Үндсэн контекстэд \"Чанартай баримт бичиг боловсруулахын гол түлхүүр нь үйл явцыг дагах явдал юм\" гэж тодорхой заасан. Энэ нь чанарт хүрэх гол элемент нь процессыг дагах явдал болохыг илэрхийлж байна.",
+      "question_number": 1,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "Which factors influence how documentation processes vary?",
+      "question_mn": "Баримтжуулалтын үйл явц хэрхэн өөрчлөгдөхөд ямар хүчин зүйлс нөлөөлдөг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Company size, budget constraints.",
+          "text_mn": "Компанийн хэмжээ, төсвийн хязгаарлалт.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "These are not explicitly mentioned as the primary factors for process variation in the given text."  
+        },
+        {
+          "id": "B",
+          "text_en": "Software development circumstances, user involvement.",
+          "text_mn": "Програм хангамж хөгжүүлэх нөхцөл байдал, хэрэглэгчийн оролцоо.",
+          "is_correct": true,
+          "source": "Page 174",
+          "explanation": "The text states processes vary depending on \"the circumstances of how software is developed\" and \"the degree of user involvement in\"."
+        },
+        {
+          "id": "C",
+          "text_en": "Technology utilized, documentation tools.",
+          "text_mn": "Ашигласан технологи, баримтжуулалтын хэрэгслүүд.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "While these are relevant to documentation, the text does not list them as factors that cause documentation *processes* to vary."
+        },
+        {
+          "id": "D",
+          "text_en": "Project deadlines, team member count.",
+          "text_mn": "Төслийн эцсийн хугацаа, багийн гишүүдийн тоо.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "These are general project management factors, but not specified in the text as causes for process variation."
+        }
+      ],
+      "concept": "Factors that cause documentation processes to vary (e.g., software development circumstances, user involvement).",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states, \"Processes vary, however, depending on the circumstances of how software is developed... Processes also differ depending on the degree of user involvement in.\" Thus, software development circumstances and user involvement are the key factors.",
+      "explanation_mn": "Үндсэн контекстэд \"Гэсэн хэдий ч процесс нь програм хангамжийг хэрхэн хөгжүүлж буй нөхцөл байдлаас хамаарч өөр өөр байдаг... Процесс нь хэрэглэгчийн оролцооны түвшингээс хамаарч ялгаатай байдаг\" гэж тодорхой заасан. Иймээс програм хангамж хөгжүүлэх нөхцөл байдал болон хэрэглэгчийн оролцоо нь гол хүчин зүйл болдог.",
+      "question_number": 2,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "Which of these is a phase in a documentation project?",
+      "question_mn": "Эдгээрийн аль нь баримт бичгийн төслийн үе шат вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Product marketing",
+          "text_mn": "Бүтээгдэхүүний маркетинг",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "B",
+          "text_en": "User analysis",
+          "text_mn": "Хэрэглэгчийн шинжилгээ",
+          "is_correct": true,
+          "source": "Page 174",
+          "explanation": "Figure 6.1, the 'Task List and Schedule for Developing a Documentation Project', lists tasks such as 'Prepare survey for users', 'Deliver surveys to users', and 'Get back survey from users', which are all part of the user analysis phase."
+        },
+        {
+          "id": "C",
+          "text_en": "Financial auditing",
+          "text_mn": "Санхүүгийн аудит",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        },
+        {
+          "id": "D",
+          "text_en": "Software coding",
+          "text_mn": "Програм хангамжийн кодчилол",
+          "is_correct": false,
+          "source": null,
+          "explanation": null
+        }
+      ],
+      "concept": "The nine phases of a documentation project (start, user analysis, design, planning, alpha draft, reviews/tests, revise/edit, final draft, field evaluation).",
+      "difficulty": "easy",
+      "explanation_en": "Figure 6.1, the 'Task List and Schedule for Developing a Documentation Project', clearly outlines several activities related to user interaction, such as preparing and delivering surveys to users and getting survey results back. These activities are core components of the user analysis phase within a documentation project.",
+      "explanation_mn": "Зураг 6.1 дэх 'Баримт бичгийн төсөл боловсруулах ажлын жагсаалт ба хуваарь'-т хэрэглэгчийн судалгаа бэлтгэх, хүргэх, судалгааны үр дүнг буцааж авах зэрэг хэрэглэгчтэй харилцах хэд хэдэн үйл ажиллагааг тодорхой дурдсан байдаг. Эдгээр үйл ажиллагаа нь баримт бичгийн төслийн хэрэглэгчийн шинжилгээний үе шатны гол бүрэлдэхүүн хэсгүүд юм.",
+      "question_number": 3,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "What key factor influences documentation processes?",
+      "question_mn": "Баримтжуулалтын үйл явцад нөлөөлөх гол хүчин зүйл юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "The software development schedule.",
+          "text_mn": "Програм хангамж хөгжүүлэх хуваарь.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "Хуваарь нь төслийн нэг хэсэг боловч баримтжуулалтын үйл явцын гол нөлөөлөгч хүчин зүйл гэж тодорхой дурдагдаагүй."
+        },
+        {
+          "id": "B",
+          "text_en": "The degree of user involvement.",
+          "text_mn": "Хэрэглэгчийн оролцооны түвшин.",
+          "is_correct": true,
+          "source": "Page 174",
+          "explanation": "Текстэнд баримтжуулалтын үйл явц нь 'хэрэглэгчийн оролцооны түвшнээс хамаарч ялгаатай байдаг' гэж заасан."
+        },
+        {
+          "id": "C",
+          "text_en": "The characteristics of the company.",
+          "text_mn": "Компанийн онцлог шинж чанарууд.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "Энэ нь програмчлалын үйл явцад нөлөөлдөг гэж дурдагдсан боловч баримтжуулалтын үйл явцад шууд нөлөөлөх гол хүчин зүйл биш юм."
+        },
+        {
+          "id": "D",
+          "text_en": "The experience of the writing group.",
+          "text_mn": "Бичиг баримт бүрдүүлэх багийн туршлага.",
+          "is_correct": false,
+          "source": "Page 174",
+          "explanation": "Бичиг баримт бүрдүүлэх багийн туршлага чухал боловч баримтжуулалтын үйл явцад нөлөөлөх хүчин зүйл гэж шууд дурдагдаагүй."
+        }
+      ],
+      "concept": "The principle that good documentation is user-centric, not software-centric.",
+      "difficulty": "easy",
+      "explanation_en": "The text states that documentation processes 'differ depending on the degree of user involvement,' highlighting its significance for effective documentation processes.",
+      "explanation_mn": "Текстэнд баримтжуулалтын үйл явц нь 'хэрэглэгчийн оролцооны түвшнээс хамаарч ялгаатай байдаг' гэж заасан нь үр дүнтэй баримтжуулалтын үйл явцад хэрэглэгчийн оролцоо чухал болохыг харуулж байна.",
+      "question_number": 4,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "What does a documentation project plan exemplify regarding development?",
+      "question_mn": "Баримтжуулалтын төслийн төлөвлөгөө нь хөгжүүлэлтийн талаар юуг жишээлдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Individual writer responsibilities.",
+          "text_mn": "Бие даасан зохиолчийн үүрэг хариуцлага.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While individual roles are part of the plan, the primary emphasis given is on the overall 'coordinated effort' of the 'development team', not solely individual responsibilities."
+        },
+        {
+          "id": "B",
+          "text_en": "Final user accessibility.",
+          "text_mn": "Эцсийн хэрэглэгчийн хүртээмж.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "User accessibility is a goal of the project (putting documents online for employees to access), but the plan primarily exemplifies the *process* and *arrangement* of development, not the outcome's accessibility."
+        },
+        {
+          "id": "C",
+          "text_en": "Varying programming methods.",
+          "text_mn": "Ялгаатай програмчлалын аргууд.",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The text generally mentions that programming processes vary, but the documentation project plan specifically illustrates the coordination within the documentation development process, not programming methods."
+        },
+        {
+          "id": "D",
+          "text_en": "A coordinated team effort.",
+          "text_mn": "Зохицуулалттай багийн хүчин чармайлт.",
+          "is_correct": true,
+          "source": "Page 173-174",
+          "explanation": "The text states, \"The plan shows how the members of the development team arranged the elements in the documentation process into a coordinated effort,\" directly illustrating teamwork."
+        }
+      ],
+      "concept": "The prevalence and importance of teams in modern software and documentation development.",
+      "difficulty": "easy",
+      "explanation_en": "The primary context explicitly states that a documentation project plan \"shows how the members of the development team arranged the elements in the documentation process into a coordinated effort,\" highlighting the collaborative nature of such projects.",
+      "explanation_mn": "Үндсэн контентэд баримтжуулалтын төслийн төлөвлөгөө нь \"хөгжүүлэлтийн багийн гишүүд баримтжуулалтын процессын элементүүдийг хэрхэн зохицуулалттайгаар зохион байгуулсныг харуулдаг\" гэж тодорхой заасан нь ийм төслүүдийн хамтын ажиллагааны мөн чанарыг онцолж байна.",
+      "question_number": 5,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "What is the writing group's main focus in a documentation project?",
+      "question_mn": "Баримтжуулалтын төсөлд бичих багийн гол анхаарал юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Coordinating the overall process.",
+          "text_mn": "Үйл явцыг ерөнхийд нь зохицуулах.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "This is described as the role of the 'development team,' not the 'writing group.'"
+        },
+        {
+          "id": "B",
+          "text_en": "Company publications.",
+          "text_mn": "Компанийн хэвлэлүүд.",
+          "is_correct": true,
+          "source": "Primary Context",
+          "explanation": "The text states the writing group's role is to 'gather and assemble style guidelines for company publications.'"
+        },
+        {
+          "id": "C",
+          "text_en": "Testing user documentation.",
+          "text_mn": "Хэрэглэгчийн баримт бичгийг турших.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "Testing is a specific task, often involving testers and users, and not the main focus of the 'writing group.'"
+        },
+        {
+          "id": "D",
+          "text_en": "Troubleshooting online documents.",
+          "text_mn": "Онлайн баримт бичгийг алдааг олж засах.",
+          "is_correct": false,
+          "source": "Primary Context",
+          "explanation": "Troubleshooting is a specific task within the process, not the primary focus of the entire 'writing group.'"
+        }
+      ],
+      "concept": "The distinction between Development Teams (cross-functional) and Writing Teams (publications-focused).",     
+      "difficulty": "easy",
+      "explanation_en": "The primary context distinguishes the 'writing group' as focusing on 'company publications' like style guidelines, while the 'development team' coordinates the broader 'documentation process'.",
+      "explanation_mn": "Үндсэн контекст нь 'бичих багийг' 'компанийн хэвлэлүүд'-д (жишээлбэл, загварын удирдамж) анхаарлаа хандуулдаг бол 'хөгжүүлэлтийн баг' нь өргөн хүрээний 'баримтжуулалтын үйл явц'-ыг зохицуулдаг гэж ялгадаг.",
+      "question_number": 6,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "Who is a member of the online documentation project team?",
+      "question_mn": "Онлайн баримтжуулалтын төслийн багийн гишүүн хэн бэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Database Administrator",
+          "text_mn": "Мэдээллийн сангийн админ",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "This role is not listed among the 'People Involved' in Figure 6.1."
+        },
+        {
+          "id": "B",
+          "text_en": "Marketing Specialist",
+          "text_mn": "Маркетингийн мэргэжилтэн",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "This role is not listed among the 'People Involved' in Figure 6.1."
+        },
+        {
+          "id": "C",
+          "text_en": "Writer",
+          "text_mn": "Зохиолч",
+          "is_correct": true,
+          "source": "Page 174",
+          "explanation": "Figure 6.1 explicitly lists 'W = Writer' as a core team member."
+        },
+        {
+          "id": "D",
+          "text_en": "Programmer",
+          "text_mn": "Программист",
+          "is_correct": false,
+          "source": "N/A",
+          "explanation": "This role is not listed among the 'People Involved' in Figure 6.1."
+        }
+      ],
+      "concept": "Characteristics and composition of a Development Team, including its varied professional backgrounds.",      
+      "difficulty": "easy",
+      "explanation_en": "Figure 6.1, 'Task List and Schedule for Developing a Documentation Project,' explicitly lists 'W = Writer' among the 'People Involved' in the ONRS documentation project. Other roles include Graphics/Interface Designer, Editor, Tester, Manager, and Client Contact, but not Programmer, Marketing Specialist, or Database Administrator.",
+      "explanation_mn": "Зураг 6.1, 'Баримтжуулалтын төсөл боловсруулах ажлын жагсаалт ба хуваарь' нь ONRS баримтжуулалтын төсөлд оролцсон хүмүүсийн дунд 'W = Зохиолч'-ийг тодорхой дурдсан байна. Бусад үүрэгт График/Интерфэйсийн дизайнер, Редактор, Тестер, Менежер, болон Үйлчлүүлэгчтэй холбоо баригч нар багтдаг боловч Программист, Маркетингийн мэргэжилтэн эсвэл Мэдээллийн сангийн админ нар байхгүй.",
+      "question_number": 7,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "Who performs the initial writing of a document?",
+      "question_mn": "Баримт бичгийн анхны бичилтийг хэн гүйцэтгэдэг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Writer",
+          "text_mn": "Зохиогч",
+          "is_correct": true,
+          "source": "Figure 6.1, Week 6, Task: Initial writing of document",
+          "explanation": "The schedule in Figure 6.1 indicates that 'W' (Writer) is responsible for the 'Initial writing of document'."
+        },
+        {
+          "id": "B",
+          "text_en": "Manager",
+          "text_mn": "Менежер",
+          "is_correct": false,
+          "source": "Figure 6.1",
+          "explanation": "The Manager's role ('M') involves oversight and coordination, but not the initial writing of the document."
+        },
+        {
+          "id": "C",
+          "text_en": "Editor",
+          "text_mn": "Редактор",
+          "is_correct": false,
+          "source": "Figure 6.1",
+          "explanation": "The Editor's role ('E') is to edit the document, not to perform its initial writing."
+        },
+        {
+          "id": "D",
+          "text_en": "Tester",
+          "text_mn": "Туршигч",
+          "is_correct": false,
+          "source": "Figure 6.1",
+          "explanation": "The Tester's role ('T') is to troubleshoot and test the document, not to write it."
+        }
+      ],
+      "concept": "Characteristics and composition of a Writing Team, focusing on writing, editing, and testing documents.",    
+      "difficulty": "easy",
+      "explanation_en": "According to Figure 6.1, the 'Tentative Schedule' clearly assigns the task 'Initial writing of document' to 'W', which stands for Writer.",
+      "explanation_mn": "Зураг 6.1 дэх 'Түр хуваарь'-ийн дагуу 'Баримт бичгийн анхны бичилт' даалгаврыг 'W' буюу Зохиогчид хуваарилсан байна.",
+      "question_number": 8,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "Which team member assigns tasks for user site visits and survey delivery?",
+      "question_mn": "Багийн аль гишүүн хэрэглэгчийн талбайг зочилж, судалгаа хүргэх ажлыг хуваарилдаг вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "Manager",
+          "text_mn": "Менежер",
+          "is_correct": true,
+          "source": "Figure 6.1, page 174",
+          "explanation": "Figure 6.1 indicates that the Manager (M) is responsible for assigning user site visits and survey delivery."
+        },
+        {
+          "id": "B",
+          "text_en": "Graphics/Interface Designer",
+          "text_mn": "График/Интерфэйс дизайнер",
+          "is_correct": false,
+          "source": "Figure 6.1, page 174",
+          "explanation": "Figure 6.1 indicates that the Manager (M) is responsible for assigning user site visits and survey delivery."
+        },
+        {
+          "id": "C",
+          "text_en": "Writer",
+          "text_mn": "Зохиогч",
+          "is_correct": false,
+          "source": "Figure 6.1, page 174",
+          "explanation": "Figure 6.1 indicates that the Manager (M) is responsible for assigning user site visits and survey delivery."
+        },
+        {
+          "id": "D",
+          "text_en": "Editor",
+          "text_mn": "Редактор",
+          "is_correct": false,
+          "source": "Figure 6.1, page 174",
+          "explanation": "Figure 6.1 indicates that the Manager (M) is responsible for assigning user site visits and survey delivery."
+        }
+      ],
+      "concept": "Key roles within a Development Team (Product Developer, Project Manager, Market/Systems Analyst) and their responsibilities.",
+      "difficulty": "easy",
+      "explanation_en": "Figure 6.1, 'Task List and Schedule for Developing a Documentation Project,' explicitly states under 'People Involved' and the 'Week' columns that the Manager (M) is responsible for assigning user site visits ('assigned by M, C') and survey delivery ('assigned by M').",
+      "explanation_mn": "Зураг 6.1 'Баримт бичгийн төсөл боловсруулах ажлын жагсаалт ба хуваарь'-т 'Оролцсон хүмүүс' болон 'Долоо хоног' гэсэн багануудад Менежер (M) нь хэрэглэгчийн талбайг зочилж ('М, C-ээр хуваарилагдсан') болон судалгаа хүргэх ('М-ээр хуваарилагдсан') ажлыг хариуцдаг гэж тодорхой заасан байна.",
+      "question_number": 9,
+      "page_reference": "203-246"
+    },
+    {
+      "question_en": "What is a primary purpose of a task list and schedule for a documentation project?",
+      "question_mn": "Баримтжуулалтын төслийн ажлын жагсаалт, хуваарийн үндсэн зорилго юу вэ?",
+      "choices": [
+        {
+          "id": "A",
+          "text_en": "To identify user preferences",
+          "text_mn": "Хэрэглэгчийн сонголтыг тодорхойлох",
+          "is_correct": false,
+          "source": null,
+          "explanation": "While user surveys are part of the process, the overall task list and schedule's primary purpose is broader coordination, not solely identifying user preferences."
+        },
+        {
+          "id": "B",
+          "text_en": "To assign specific roles",
+          "text_mn": "Тодорхой үүргийг хуваарилах",
+          "is_correct": false,
+          "source": null,
+          "explanation": "The schedule details who is involved, but its primary purpose is the coordination of all efforts over time, not just role assignment."
+        },
+        {
+          "id": "C",
+          "text_en": "To document software bugs",
+          "text_mn": "Програм хангамжийн алдааг баримтжуулах",
+          "is_correct": false,
+          "source": null,
+          "explanation": "Documenting software bugs is a separate activity, not the primary purpose of a task list and schedule for a documentation project."
+        },
+        {
+          "id": "D",
+          "text_en": "To coordinate development team efforts",
+          "text_mn": "Хөгжүүлэлтийн багийн хүчин чармайлтыг уялдуулах",
+          "is_correct": true,
+          "source": "Page 173",
+          "explanation": "Figure 6.1 shows how the plan arranges the elements of the documentation process into a coordinated effort by the development team."
+        }
+      ],
+      "concept": "The purpose and components of a task list and schedule in organizing a documentation project.",
+      "difficulty": "easy",
+      "explanation_en": "Figure 6.1 describes how the task list and schedule arrange documentation process elements into a coordinated effort by the development team.",
+      "explanation_mn": "Зураг 6.1-т ажлын жагсаалт болон хуваарь нь баримтжуулалтын үйл явцын элементүүдийг хөгжүүлэлтийн багийн зохицуулсан хүчин чармайлтаар хэрхэн зохион байгуулсныг харуулсан.",
+      "question_number": 10,
+      "page_reference": "203-246"
+    }
+  ]
+}
