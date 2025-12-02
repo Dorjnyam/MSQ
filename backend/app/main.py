@@ -12,9 +12,14 @@ def create_app() -> FastAPI:
     """Initialize FastAPI app with routers and middleware."""
     app = FastAPI(title=settings.APP_NAME, version=settings.APP_VERSION, debug=settings.DEBUG)
 
+    # Support multiple frontend URLs (for production deployment)
+    frontend_urls = [settings.FRONTEND_URL]
+    if settings.FRONTEND_URLS:
+        frontend_urls.extend([url.strip() for url in settings.FRONTEND_URLS.split(",") if url.strip()])
+    
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=[settings.FRONTEND_URL],
+        allow_origins=frontend_urls,
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],

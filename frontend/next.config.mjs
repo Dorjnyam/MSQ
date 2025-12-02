@@ -6,6 +6,8 @@ const nextConfig = {
       bodySizeLimit: "25mb",
     },
   },
+  // Vercel optimization
+  output: "standalone",
 };
 
 export default nextConfig;

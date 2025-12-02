@@ -22,6 +22,9 @@ class Settings(BaseSettings):
 
     FRONTEND_URL: str = "http://localhost:3000"
     BACKEND_URL: str = "http://localhost:8000"
+    
+    # Allow multiple frontend URLs (comma-separated for production)
+    FRONTEND_URLS: str = ""
 
     MAX_FILE_SIZE: int = 50
     ALLOWED_EXTENSIONS: str = "pdf"
